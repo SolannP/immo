@@ -37,7 +37,7 @@
  🟢 Courtière 
  🟢 SG
 
- ■ Financements du projet : offre de prêt 
+ ■ Financements du projet : offres de prêt 
  
  Attente de 12 jours 
  Puis 8 jours après rdv notaire
