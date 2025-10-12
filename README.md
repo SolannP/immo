@@ -16,7 +16,7 @@ Un Jalon (■/✅️) est constitué de tâches. Les Jalons se suivent par ordre
 
 
 - Lire revue Logement (figaro)
-🟢 mairie : sortie d'eau (pompe de relevage) -> Mail maire, SDEA, service tech SDEA saverne 3/10
+- 🟢 mairie : sortie d'eau (pompe de relevage) -> Mail maire, SDEA, service tech SDEA saverne 3/10
 - telecommande du garage 
 - 🔵 Sur le toit, devis solin (étanchéité de la cheminée en toiture) couvreur ou plombier zingueur (devis rapide avec bati toit 06 33 12 63 41, viens sur place)
      - Sol extérieur vers infiltration 
@@ -29,6 +29,9 @@ Un Jalon (■/✅️) est constitué de tâches. Les Jalons se suivent par ordre
 - discuter avec les voisins 
 - aller à Mr bricolage 
 - aller à Leroy Merlin 
+- aller à Hornbach (DE)
+- aller à bauhaus (DE)
+- aller chez les autres fournisseurs possible (cf liste google maps) 
 - 🟢 critères note DPE 
 - Union nationale des propriétaire immobilier 
 - prise de contacte ANIL
@@ -52,13 +55,13 @@ Un Jalon (■/✅️) est constitué de tâches. Les Jalons se suivent par ordre
  **Puis 8 jours après rdv notaire**.
 
 - Rdv Notaire pour le 24/10
-🟢 Notaire : demande pour facture matériel (nécéssite facturen mention qui a payé puis contractualisé ça)
+- 🟢 Notaire : demande pour facture matériel (nécéssite facturen mention qui a payé puis contractualisé ça)
+
  ■ Signature chez le notaire : acte de vente 
- 
  
 - 🟢 definir stratégie 5/10/15 ans
 - 🔵 calcule de ROI pour rentabiliser le bas avec AirBnB
- 
+
 - mettre Lave vaisselle 
 - Machine à laver : trouver la taille et le prix
 - Question : quand peut on faire quoi ?
@@ -66,13 +69,14 @@ Un Jalon (■/✅️) est constitué de tâches. Les Jalons se suivent par ordre
 - Observer à différents moment et météo, avec différents profils (expert et novice).
 - Récupérer carton pour déménager
 
-■ Demenagement 
+■ Déménagement 
 
 - Assurance habitation 
 - Eau
 - Électricité
+- Gaz
 
- ■ Installation 
+■ Installation 
  
 ■ Crémaillère 
 
@@ -137,11 +141,6 @@ Plus besoin de location pour financer les travaux : on transforme le bas pour l'
  - Salle de bains ?
  - Cuissine ?
 
-Lieux pour travaux en Allemagne :
-- Hornbach
-- bauhaus
-
-
 
 Idée en vrac :
 - VMC
@@ -152,9 +151,6 @@ Idée en vrac :
 - poulailler
 - piano pour la cuisine (cuisinière)
 - compteur/sonde pour connaître les consommations des éléments (elec,gaz,...)
-
-
-
 
 
 Attention, 100 000 de charge pour ravalement de façade..
@@ -186,7 +182,6 @@ https://maps.app.goo.gl/Ap4t8qW9aCL4kf8Y7
 Idée travaux
 
 Important : pas d'humidité et un bon chaufage 
-
 
 Pour la chambre, il y a cette problématique de tuyau. Il est possible d'utiliser un cache tuyau mais il ne sera pas possible de placer les meubles aux murs. On peut sinon mettre une cloison(voir une isolation intérieur) sur le mur.
 Pour cette grande pièce, des meubles sont à installer (voir un dessinng). Surtout qu'une pièce occupés avec des grands meubles est moins difficile à garder au chaud 
