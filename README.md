@@ -10,13 +10,10 @@ Un Jalon (■/✅️) est constitué de tâches. Les Jalons se suivent par ordre
 - ■ Jalon A
 ```
 
-# Mémo 
- Patience, observations et réflexions 
- Observer à différents moment et météo, avec différents profils (expert et novice).
- Prendre des notes, observations, ressenti subjectif.
- Faire son carnet de bord et noter ses idées,
- Plan, schéma, photos 
- 
+> **Patience, observations et réflexions**.  
+>  Prendre des notes, observations, ressenti subjectif.  
+>  Faire son carnet de bord et noter ses idées; Plan, schéma, photos.
+
 
 - Lire revue Logement (figaro)
 🟢 mairie : sortie d'eau (pompe de relevage) -> Mail maire, SDEA, service tech SDEA saverne 3/10
@@ -24,7 +21,10 @@ Un Jalon (■/✅️) est constitué de tâches. Les Jalons se suivent par ordre
 - 🔵 Sur le toit, devis solin (étanchéité de la cheminée en toiture) couvreur ou plombier zingueur (devis rapide avec bati toit 06 33 12 63 41, viens sur place)
      - Sol extérieur vers infiltration 
 - Réparation des fissures sur le murs (infiltration)
+
+
 ■ Compromis signée (notaire redige)
+
 
 - discuter avec les voisins 
 - aller à Mr bricolage 
@@ -59,40 +59,40 @@ Un Jalon (■/✅️) est constitué de tâches. Les Jalons se suivent par ordre
 - 🟢 definir stratégie 5/10/15 ans
 - 🔵 calcule de ROI pour rentabiliser le bas avec AirBnB
  
- - mettre Lave vaisselle 
+- mettre Lave vaisselle 
 - Machine à laver : trouver la taille et le prix
 - Question : quand peut on faire quoi ?
-- Ils ont ajouté bonne menuiserie 
 - pas fait peinture extérieur et mortier pas étanche : peinture étanche à faire
+- Observer à différents moment et météo, avec différents profils (expert et novice).
+- Récupérer carton pour déménager
 
-- Récupérer carton pour déménager 
 ■ Demenagement 
 
 - Assurance habitation 
 - Eau
-- Électricité 
+- Électricité
+
  ■ Installation 
  
-
 ■ Crémaillère 
-
-
-
 
  - alarme 
  - protection Julia et Robin
  - protection en cas de décès
 
 ------------------------------------------------------------------------------------
+
 # Vision sur 1 ans (2026/2027)
+
 - choisir parquets
 - choisir la peinture 
   - rouleau 
   - Bacs
   - pinceau finition 
   - Protection fenêtre/radiateur/...
-  - carton pour poubelle lors du nettoyage (tapisserie)
-- ■ Obtention des clées
+  - carton en tant que poubelle lors du nettoyage (tapisserie)
+  
+ ■ Obtention des clées
 
 - béton
 - sollin
