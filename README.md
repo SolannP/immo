@@ -1,6 +1,7 @@
 # immo
 
-====================================== https://www.lcl.fr/vous-avez-un-projet-immobilier/page-timeline-immobilier-primo-accedant
+====================================== 
+https://www.lcl.fr/vous-avez-un-projet-immobilier/page-timeline-immobilier-primo-accedant
   
  Patience, observations et réflexions 
  Observer à différents moment et météo, avec différents profils (expert et novice).
@@ -482,30 +483,7 @@ Pour ce qui est de l'enduit ciment utilisé sur la maison,  il aurait été mieu
 - allé demandé des informations au anciens propriétaire 
 
 ------------------------------------------------------------------------------------
-Les revenus mensuels moyens des bailleurs se situent entre 2 000 € et 4 700 €, selon la localisation et la période. Ces chiffres cachent des écarts importants liés à la saisonnalité et à la typologie des zones. En métropole, le taux d’occupation moyen varie généralement entre 60 % et 70 %.
 
-Dans les zones touristiques, ce taux fluctue fortement selon la saison, pouvant dépasser 80 % en haute saison et tomber sous les 40 % en basse saison.
-
-Air BnB Idéal pour les appartements urbains et les logements atypiques (tiny houses, lofts, etc.), grâce à son large public jeune et international à la recherche d’expériences uniques.
-Limitation de la durée de certaines nuits (180).
-
-Bookking Plus adapté aux hôtels traditionnels et chambres d’hôtes, avec une clientèle habituée à des séjours courts et des services hôteliers.
-
-Vrbo Performant pour les biens spacieux (c-a-d famille) dans des zones touristiques comme les bords de mer ou les montagnes.
-
-https://eldorado-immobilier.com/statistiques-sur-airbnb/
-https://www.jedeclaremonmeuble.com/rentabilite-airbnb/
-
-Air BnB à saverne : 
-- max 200e la nuit.
-03/10/25; 0; 10; 16-17-18-29; 11; 0; 12; 0; 1; 0; 2; 0; 3; 0; 4; 0; 5 ;0; 6; 0; 7; 0; 8; 0; 9; 0; 10; https://www.airbnb.fr/rooms/1216428966446762547?viralityEntryPoint=1&s=76&unique_share_id=a1029a1e-3b9c-4121-8480-79efcab2eec0
-
- - standard à 64e la nuit  
-03/10/25; 0; 10; 29-30 ; 11; 0; 12; 0; 1; NULL; 2; NULL; 3; NULL; 4; NULL; 5 ;NULL; 6; NULL; 7; NULL; 8; NULL; 9; NULL; 10;
-https://www.airbnb.fr/rooms/1042667416737224647?viralityEntryPoint=1&s=76&unique_share_id=ad722b58-0847-43e0-8ce2-c299f2ea9be2
-
-- rentable (pour 4) à 67e la nuit
-03/10/25; 3-4-5-6-7-8-9-10-11; 10; 29 ; 11; 4-5-6-13-14-15-16-17-18-19-20-21-22-23-28-29-30-31; 12; 1-2; 1; 0; 2; 0; 3; 0; 4; 0; 5 ;0; 6; 0; 7; 0; 8; 0; 9; 0; 10; https://www.airbnb.fr/rooms/1243543896707489193?viralityEntryPoint=1&s=76&unique_share_id=f9257a85-645e-4068-9e0b-cbc766783ad9
 ------------------------------------------------------------------------------------
 
 - piano pour la cuisine (cuisinière)
