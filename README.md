@@ -25,7 +25,7 @@ Un Jalon (■/✅️) est constitué de tâches. Les Jalons se suivent par ordre
 
 ■ Compromis signée (notaire redige)
 
-- imprimer les contraintes d'urbanisme
+- 🟢 imprimer les contraintes d'urbanisme
 - discuter avec les voisins 
 - aller à Mr bricolage 
 - aller à Leroy Merlin 
@@ -57,6 +57,7 @@ Un Jalon (■/✅️) est constitué de tâches. Les Jalons se suivent par ordre
 
 - Rdv Notaire pour le 24/10
 - 🟢 Notaire : demande pour facture matériel (nécéssite facturen mention qui a payé puis contractualisé ça)
+- Récupérer carton pour déménager
 
  ■ Signature chez le notaire : acte de vente 
  
@@ -68,7 +69,6 @@ Un Jalon (■/✅️) est constitué de tâches. Les Jalons se suivent par ordre
 - Question : quand peut on faire quoi ?
 - pas fait peinture extérieur et mortier pas étanche : peinture étanche à faire
 - Observer à différents moment et météo, avec différents profils (expert et novice).
-- Récupérer carton pour déménager
 
 ■ Déménagement 
 
