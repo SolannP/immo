@@ -39,7 +39,7 @@ Un Jalon (■/✅️) est constitué de tâches. Les Jalons se suivent par ordre
 - 🟢 Crédit Mutuelle 
 - 🟢 BNP
 - 🟢 LCL
-- 🟡 Caisse d'épargne(pas dispo/vacances)
+- 🟡 Caisse d'épargne(pas dispo/vacances), boursoBank (pas accès/info)
 - 🟢 Courtière 
 - 🟢 SG
 - 🟢 Banque postale (3.33)
