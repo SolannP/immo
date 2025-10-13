@@ -34,7 +34,7 @@ Un Jalon (■/✅️) est constitué de tâches. Les Jalons se suivent par ordre
 - aller chez les autres fournisseurs possible (cf liste google maps) 
 - 🟢 critères note DPE 
 - Union nationale des propriétaire immobilier 
-- prise de contacte ANIL
+- 🟢 ANIL, des outils/simulateur, dossiers techniques, question-réponse, revue de presse, documentation grand public.
 - 🟢 Fedexa, expert d'assuré (cf contact) 
 - 🟢 Crédit Mutuelle 
 - 🟢 BNP
@@ -85,9 +85,9 @@ Un Jalon (■/✅️) est constitué de tâches. Les Jalons se suivent par ordre
  - alarme 
  - protection Julia et Robin
  - protection en cas de décès
- - Fedexa, expert d'assuré : 
+ - Fedexa, expert d'assuré : Agit avant (estimation préalable) ou après le sinistre (dossier, pièce technique,...)
 ```
-ALEX expertise/Pierrot GERARD/29 Rue du Château/67380 LINGOLSHEIM/03 90 00 25 39 | 06 71 01 73 33/p.gerard@alexpertise.com. Agit avant (estimation préalable) ou après le sinistre (dossier, pièce technique,...)
+ALEX expertise/Pierrot GERARD/29 Rue du Château/67380 LINGOLSHEIM/03 90 00 25 39 | 06 71 01 73 33/p.gerard@alexpertise.com. 
 ```
 
 ------------------------------------------------------------------------------------
