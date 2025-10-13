@@ -107,6 +107,15 @@ AC2 (ou classe 22), qui est adaptée aux pièces domestiques d’usage moyen, te
 AC3 (ou classes 23 & 31), pour un usage élevé en environnement domestique (cuisine ou couloir) ou modéré en environnement commercial.
 AC4 (ou classe 32), pour les stratifiés d’usage commercial normal : petit commerce ou salle d’exposition.
 AC5 (ou classe 33), pour des applications commerciales avec exigences élevées : cuisine de restaurant ou salle de concert.
+
+Type de parquet :
+- massif
+- stratifié 
+- stratifié vitrifiée (retaper est simple !)
+
+Massif contient que le bois. Le stratifié est fait d'une seule couche de bois (en fonction de l'essence, vulnérable à l'humidité, idem pour le massif).
+Cette nature de couche fine pour le bois permet un résultat moins chers
+
 ------------------------------------------------------------------------------------
 Isolation 
 
