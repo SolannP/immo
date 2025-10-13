@@ -16,6 +16,8 @@ UFC Que choisir : Immobilier Évitez les galères ; 01/10/2025; Revue; On se ren
 Entretenir sa maison en dix leçons; 
 
 
+Les classement d'usage des parquets, pdf du web, https://nf-parquet.fr/wp-content/uploads/2019/11/2-Classement-dusage-Parquets-DBu.pdf
+
 ------------------------------------------------------------------------------------
 Entretenir sa maison (10 conseils)
 
@@ -75,6 +77,30 @@ Ressourcerie associative :
 https://www.cybergrange.eu/
 Ressourcerie :
 https://ressourcerie.fr/
+
+------------------------------------------------------------------------------------
+Les classement d'usage des parquets 
+
+Il existe différentes classes de dureté en fonction des essences (A,B,C,D). Les essences sont associés à des classes de parquet (22,22+,23,...) en fonction de l'épaisseur.
+
+Pour la classe d'usage des locaux type Domestique utilisation moyenne et élève,  c'est les classe 22,22+ et 23.
+
+Pour un bureau d'activité (pro), on va prendre du 32.
+
+plus la classe est élevé,  plus la résistance est présente 
+
+La classe A correspond à une dureté comprise entre 10 N/m? et 20 N/m?. Les essences de cette classe
+sont notamment et conventionnellement : épicéa, pin sylvestre, sapin et aulne.
+
+La classe B correspond à une dureté comprise entre 20 N/m² et 30 N/m². Les essences de cette classe
+sont notamment et conventionnellement : bouleau, bossé, teck, châtaignier, mélèze, merisier, noyer,pin maritime ou sipo.
+La classe C correspond à une dureté comprise entre 30 N/m? et 40 N/m?. Les essences de cette classe
+sont notamment et conventionnellement : afromorsia, chêne, doussié, érable, eucalyptus, frêne,
+guatambu, hêtre, iroko, makoré, moabi, movingui, orme, charme ou robinier (acacia).
+La classe D correspond à une dureté supérieure à 40 N/m?. Les essences de cette classe sont
+notamment et conventionnellement : angélique, cabreuva, cumaru, ipé, jatoba, merbau, sucupira ou
+wengé.
+
 
 ------------------------------------------------------------------------------------
 Isolation 
