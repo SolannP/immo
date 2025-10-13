@@ -25,7 +25,7 @@ Un Jalon (■/✅️) est constitué de tâches. Les Jalons se suivent par ordre
 
 ■ Compromis signée (notaire redige)
 
-
+- imprimer les contraintes d'urbanisme
 - discuter avec les voisins 
 - aller à Mr bricolage 
 - aller à Leroy Merlin 
