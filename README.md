@@ -42,7 +42,8 @@ Un Jalon (■/✅️) est constitué de tâches. Les Jalons se suivent par ordre
 - 🟡 Caisse d'épargne(pas dispo/vacances)
 - 🟢 Courtière 
 - 🟢 SG
-- 🟢 Banque postale 
+- 🟢 Banque postale (3.33)
+
 
 - 🟢 Demander versemment donation pour le 24/10 @Solann
 - 🟢 Crédit Mutuelle (Possible de prendre une autre assurance, réductions de l'assurance à 50% quotité, Demande de proposition pour un crédit)
