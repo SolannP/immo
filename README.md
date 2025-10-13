@@ -39,11 +39,11 @@ Un Jalon (■/✅️) est constitué de tâches. Les Jalons se suivent par ordre
 - 🟢 Crédit Mutuelle 
 - 🟢 BNP
 - 🟢 LCL
-- 🔵 Caisse d'épargne 
+- 🟡 Caisse d'épargne(pas dispo/vacances)
 - 🟢 Courtière 
 - 🟢 SG
 
-- Demandé versemment donation pour le 24/10 @Solann
+- 🟢 Demander versemment donation pour le 24/10 @Solann
 - 🟢 Crédit Mutuelle (Possible de prendre une autre assurance, réductions de l'assurance à 50% quotité, Demande de proposition pour un crédit)
 
 ■ Financements du projet : offres de prêt 
@@ -101,16 +101,18 @@ ALEX expertise/Pierrot GERARD/29 Rue du Château/67380 LINGOLSHEIM/03 90 00 25 3
   - pinceau finition 
   - Protection fenêtre/radiateur/...
   - carton en tant que poubelle lors du nettoyage (tapisserie)
+  - Rouleau de protection 
   
  ■ Obtention des clées
 
 - béton
-- sollin
+- solin
 - 1er : grande chambre, petit chambre, couloir, séjour (7j/h)
   - arracher la tapisserie
   - arracher la moquette
   - déchetterie
 3) Peinture
+  - protection fenêtre, porte, radiateur 
 4) Sols 
 5) plaintes/cache tuyau 
 6) Cuisine : plan de travail
