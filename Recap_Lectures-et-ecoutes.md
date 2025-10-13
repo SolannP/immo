@@ -113,7 +113,7 @@ Type de parquet :
 - stratifié 
 - stratifié vitrifiée (retaper est simple !)
 
-Massif contient que le bois. Le stratifié est fait d'une seule couche de bois (en fonction de l'essence, vulnérable à l'humidité, idem pour le massif).
+Massif contient que le bois. Le stratifié est fait d'une seule couche de bois (en fonction de l'essence, vulnérable à l'humidité, idem pour le massif, voir pnus sensible encore!).
 Cette nature de couche fine pour le bois permet un résultat moins chers
 
 ------------------------------------------------------------------------------------
