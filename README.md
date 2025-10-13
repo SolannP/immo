@@ -44,10 +44,7 @@ Un Jalon (■/✅️) est constitué de tâches. Les Jalons se suivent par ordre
 - 🟢 SG
 
 - Demandé versemment donation pour le 24/10 @Solann
-- Crédit Mutuelle
- - Possible de prendre une autre assurance (à quelle condition)
- - réductions de l'assurance à 50% quotité 
- - Demande de proposition pour un crédit
+- 🟢 Crédit Mutuelle (Possible de prendre une autre assurance, réductions de l'assurance à 50% quotité, Demande de proposition pour un crédit)
 
 ■ Financements du projet : offres de prêt 
  
@@ -75,6 +72,11 @@ Un Jalon (■/✅️) est constitué de tâches. Les Jalons se suivent par ordre
 - Eau
 - Électricité
 - Gaz
+- Smitcom
+- Relais courrier 
+- MàJ domiciliation
+   - banque
+   - telephone 
 
 ■ Installation 
  
