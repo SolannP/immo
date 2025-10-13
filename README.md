@@ -33,7 +33,7 @@ Un Jalon (■/✅️) est constitué de tâches. Les Jalons se suivent par ordre
 - aller à bauhaus (DE)
 - aller chez les autres fournisseurs possible (cf liste google maps) 
 - 🟢 critères note DPE 
-- Union nationale des propriétaire immobilier 
+- 🟢 Union Nationale des Propriétaire Immobilier : association avec aide/outils
 - 🟢 ANIL, des outils/simulateur, dossiers techniques, question-réponse, revue de presse, documentation grand public.
 - 🟢 Fedexa, expert d'assuré (cf contact) 
 - 🟢 Crédit Mutuelle 
