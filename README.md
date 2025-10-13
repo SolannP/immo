@@ -44,7 +44,9 @@ Un Jalon (■/✅️) est constitué de tâches. Les Jalons se suivent par ordre
 - 🟢 SG
 - 🟢 Banque postale (3.33)
 
-
+- 2 devis peinture 
+- 2 devis solin
+- 2 devis étanchéité 
 - 🟢 Demander versemment donation pour le 24/10 @Solann
 - 🟢 Crédit Mutuelle (Possible de prendre une autre assurance, réductions de l'assurance à 50% quotité, Demande de proposition pour un crédit)
 
