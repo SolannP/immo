@@ -101,7 +101,12 @@ La classe D correspond à une dureté supérieure à 40 N/m?. Les essences de ce
 notamment et conventionnellement : angélique, cabreuva, cumaru, ipé, jatoba, merbau, sucupira ou
 wengé.
 
-
+Équivalente stratifié 
+AC1 (équivalent à la classe 21 de la norme NF EN Iso 10874), qui convient pour les zones de faible passage en environnement domestique : une chambre, par exemple.
+AC2 (ou classe 22), qui est adaptée aux pièces domestiques d’usage moyen, telles une salle à manger, une salle de bains ou une chambre d’enfant.
+AC3 (ou classes 23 & 31), pour un usage élevé en environnement domestique (cuisine ou couloir) ou modéré en environnement commercial.
+AC4 (ou classe 32), pour les stratifiés d’usage commercial normal : petit commerce ou salle d’exposition.
+AC5 (ou classe 33), pour des applications commerciales avec exigences élevées : cuisine de restaurant ou salle de concert.
 ------------------------------------------------------------------------------------
 Isolation 
 
