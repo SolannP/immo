@@ -50,7 +50,9 @@ Les maladies des gouttières, chéneau, descente :
  - déplacement ou rupture 
 
 Certaine intervention sur le toit nécéssite des échelles de toit : des crochet et L sur le faîtage ou sur les pannes intermédiaire permetant l'acces. A défaut, c'est un échafaudage spécial et une échelle qui se déplace latéralement.
-(Se renseigner au près de la compagnie d'assurance avant de faire quoi que ce soit)
+(Se renseigner au près de la compagnie d'assurance avant de faire quoi que ce soit).
+
+En cas de désordres sur les ouvertures (encadrementet et menuiserie/ferronnerie), on doit trouver l'origine (vers l'ouverture et ailleurs dans la construction). 
 
 
 ------------------------------------------------------------------------------------
