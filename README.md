@@ -17,6 +17,7 @@ Un Jalon (■/✅️) est constitué de tâches. Les Jalons se suivent par ordre
 
 - Lire revue Logement (figaro)
 - confirmer à SD couverture le vendredi 14h, sdc5wanado@outlook.fr
+- check Schneider couverture pour créneau vendredi ou à 15h
 - Check les collègues de cb couverture (Olderbar jean François a yeter willer
 Ou Blaise Daniel a Kauswiller)
 - 🟢 mairie : sortie d'eau (pompe de relevage) -> Mail maire, SDEA, service tech SDEA saverne 3/10
