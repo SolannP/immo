@@ -34,7 +34,24 @@ Un grand principe de l'entretien de la charpente est de veiller à une bonne ven
 Diag charpente : 1.000e
 Traitement de la charpente dans des cas extrême : 4.000.
 
-Possible de traiter tout les ans ou deux ans le bois avec des produits 
+Possible de traiter tout les ans ou deux ans le bois avec des produits.
+
+Le raccordement de la maçonnerie de la cheminée (le solin) est à surveiller.
+
+Pour les gouttières, il est conseillé de vérifier plusieurs fois par ans (automne et fin de l'hiver)
+
+Pour des usage de récupération (arrosage ou consommations), certaines régions on des gouttière en pierre/Bourgogne, bois/Dauphiné ou terre cuite/Languedoc. Les gouttière date du milieu 19ème siècle. Avant, le toit était prolongé par un coyau, qui lançait l'eau loin du mur (sur le drainage)
+
+Un chéneau est une gouttières posé sur la maçonnerie. Gros risque de fuite.
+
+Les maladies des gouttières, chéneau, descente :
+ - engorgement (obstrué)
+ - percement (troué à cause de la rouille)
+ - déplacement ou rupture 
+
+Certaine intervention sur le toit nécéssite des échelles de toit : des crochet et L sur le faîtage ou sur les pannes intermédiaire permetant l'acces. A défaut, c'est un échafaudage spécial et une échelle qui se déplace latéralement.
+(Se renseigner au près de la compagnie d'assurance avant de faire quoi que ce soit)
+
 
 ------------------------------------------------------------------------------------
 Résilience 
