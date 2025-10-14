@@ -13,7 +13,7 @@ La maison résiliente; 01/01/2022; 978-2-35981-160-5; Très alarmiste et un peu 
 
 UFC Que choisir : Immobilier Évitez les galères ; 01/10/2025; Revue; On se rend comptes des grosses surprises lors du neuf, sur plan et autres.  
 
-Entretenir sa maison en dix leçons; 
+Entretenir sa maison en dix leçons; 2007; 978-2-212-12085-1; Très intéressant, plein de bon conseil généraux 
 
 
 Les classement d'usage des parquets, pdf du web, https://nf-parquet.fr/wp-content/uploads/2019/11/2-Classement-dusage-Parquets-DBu.pdf
