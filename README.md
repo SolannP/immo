@@ -16,6 +16,9 @@ Un Jalon (■/✅️) est constitué de tâches. Les Jalons se suivent par ordre
 
 
 - Lire revue Logement (figaro)
+- confirmer à SD couverture le vendredi 14h, sdc5wanado@outlook.fr
+- Check les collègues de cb couverture (Olderbar jean François a yeter willer
+Ou Blaise Daniel a Kauswiller)
 - 🟢 mairie : sortie d'eau (pompe de relevage) -> Mail maire, SDEA, service tech SDEA saverne 3/10
 - telecommande du garage 
 - 🔵 Sur le toit, devis solin (étanchéité de la cheminée en toiture) couvreur ou plombier zingueur (devis rapide avec bati toit 06 33 12 63 41, viens sur place)
