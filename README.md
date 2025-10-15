@@ -55,6 +55,7 @@ Ou Blaise Daniel a Kauswiller)
 - 🔵 2 devis solin
 - 2 devis étanchéité 
 - 🟢 Demander versemment donation pour le 24/10 @Solann
+- Vérifier un ragreage, plénitude et jonction en vue de la pause du planché 
 - 🟢 Crédit Mutuelle (Possible de prendre une autre assurance, réductions de l'assurance à 50% quotité, Demande de proposition pour un crédit)
 
 ■ Financements du projet : offres de prêt 
