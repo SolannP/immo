@@ -36,9 +36,9 @@ Ou Blaise Daniel a Kauswiller)
 - aller à Hornbach (DE)
 - aller à bauhaus (DE)
 - aller chez les autres fournisseurs possible (cf liste google maps) 
-- Banque populaire 
-- CIC 
-- Banque postale 
+- Banque populaire 03 54 22 10 00,  site hs
+- CIC 03 88 49 97 21, mail envoyé 
+- Banque postale ??? (pas OK de faire en emprunt ?!)
 - 🟢 critères note DPE 
 - 🟢 Union Nationale des Propriétaire Immobilier : association avec aide/outils
 - 🟢 ANIL, des outils/simulateur, dossiers techniques, question-réponse, revue de presse, documentation grand public.
