@@ -1,7 +1,7 @@
 # Historique et remarques sur des choix
 
 
-## Recap - 27/09/2025.  
+## Recap - 27/09/2025
 
 Le plafond sous la salle de bain du 1er est recouvert par du bois. Impossible de constater l'état sous jacent. À voir lorsque nous allons retaper ça.
 On pense que les anciens propriétaire était un peu limite sur le prix. Certaine choses ont été faites au meilleur ratio prix/qualité, comme le sollin sans finition ou enduit sans peinture.
