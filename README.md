@@ -49,7 +49,7 @@ Ou Blaise Daniel a Kauswiller)
 - 🟡 Caisse d'épargne(pas dispo/vacances), boursoBank (pas accès/info)
 - 🟢 Courtière 
 - 🟢 SG
-- 🟢 Banque postale (3.33)
+- 🟢 Banque postale (3.33.. 3.73 .. icredit)
 
 - 2 devis peinture 
 - 🔵 2 devis solin
