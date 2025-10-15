@@ -63,6 +63,7 @@ Ou Blaise Daniel a Kauswiller)
  **Puis 8 jours après rdv notaire**.
 
 - Rdv Notaire pour le 24/10
+- fin octobre lancement départ de Gottenhouse 
 - 🟢 Notaire : demande pour facture matériel (nécéssite facturen mention qui a payé puis contractualisé ça)
 - Récupérer carton pour déménager
 
