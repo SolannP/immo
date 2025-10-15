@@ -107,6 +107,19 @@ ALEX expertise/Pierrot GERARD/29 Rue du Château/67380 LINGOLSHEIM/03 90 00 25 3
 # Vision sur 1 ans (2026/2027)
 
 - choisir parquets
+  - Un couteau de peintre
+  - Une règle de maçon
+  - Aspirateur 
+  - Niveau à bulle
+  - cales de dilatation 
+  - Équerre 
+  - meilleur scie sauteuse 
+ (- scie circulaire)
+  - cales de frappe (bois pour amortir marteau)
+  - tire lame (U en metal)
+  - sous couche 
+  - Scotch dédiée 
+  - Table de sciage universelle
 - choisir le type de plainte 
 - choisir la peinture 
   - rouleau 
