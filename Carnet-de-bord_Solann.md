@@ -1,5 +1,8 @@
 # Historique et remarques sur des choix
 
+
+## Recap - 27/09/2025.  
+
 Le plafond sous la salle de bain du 1er est recouvert par du bois. Impossible de constater l'état sous jacent. À voir lorsque nous allons retaper ça.
 On pense que les anciens propriétaire était un peu limite sur le prix. Certaine choses ont été faites au meilleur ratio prix/qualité, comme le sollin sans finition ou enduit sans peinture.
 
@@ -12,3 +15,13 @@ Pour les combles, c'est bien que les anciens propriétaire ai installé l'isolat
 Le mur côté nord est fendu à la base et a crée les problèmes d'humidité. Par sécurité, on ne va pas creuser pour mettre un drainage au risque de déstabiliser les fondations de la maison. On va uniquement refaire la dalle.
 
 Pour ce qui est de l'enduit ciment utilisé sur la maison,  il aurait été mieux d'avoir un enduit à la chaux pour du bati ancien. Le mal est fait on va voir pour la suite.
+
+
+## Recap 15/10/2025
+
+Nous avons lancé des demandes de devis. 
+Certains artisans sont capables d’estimer l'état du toit sans même voir le toit, incroyable ! On va quand même faire venir d'autres artisans.
+
+Il y aurait aussi, peut-être, l'étanchéité de la partie jardin à refaire selon des artisans. À suivre.
+
+Pour les banques, on est étonné du service client. Pas idéal dans de nombreux cas. On a eu que deux pistes intéressantes.
