@@ -25,3 +25,7 @@ Certains artisans sont capables d’estimer l'état du toit sans même voir le t
 Il y aurait aussi, peut-être, l'étanchéité de la partie jardin à refaire selon des artisans. À suivre.
 
 Pour les banques, on est étonné du service client. Pas idéal dans de nombreux cas. On a eu que deux pistes intéressantes.
+
+On va à priori changer le solin des que possible, faire du temporaire le temps de passer l'hiver pour le contour de la maison, faire nous même l'intérieur (mur et sol). On va demander à Papa de l'aide pour la cuisine. On va attendre plus tard dans l'année pour la salle de bain (avec David).
+
+Il y a la question de la composition de l'entre étage : qu'est ce qu'il y a sous la moquette et comment ça tient ?
