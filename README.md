@@ -16,6 +16,7 @@ Un Jalon (■/✅️) est constitué de tâches. Les Jalons se suivent par ordre
 
 
 - Lire revue Logement (figaro)
+- Vérifier plénitude du 1er (et composition)
 - 🟢 confirmer à SD couverture le vendredi 14h, sdc5wanado@outlook.fr (via page jaune, mail hs)
 - 🟢 check Schneider couverture pour créneau vendredi ou à 15h
 - Check les collègues de cb couverture (Olderbar jean François a yeter willer
@@ -50,13 +51,15 @@ Ou Blaise Daniel a Kauswiller)
 - 🟢 Courtière 
 - 🟢 SG
 - 🟢 Banque postale (3.33.. 3.73 .. icredit)
+- 🟢 Crédit Mutuelle (Possible de prendre une autre assurance, réductions de l'assurance à 50% quotité, Demande de proposition pour un crédit)
 
 - 2 devis peinture 
 - 🔵 2 devis solin
 - 2 devis étanchéité 
 - 🟢 Demander versemment donation pour le 24/10 @Solann
+
 - Vérifier un ragreage, plénitude et jonction en vue de la pause du planché 
-- 🟢 Crédit Mutuelle (Possible de prendre une autre assurance, réductions de l'assurance à 50% quotité, Demande de proposition pour un crédit)
+- Acheter une règle à niveau de maçon
 
 ■ Financements du projet : offres de prêt 
  
