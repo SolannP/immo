@@ -107,6 +107,7 @@ ALEX expertise/Pierrot GERARD/29 Rue du Château/67380 LINGOLSHEIM/03 90 00 25 3
 # Vision sur 1 ans (2026/2027)
 
 - choisir parquets
+- choisir le type de plainte 
 - choisir la peinture 
   - rouleau 
   - Bacs
@@ -126,6 +127,7 @@ ALEX expertise/Pierrot GERARD/29 Rue du Château/67380 LINGOLSHEIM/03 90 00 25 3
 3) Peinture
   - protection fenêtre, porte, radiateur 
 4) Sols 
+4bis) Plaintes (plus tard)
 5) plaintes/cache tuyau 
 6) Cuisine : plan de travail
 7) Cuisine : Lavabo
