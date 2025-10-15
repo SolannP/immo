@@ -16,8 +16,8 @@ Un Jalon (■/✅️) est constitué de tâches. Les Jalons se suivent par ordre
 
 
 - Lire revue Logement (figaro)
-- confirmer à SD couverture le vendredi 14h, sdc5wanado@outlook.fr
-- check Schneider couverture pour créneau vendredi ou à 15h
+- 🟢 confirmer à SD couverture le vendredi 14h, sdc5wanado@outlook.fr
+- 🟢 check Schneider couverture pour créneau vendredi ou à 15h
 - Check les collègues de cb couverture (Olderbar jean François a yeter willer
 Ou Blaise Daniel a Kauswiller)
 - 🟢 mairie : sortie d'eau (pompe de relevage) -> Mail maire, SDEA, service tech SDEA saverne 3/10
@@ -36,9 +36,9 @@ Ou Blaise Daniel a Kauswiller)
 - aller à Hornbach (DE)
 - aller à bauhaus (DE)
 - aller chez les autres fournisseurs possible (cf liste google maps) 
-- Banque populaire 03 54 22 10 00,  site hs
-- CIC 03 88 49 97 21, mail envoyé 
-- Banque postale ??? (pas OK de faire en emprunt ?!)
+- 🔵 Banque populaire 03 54 22 10 00,  site hs
+- 🔵 CIC 03 88 49 97 21, mail envoyé 
+- 🟡 Banque postale ??? (pas OK de faire en emprunt ?!)
 - 🟢 critères note DPE 
 - 🟢 Union Nationale des Propriétaire Immobilier : association avec aide/outils
 - 🟢 ANIL, des outils/simulateur, dossiers techniques, question-réponse, revue de presse, documentation grand public.
@@ -52,7 +52,7 @@ Ou Blaise Daniel a Kauswiller)
 - 🟢 Banque postale (3.33)
 
 - 2 devis peinture 
-- 2 devis solin
+- 🔵 2 devis solin
 - 2 devis étanchéité 
 - 🟢 Demander versemment donation pour le 24/10 @Solann
 - 🟢 Crédit Mutuelle (Possible de prendre une autre assurance, réductions de l'assurance à 50% quotité, Demande de proposition pour un crédit)
@@ -76,9 +76,7 @@ Ou Blaise Daniel a Kauswiller)
 - Machine à laver : trouver la taille et le prix
 - Question : quand peut on faire quoi ?
 - pas fait peinture extérieur et mortier pas étanche : peinture étanche à faire
-- Observer à différents moment et météo, avec différents profils (expert et novice).
-
-■ Déménagement 
+- Observer à différents moment et météo, avec différents profils (expert et novice). 
 
 - Assurance habitation 
 - Eau
@@ -89,6 +87,7 @@ Ou Blaise Daniel a Kauswiller)
 - MàJ domiciliation
    - banque
    - telephone 
+■ Déménagement
 
 ■ Installation 
  
