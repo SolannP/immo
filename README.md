@@ -36,6 +36,9 @@ Ou Blaise Daniel a Kauswiller)
 - aller à Hornbach (DE)
 - aller à bauhaus (DE)
 - aller chez les autres fournisseurs possible (cf liste google maps) 
+- Banque populaire 
+- CIC 
+- Banque postale 
 - 🟢 critères note DPE 
 - 🟢 Union Nationale des Propriétaire Immobilier : association avec aide/outils
 - 🟢 ANIL, des outils/simulateur, dossiers techniques, question-réponse, revue de presse, documentation grand public.
