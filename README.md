@@ -16,7 +16,7 @@ Un Jalon (■/✅️) est constitué de tâches. Les Jalons se suivent par ordre
 
 
 - Lire revue Logement (figaro)
-- Vérifier plénitude du 1er (et composition)
+- Vérifier plénitude du 1er (et composition) et plafond 
 - 🟢 confirmer à SD couverture le vendredi 14h, sdc5wanado@outlook.fr (via page jaune, mail hs)
 - 🟢 check Schneider couverture pour créneau vendredi ou à 15h
 - Check les collègues de cb couverture (Olderbar jean François a yeter willer
@@ -140,6 +140,7 @@ ALEX expertise/Pierrot GERARD/29 Rue du Château/67380 LINGOLSHEIM/03 90 00 25 3
   - arracher la tapisserie
   - arracher la moquette
   - déchetterie
+  - plafond ?
 3) Peinture
   - protection fenêtre, porte, radiateur 
 4) Sols 
