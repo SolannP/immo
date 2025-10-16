@@ -212,3 +212,12 @@ Maison de l'Eau et de la Nature Parc Naturel Régional des Vosges du
 Nord 2A, rue du Château 67290 La Petite Pierre
 
 ------------------------------------------------------------------------------------
+Réussir ses sols
+
+Il est importantde de déposer 48h avant le stratifié dans la pièce pour qu'il s'adapte à l'humidité des lieux.
+
+
+------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------
+
