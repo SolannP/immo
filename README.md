@@ -126,7 +126,7 @@ ALEX expertise/Pierrot GERARD/29 Rue du Château/67380 LINGOLSHEIM/03 90 00 25 3
   - Scotch dédiée 
   - Table de sciage universelle
 - choisir le type de plainte 
-- choisir la peinture 
+- choisir la peinture (mieux humide : mat)
   - rouleau 
   - Bacs
   - pinceau finition 
