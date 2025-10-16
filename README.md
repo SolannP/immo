@@ -17,19 +17,12 @@ Un Jalon (■/✅️) est constitué de tâches. Les Jalons se suivent par ordre
 
 - Lire revue Logement (figaro)
 - Vérifier plénitude du 1er (et composition) et plafond 
-- 🟢 confirmer à SD couverture le vendredi 14h, sdc5wanado@outlook.fr (via page jaune, mail hs)
-- 🟢 check Schneider couverture pour créneau vendredi ou à 15h
-- 🟢 Check les collègues de cb couverture : Blaise Daniel a Kauswiller
-- 🟢 mairie : sortie d'eau (pompe de relevage) -> Mail maire, SDEA, service tech SDEA saverne 3/10
 - telecommande du garage 
-- 🟢 Sur le toit, devis solin (étanchéité de la cheminée en toiture) couvreur ou plombier zingueur (devis rapide avec bati toit 06 33 12 63 41, viens sur place)
-     - Sol extérieur vers infiltration 
 - Réparation des fissures sur le murs (infiltration)
 
+- Vérifier un ragreage, plénitude et jonction en vue de la pause du planché 
+- Acheter une règle à niveau de maçon
 
-■ Compromis signée (notaire redige)
-
-- 🟢 imprimer les contraintes d'urbanisme
 - discuter avec les voisins 
 - aller à Mr bricolage 
 - aller à Leroy Merlin 
@@ -37,8 +30,8 @@ Un Jalon (■/✅️) est constitué de tâches. Les Jalons se suivent par ordre
 - aller à bauhaus (DE)
 - aller chez les autres fournisseurs possible (cf liste google maps) 
 - 🔵 Banque populaire 03 54 22 10 00,  site hs
-- 🔵 CIC 03 88 49 97 21, mail envoyé 
-- 🟡 Banque postale ??? (pas OK de faire en emprunt ?!)
+- 🟢 CIC 03 88 49 97 21, mail envoyé 
+- 🟢 Banque postale ??? (pas OK de faire en emprunt ?!)
 - 🟢 critères note DPE 
 - 🟢 Union Nationale des Propriétaire Immobilier : association avec aide/outils
 - 🟢 ANIL, des outils/simulateur, dossiers techniques, question-réponse, revue de presse, documentation grand public.
@@ -56,9 +49,6 @@ Un Jalon (■/✅️) est constitué de tâches. Les Jalons se suivent par ordre
 - 🔵 2 devis solin
 - 2 devis étanchéité 
 - 🟢 Demander versemment donation pour le 24/10 @Solann
-
-- Vérifier un ragreage, plénitude et jonction en vue de la pause du planché 
-- Acheter une règle à niveau de maçon
 
 ■ Financements du projet : offres de prêt 
  
@@ -80,7 +70,7 @@ Un Jalon (■/✅️) est constitué de tâches. Les Jalons se suivent par ordre
 - Question : quand peut on faire quoi ?
 - pas fait peinture extérieur et mortier pas étanche : peinture étanche à faire
 - Observer à différents moment et météo, avec différents profils (expert et novice). 
-
+- Mettre en carton les affaires (30/10)
 - Assurance habitation 
 - Eau
 - Électricité
@@ -90,6 +80,7 @@ Un Jalon (■/✅️) est constitué de tâches. Les Jalons se suivent par ordre
 - MàJ domiciliation
    - banque
    - telephone 
+
 ■ Déménagement
 
 ■ Installation 
@@ -239,4 +230,19 @@ Les murs enlever la tapisserie, avec des difficultés sur les zones les portes, 
 Enduit puis peinture.
 
 Sol peut nécessite ragreage. Puis différentes couches pour parquet 
+
+
+# Archive 
+
+- 🟢 confirmer à SD couverture le vendredi 14h, sdc5wanado@outlook.fr (via page jaune, mail hs)
+- 🟢 check Schneider couverture pour créneau vendredi ou à 15h
+- 🟢 Check les collègues de cb couverture : Blaise Daniel a Kauswiller
+- 🟢 mairie : sortie d'eau (pompe de relevage) -> Mail maire, SDEA, service tech SDEA saverne 3/10
+- 🟢 Sur le toit, devis solin (étanchéité de la cheminée en toiture) couvreur ou plombier zingueur (devis rapide avec bati toit 06 33 12 63 41, viens sur place)
+- 🟢 imprimer les contraintes d'urbanisme
+✅️ Compromis signée (notaire redige) 12/10
+
+
+
+
 
