@@ -19,11 +19,10 @@ Un Jalon (■/✅️) est constitué de tâches. Les Jalons se suivent par ordre
 - Vérifier plénitude du 1er (et composition) et plafond 
 - 🟢 confirmer à SD couverture le vendredi 14h, sdc5wanado@outlook.fr (via page jaune, mail hs)
 - 🟢 check Schneider couverture pour créneau vendredi ou à 15h
-- Check les collègues de cb couverture (Olderbar jean François a yeter willer
-Ou Blaise Daniel a Kauswiller)
+- 🟢 Check les collègues de cb couverture : Blaise Daniel a Kauswiller
 - 🟢 mairie : sortie d'eau (pompe de relevage) -> Mail maire, SDEA, service tech SDEA saverne 3/10
 - telecommande du garage 
-- 🔵 Sur le toit, devis solin (étanchéité de la cheminée en toiture) couvreur ou plombier zingueur (devis rapide avec bati toit 06 33 12 63 41, viens sur place)
+- 🟢 Sur le toit, devis solin (étanchéité de la cheminée en toiture) couvreur ou plombier zingueur (devis rapide avec bati toit 06 33 12 63 41, viens sur place)
      - Sol extérieur vers infiltration 
 - Réparation des fissures sur le murs (infiltration)
 
