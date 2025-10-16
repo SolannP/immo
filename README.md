@@ -83,7 +83,8 @@ Un Jalon (■/✅️) est constitué de tâches. Les Jalons se suivent par ordre
    - telephone 
    - mutuelle 
    - travail 
-- Installation des capteurs humidité/température
+- Installation des capteurs humidité/température 
+
 ■ Déménagement
 
 ■ Installation 
