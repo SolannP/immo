@@ -133,7 +133,14 @@ ALEX expertise/Pierrot GERARD/29 Rue du Château/67380 LINGOLSHEIM/03 90 00 25 3
   - Protection fenêtre/radiateur/...
   - carton en tant que poubelle lors du nettoyage (tapisserie)
   - Rouleau de protection 
-  
+
+- préparer le ragreage 
+  - definir le lissage par zone en incluant parquets 
+  - type de ragreage (fibre ou standard)
+  - rouleau à bulle 
+  - grand seau pour produit ragreage 
+  - grand seau d'eau
+
  ■ Obtention des clées
 
 - béton
@@ -144,9 +151,10 @@ ALEX expertise/Pierrot GERARD/29 Rue du Château/67380 LINGOLSHEIM/03 90 00 25 3
   - déchetterie
   - plafond ?
 3) Peinture
-  - protection fenêtre, porte, radiateur 
-4) Sols 
-4bis) Plaintes (plus tard)
+  - protection fenêtre, porte, radiateur. 
+4b) Ragreage. 
+4) Sols. 
+4#) Plaintes (plus tard)  
 5) plaintes/cache tuyau 
 6) Cuisine : plan de travail
 7) Cuisine : Lavabo
