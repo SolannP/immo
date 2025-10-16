@@ -26,10 +26,17 @@ Un Jalon (■/✅️) est constitué de tâches. Les Jalons se suivent par ordre
 - lire lettre recommandée 
 - discuter avec les voisins 
 - aller à Mr bricolage 
-- aller à Leroy Merlin 
+- aller à Leroy Merlin (Mundolsheim)
+- aller à Castorama (Mundolsheim)
 - aller à Hornbach (DE)
 - aller à bauhaus (DE)
+- ATOO DESIGN (Molsheim)
+- Les Matériaux Siehr (Marlenheim)
+- GEDIMAT - BRICO PRO WEISS (Wasselone)
+- 🟢 MILDECOR Peintures & Revêtements (Otterswiller)
+- Socobri (Otterwiller)
 - aller chez les autres fournisseurs possible (cf liste google maps) 
+
 - 🔵 Banque populaire 03 54 22 10 00,  site hs
 - 🟢 CIC 03 88 49 97 21, mail envoyé 
 - 🟢 Banque postale ??? (pas OK de faire en emprunt ?!)
