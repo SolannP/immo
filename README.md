@@ -23,6 +23,7 @@ Un Jalon (■/✅️) est constitué de tâches. Les Jalons se suivent par ordre
 - Vérifier un ragreage, plénitude et jonction en vue de la pause du planché 
 - Acheter une règle à niveau de maçon
 
+- lire lettre recommandée 
 - discuter avec les voisins 
 - aller à Mr bricolage 
 - aller à Leroy Merlin 
