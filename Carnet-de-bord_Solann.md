@@ -29,3 +29,8 @@ Pour les banques, on est étonné du service client. Pas idéal dans de nombreux
 On va à priori changer le solin des que possible, faire du temporaire le temps de passer l'hiver pour le contour de la maison, faire nous même l'intérieur (mur et sol). On va demander à Papa de l'aide pour la cuisine. On va attendre plus tard dans l'année pour la salle de bain (avec David).
 
 Il y a la question de la composition de l'entre étage : qu'est ce qu'il y a sous la moquette et comment ça tient ?
+
+## Recap 16/10
+
+À date, il y a qu'un seul endroit où nous avons constaté de la moisissure sur le coin du plafond : au 1er, mur nord, la petite chambre. Certainement le combo pont thermique et air sans mouvement. 
+Il vient quelques idées pour résoudre ça : trouver un moyen de brasser l'air, installer une VMC/entrée d'air a cette endroit, placer une plante pour jouer sur l'humidité.
