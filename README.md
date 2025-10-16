@@ -81,6 +81,8 @@ Un Jalon (■/✅️) est constitué de tâches. Les Jalons se suivent par ordre
 - MàJ domiciliation
    - banque
    - telephone 
+   - mutuelle 
+   - travail 
 - Installation des capteurs humidité/température
 ■ Déménagement
 
