@@ -18,6 +18,8 @@ Entretenir sa maison en dix leçons; 2007; 978-2-212-12085-1; Très intéressant
 
 Les classement d'usage des parquets, pdf du web, https://nf-parquet.fr/wp-content/uploads/2019/11/2-Classement-dusage-Parquets-DBu.pdf
 
+Tuto ragreage autorisant, YouTube, https://youtu.be/LB6-yZFV4tc
+
 ------------------------------------------------------------------------------------
 Entretenir sa maison (10 conseils)
 
@@ -218,6 +220,16 @@ Il est importantde de déposer 48h avant le stratifié dans la pièce pour qu'il
 
 
 ------------------------------------------------------------------------------------
+Tuto ragreage 
+
+Plusieurs type de ragreage. Le ragreage "fibre" est bien sur les sols qui bouge (bois).
+
+Le rouleau à bulle permet de lisser et est très utilisé.
+
+toute les info de l'auto lissant sont sur l'emballage.
 
 ------------------------------------------------------------------------------------
 
+------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------
