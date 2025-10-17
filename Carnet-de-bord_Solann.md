@@ -34,3 +34,8 @@ Il y a la question de la composition de l'entre étage : qu'est ce qu'il y a sou
 
 À date, il y a qu'un seul endroit où nous avons constaté de la moisissure sur le coin du plafond : au 1er, mur nord, la petite chambre. Certainement le combo pont thermique et air sans mouvement. 
 Il vient quelques idées pour résoudre ça : trouver un moyen de brasser l'air, installer une VMC/entrée d'air a cette endroit, placer une plante pour jouer sur l'humidité.
+
+## Recap 17/10
+
+Il existe de nombreux "motifs" de parquet (française, anglais, point hongrois,...). Anglaise à point perdu sur des grandes latte me semble mieux (effet aléatoire des jonction)
+Pour ce qui est du type, c'est vrai que le contre collé est plus agréable que le stratifié lorsque l'on marche dessus.
