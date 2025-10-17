@@ -62,6 +62,10 @@ Un Jalon (■/✅️) est constitué de tâches. Les Jalons se suivent par ordre
   - 🔵 Suhner Entreprise de Construction
   - 🔵 VA BTP
   - Esteves
+  - CONSTRUCTION KINTZELMANN
+  - SARL AKSU
+  - Construction Romao
+  - DAG Sarl
 
 - 🟢 Demander versemment donation pour le 24/10 @Solann
 
