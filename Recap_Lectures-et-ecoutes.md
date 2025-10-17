@@ -18,6 +18,8 @@ Entretenir sa maison en dix leçons; 2007; 978-2-212-12085-1; Très intéressant
 
 Les classement d'usage des parquets, pdf du web, https://nf-parquet.fr/wp-content/uploads/2019/11/2-Classement-dusage-Parquets-DBu.pdf
 
+Astuces parquets,  web, https://www.systemed.fr/parquet/pose-regles-a-connaitre-et-a-respecter,4727.html
+
 Tuto ragreage autorisant, YouTube, https://youtu.be/LB6-yZFV4tc
 
 ------------------------------------------------------------------------------------
@@ -218,6 +220,16 @@ Réussir ses sols
 
 Il est importantde de déposer 48h avant le stratifié dans la pièce pour qu'il s'adapte à l'humidité des lieux.
 
+
+Les professionnels recommandent de veiller au taux d’hygrométrie des pièces : il doit en effet se situer entre 40 et 65 %
+
+La température ambiante idéale pour le chantier est de 15 à 20 °C
+
+Le bois subit des variations dimensionnelles qui entraînent la dilatation du parquet. Il est donc impératif de prévoir des joints de 8 mm (jusqu’à 10 mm pour les lames de grande largeur) 
+
+Vérifier les equerrage (des murs et autres) pour bien être à 90° des murs.
+
+Il faut prévoir des joints périphériques de 5 à 8/10 mm pour tout type de pose.
 
 ------------------------------------------------------------------------------------
 Tuto ragreage 
