@@ -28,6 +28,7 @@ Un Jalon (■/✅️) est constitué de tâches. Les Jalons se suivent par ordre
 - aller à Mr bricolage 
 - aller à Leroy Merlin (Mundolsheim)
 - aller à Castorama (Mundolsheim)
+- Saint Maclou (Lampersheim)
 - aller à Hornbach (DE)
 - aller à bauhaus (DE)
 - ATOO DESIGN (Molsheim)
