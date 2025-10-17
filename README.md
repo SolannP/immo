@@ -55,7 +55,14 @@ Un Jalon (■/✅️) est constitué de tâches. Les Jalons se suivent par ordre
 
 - 2 devis peinture 
 - 🔵 2 devis solin
-- 2 devis étanchéité 
+  - 🟡 Tradi toiture (arnaque)
+  - 🔵 Schneider couverture
+  - 🔵 SD Couverture
+- 🔵 2 devis étanchéité 
+  - 🔵 Suhner Entreprise de Construction
+  - 🔵 VA BTP
+  - Esteves
+
 - 🟢 Demander versemment donation pour le 24/10 @Solann
 
 ■ Financements du projet : offres de prêt 
@@ -232,6 +239,22 @@ Pour rénovation énergie, label d'entreprise : Qualibat, Qualifelec, Eco Artisa
 Mildecor
 https://maps.app.goo.gl/Ap4t8qW9aCL4kf8Y7
 ------------------------------------------------------------------------------------
+Bonjour,
+
+Nous aimerions acquérir pour 2026 un bien immobilier à l'adresse suivante : 11 Rue du maréchal Foch, 67700 Saverne : une maison de 1800.
+
+Dans les actions à traiter rapidement, il est nécessaire de refaire le tour de maison, particulièrement sur le côté nord. La dale est fragmenté à certains endroits ce qui entraîne (a priori) de l'humidité dans la maison.
+
+Est ce qu'il serait possible de nous faire un devis ?
+
+Disponible pour en discuter.
+ 
+Bonne fin de semaine, 
+Cordialement,
+
+M.PUYGRENIER Solann
+------------------------------------------------------------------------------------
+
 Idée travaux
 
 Important : pas d'humidité et un bon chaufage 
