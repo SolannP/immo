@@ -14,7 +14,7 @@ Un Jalon (■/✅️) est constitué de tâches. Les Jalons se suivent par ordre
 >  Prendre des notes, observations, ressenti subjectif.  
 >  Faire son carnet de bord et noter ses idées; Plan, schéma, photos.
 
-
+ - déterminer si le mur est avec peinture (spritch)
 - Lire revue Logement (figaro)
 - Vérifier plénitude du 1er (et composition) et plafond 
 - telecommande du garage 
