@@ -23,7 +23,7 @@ Un Jalon (■/✅️) est constitué de tâches. Les Jalons se suivent par ordre
 - Vérifier un ragreage, plénitude et jonction en vue de la pause du planché 
 - Acheter une règle à niveau de maçon
 
-- lire lettre recommandée 
+- 🟢 lire lettre recommandée 
 - discuter avec les voisins 
 - aller à Mr bricolage 
 - aller à Leroy Merlin (Mundolsheim)
@@ -65,7 +65,7 @@ Un Jalon (■/✅️) est constitué de tâches. Les Jalons se suivent par ordre
 
 - Rdv Notaire pour le 24/10
 - fin octobre lancement départ de Gottenhouse 
-- 🟢 Notaire : demande pour facture matériel (nécéssite facturen mention qui a payé puis contractualisé ça)
+- 🟢 Notaire : demande pour facture matériel (nécéssite facture et mention qui a payé puis contractualisé ça)
 - Récupérer carton pour déménager
 - Trouver des capteurs d'humiditéd/températures
  ■ Signature chez le notaire : acte de vente 
@@ -133,6 +133,7 @@ ALEX expertise/Pierrot GERARD/29 Rue du Château/67380 LINGOLSHEIM/03 90 00 25 3
   - Protection fenêtre/radiateur/...
   - carton en tant que poubelle lors du nettoyage (tapisserie)
   - Rouleau de protection 
+  - Ponceuse rotative 
 
 - préparer le ragreage 
   - definir le lissage par zone en incluant parquets 
