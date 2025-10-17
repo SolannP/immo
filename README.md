@@ -90,7 +90,9 @@ Un Jalon (■/✅️) est constitué de tâches. Les Jalons se suivent par ordre
    - banque
    - telephone 
    - mutuelle 
+   - Amelie
    - travail 
+   - impot 
 - Installation des capteurs humidité/température 
 
 ■ Déménagement
