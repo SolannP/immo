@@ -15,12 +15,13 @@ UFC Que choisir : Immobilier Évitez les galères ; 01/10/2025; Revue; On se ren
 
 Entretenir sa maison en dix leçons; 2007; 978-2-212-12085-1; Très intéressant, plein de bon conseil généraux 
 
-
 Les classement d'usage des parquets, pdf du web, https://nf-parquet.fr/wp-content/uploads/2019/11/2-Classement-dusage-Parquets-DBu.pdf
 
 Astuces parquets,  web, https://www.systemed.fr/parquet/pose-regles-a-connaitre-et-a-respecter,4727.html
 
 Tuto ragreage autorisant, YouTube, https://youtu.be/LB6-yZFV4tc
+
+System D; L'essentiel du bricolage ; ??/??/????; Revue
 
 ------------------------------------------------------------------------------------
 Entretenir sa maison (10 conseils)
@@ -241,7 +242,11 @@ Le rouleau à bulle permet de lisser et est très utilisé.
 toute les info de l'auto lissant sont sur l'emballage.
 
 ------------------------------------------------------------------------------------
+L'essentiel du bricolage 
 
+Les fissures qui doivent alerter sont celle :
+- en bas ou haut du mur, le long des arêtes (plaintes, angles des murs)
+- le long des mortiers 
 ------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------------------
