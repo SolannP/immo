@@ -38,6 +38,7 @@ Un Jalon (■/✅️) est constitué de tâches. Les Jalons se suivent par ordre
 - Socobri (Otterwiller)
 - aller chez les autres fournisseurs possible (cf liste google maps) 
 
+- Hypothèque ou cautionnement ? prix ?
 - 🔵 Banque populaire 03 54 22 10 00,  site hs
 - 🟢 CIC 03 88 49 97 21, mail envoyé 
 - 🟢 Banque postale ??? (pas OK de faire en emprunt ?!)
