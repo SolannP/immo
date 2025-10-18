@@ -126,6 +126,8 @@ ALEX expertise/Pierrot GERARD/29 Rue du Château/67380 LINGOLSHEIM/03 90 00 25 3
 # Vision sur 1 ans (2026/2027)
 
 - choisir parquets
+  - 🔵 Niveau laser (~23/10)
+  - 🔵 Métré laser (~23/10)
   - Un couteau de peintre
   - Une règle de maçon
   - Aspirateur 
@@ -141,6 +143,8 @@ ALEX expertise/Pierrot GERARD/29 Rue du Château/67380 LINGOLSHEIM/03 90 00 25 3
   - Table de sciage universelle
 - choisir le type de plainte 
 - choisir la peinture (mieux humide : mat)
+  - 🔵 thermomètre/hygrométrie x4 (~29/10)
+  - 🔵 hygrometre matiere (~26/10)
   - rouleau 
   - Bacs
   - pinceau finition 
