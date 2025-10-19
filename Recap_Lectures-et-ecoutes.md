@@ -247,6 +247,18 @@ L'essentiel du bricolage
 Les fissures qui doivent alerter sont celle :
 - en bas ou haut du mur, le long des arêtes (plaintes, angles des murs)
 - le long des mortiers 
+
+Important de couper (carrelage, parquet) pour que la coupe ne se voit pas depuis l'entrée de la pièce (faire en sorte que les coupes soient deriere la porte ou l'angle mort). 
+
+Pour le carrelage, on respecte un axe (horizontal ou vertical,au sol ou au mur) et on avance depuis cette axe (lavabo, pilier, ...)
+
+Il y a deux nombreuses subtilité pour la pose du carrelage, avec des tasseaux servant à soutenir,  aligné préparer la pause. Une pause doit vraiment êtres réfléchie.
+
+Il peut y avoir 20% de perte pour une forme en chevron. 10% pour du droit.
+
+La différence de planeite doit être de 2mm avec une règle de 2m. Dans le cas contraire un ragreage peut s'imposer..
+
+3% est le taux d'humidité du support.
 ------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------------------
