@@ -39,3 +39,16 @@ Il vient quelques idées pour résoudre ça : trouver un moyen de brasser l'air,
 
 Il existe de nombreux "motifs" de parquet (française, anglais, point hongrois,...). Anglaise à point perdu sur des grandes latte me semble mieux (effet aléatoire des jonction)
 Pour ce qui est du type, c'est vrai que le contre collé est plus agréable que le stratifié lorsque l'on marche dessus.
+
+## Recap 18/10
+
+Visite des magasins (Saint Maclou, Leroy Melrin). Il existe des mauvais parquets en bois massif. Certains contre collé ressemblent à des stratifiés.  Il existe des bons stratifiés. Le lino s'appelle le vinyle maintenant. 
+La sous couche à son importance.
+Le ressenti sur du contre collé était, à plusieurs reprises, très agréable. 
+On n'aimeras trop les motifs de parquet. L'essence chaîne claire naturelle était bien.
+Parquet en bâton rompue et Hongrois peuvent faire un effet bizarre mais on aime bien le style : plutôt pour un couloir ?
+
+Saint Maclou était bien pour le stratifié.
+
+Les portes peuvent être très coûteuse 
+
