@@ -27,9 +27,9 @@ Un Jalon (■/✅️) est constitué de tâches. Les Jalons se suivent par ordre
 - 🟢 lire lettre recommandée 
 - discuter avec les voisins 
 - aller à Mr bricolage 
-- aller à Leroy Merlin (Mundolsheim)
+- 🟢 aller à Leroy Merlin (Mundolsheim)
 - aller à Castorama (Mundolsheim)
-- Saint Maclou (Lampersheim)
+- 🟢 Saint Maclou (Lampersheim)
 - aller à Hornbach (DE)
 - aller à bauhaus (DE)
 - ATOO DESIGN (Molsheim)
