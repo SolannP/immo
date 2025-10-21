@@ -69,8 +69,11 @@ Un Jalon (■/✅️) est constitué de tâches. Les Jalons se suivent par ordre
   - 🔵 SARL AKSU
   - Construction Romao
   - DAG Sarl
+  - 🔵 ATILLA 
 
 - 🟢 Demander versemment donation pour le 24/10 @Solann
+- 🔵 Redaction contrat de pret familial @Julia 
+- Versement du pret avant le 03/11/2025
 
 ■ Financements du projet : offres de prêt 
  
@@ -163,7 +166,7 @@ ALEX expertise/Pierrot GERARD/29 Rue du Château/67380 LINGOLSHEIM/03 90 00 25 3
   - grand seau d'eau
   - enduit de ciment pour le trou (si besoin)
 
- ■ Obtention des clées
+ ■ Obtention des clés
 
 - béton
 - solin
@@ -196,7 +199,7 @@ Check des coût chauffage/gaz
 Vérifier avec un expert l'humidité avant avoir retaper l'extérieur.
 Voir pour isolation extérieur.
 Question des tuyaux apparent : peut on les cacher ? Via isolation intérieur ?
-Chauffage au gaz : peut on ajouter un poelle à pellet ?
+Chauffage au gaz : peut on ajouter un poele à pellet ?
 
 ## 5 ans (2030)
 Le haut est fait et le bas est partiellement fait. Pour le rdc, la restauration de la chambre et faites en tirant sur les prix au max ou en utilisant du matériel que l'on peut récupérer (ex: parquets que l'on peut détacher). On peut ainsi rentabiliser des que possible. Idem pour la salle de bain : on rafraîchi les lieux.
@@ -206,12 +209,10 @@ Plus besoin de location pour financer les travaux : on transforme le bas pour l'
 
 
 À priori, les travaux ne valorisent pas de la même manière un bien. Certains coût ne valent pas une valorisation équivalente.
- - Class énergie ?
- - Salle de bains ?
- - Comble aménagée ?
- - Salle de bains ?
- - Cuissine ?
-
+ - Classe énergie / DPE 
+ - Comble aménagée 
+ - Salle de bains 
+ - Cuisine 
 
 Idée en vrac :
 - VMC
@@ -222,7 +223,10 @@ Idée en vrac :
 - poulailler
 - piano pour la cuisine (cuisinière)
 - compteur/sonde pour connaître les consommations des éléments (elec,gaz,...)
-
+- ouverture sur le jardin 
+- Terrasse en bois
+- Marquise a mettre au dessus de la porte 
+https://cdn.manomano.com/pim-dam-img/4579/18351463/1040aff4fdc2814744cb76c28a5a33f71b5bf443.pdf
 
 Attention, 100 000 de charge pour ravalement de façade..
 Existence d'un arrêté préfectoral : Le ravalement doit être réalisé au moins 1 fois tous les 10 ans.
@@ -230,7 +234,7 @@ Existence d'un arrêté préfectoral : Le ravalement doit être réalisé au moi
 ------------------------------------------------------------------------------------
 Drainage 
 - Qu'est ce que nous avons actuellement ? 
-- Quand date le dernier ?
+- De quand date le dernier ?
 
 Risque :
 
@@ -271,24 +275,35 @@ Idée travaux
 Important : pas d'humidité et un bon chaufage 
 
 Pour la chambre, il y a cette problématique de tuyau. Il est possible d'utiliser un cache tuyau mais il ne sera pas possible de placer les meubles aux murs. On peut sinon mettre une cloison(voir une isolation intérieur) sur le mur.
-Pour cette grande pièce, des meubles sont à installer (voir un dessinng). Surtout qu'une pièce occupés avec des grands meubles est moins difficile à garder au chaud 
+Pour cette grande pièce, des meubles sont à installer (voir un dressing). Surtout qu'une pièce occupés avec des grands meubles est moins difficile à garder au chaud 
 
 1) cache tuyau /plainte 
 https://ca.pinterest.com/pin/111745634492044008/
 https://ca.pinterest.com/pin/111745634492044076/
 
-2) Poelle à bois
+2) Poele à bois ou a pellets 
 https://ca.pinterest.com/pin/351912466595380/
 
 Grand lavabo et profond (noir) pour cuisine 
 Pas noir pour la sdb pour nettoyage 
-Grand tirroire pour cuisine 
+Grands tiroirs pour cuisine 
 
 Les murs enlever la tapisserie, avec des difficultés sur les zones les portes, tuyau, chauffage, plafond. 
 Enduit puis peinture.
 
 Sol peut nécessite ragreage. Puis différentes couches pour parquet 
 
+------------------------------------
+🛠️🪑Idees meubles a retaper 
+- Grande table a manger 
+- Chaises 
+- Buffet (pour la salle a manger) 
+- Table de nuit pour Solann 
+- Sieges en tissu (si les vendeurs les laissent)
+- Table basse 
+- Bahut 
+- Portes 1er etage 
+- Armoire pour une des chambres ? 
 
 # Archive 
 
