@@ -64,7 +64,7 @@ Un Jalon (■/✅️) est constitué de tâches. Les Jalons se suivent par ordre
 - 🔵 2 devis étanchéité 
   - 🔵 Suhner Entreprise de Construction
   - 🔵 VA BTP
-  - 🔵 Esteves
+  - 🔵 Esteves (rdv 24/10)
   - 🔵 CONSTRUCTION KINTZELMANN
   - 🔵 SARL AKSU
   - Construction Romao
