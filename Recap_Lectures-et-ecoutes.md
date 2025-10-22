@@ -23,6 +23,7 @@ Tuto ragreage autorisant, YouTube, https://youtu.be/LB6-yZFV4tc
 
 System D; L'essentiel du bricolage ; ??/??/????; Revue
 
+Pdf Web Parquet GPT
 ------------------------------------------------------------------------------------
 Entretenir sa maison (10 conseils)
 
@@ -259,6 +260,15 @@ Il peut y avoir 20% de perte pour une forme en chevron. 10% pour du droit.
 La différence de planeite doit être de 2mm avec une règle de 2m. Dans le cas contraire un ragreage peut s'imposer..
 
 3% est le taux d'humidité du support.
+------------------------------------------------------------------------------------
+
+Pour les plainte, on peut les coller ou visser. 
+Couper à 45° pour la jonction.
+Feutre sous les mobiliers et tapis la ou il y a des roulettes.
+Il y a la sous couche et par pluie 
+
+------------------------------------------------------------------------------------
+
 ------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------------------
