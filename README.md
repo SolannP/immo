@@ -84,7 +84,8 @@ Un Jalon (■/✅️) est constitué de tâches. Les Jalons se suivent par ordre
 - fin octobre lancement départ de Gottenhouse 
 - 🟢 Notaire : demande pour facture matériel (nécéssite facture et mention qui a payé puis contractualisé ça)
 - Récupérer carton pour déménager
-- Trouver des capteurs d'humiditéd/températures
+- Trouver des capteurs d'humiditéd/températures. 
+
  ■ Signature chez le notaire : acte de vente 
  
 - 🟢 definir stratégie 5/10/15 ans
