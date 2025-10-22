@@ -63,7 +63,7 @@ Un Jalon (■/✅️) est constitué de tâches. Les Jalons se suivent par ordre
   - 🔵 SD Couverture (devis+photo le 30/10) relance le 22/10.
 - 🔵 2 devis étanchéité 
   - 🔵 Suhner Entreprise de Construction
-  - 🔵 VA BTP
+  - 🔴 VA BTP (Hors périmètre)
   - 🔵 Esteves (rdv 24/10)
   - 🔵 CONSTRUCTION KINTZELMANN
   - 🔵 SARL AKSU
