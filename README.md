@@ -65,7 +65,7 @@ Un Jalon (■/✅️) est constitué de tâches. Les Jalons se suivent par ordre
   - 🔵 Suhner Entreprise de Construction (mail le 22/10)
   - 🔴 VA BTP (Hors périmètre)
   - 🔵 Esteves (rdv 24/10)
-  - 🔵 CONSTRUCTION KINTZELMANN
+  - 🔵 CONSTRUCTION KINTZELMANN (relance le 22/10)
   - 🔴 SARL AKSU (relancer le 22/10)
   - Construction Romao
   - DAG Sarl
