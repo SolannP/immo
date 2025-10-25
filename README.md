@@ -107,6 +107,7 @@ Un Jalon (■/✅️) est constitué de tâches. Les Jalons se suivent par ordre
 - Smitcom
 - Internet 
 - Relais courrier 
+- Adresse carte grise
 - MàJ domiciliation
    - banque
    - telephone 
