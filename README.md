@@ -23,6 +23,7 @@ Un Jalon (■/✅️) est constitué de tâches. Les Jalons se suivent par ordre
 - Vérifier un ragreage, plénitude et jonction en vue de la pause du planché (2mm avec règle de 1m)
 - check 3% est le taux d'humidité du support.
 - Acheter une règle à niveau de maçon
+- Acheter des contrôleur de fissures 
 
 - 🟢 lire lettre recommandée 
 - discuter avec les voisins 
