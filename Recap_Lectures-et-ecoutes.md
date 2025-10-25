@@ -25,6 +25,8 @@ System D; L'essentiel du bricolage ; ??/??/????; Revue
 
 Pdf Web Parquet GPT
 
+Gain de place plus de 100 astuces , 2011, 978-2-7072-0641-1; plutôt vieux livre avec 1 ou deux idées bien 
+
 ------------------------------------------------------------------------------------
 Entretenir sa maison (10 conseils)
 
@@ -267,6 +269,13 @@ Pour les plainte, on peut les coller ou visser.
 Couper à 45° pour la jonction.
 Feutre sous les mobiliers et tapis la ou il y a des roulettes.
 Il y a la sous couche et par pluie 
+
+------------------------------------------------------------------------------------
+Gain de place plus de 100 astuces
+
+garde corps en tant que bibliothèque est une bonne idée 
+
+------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------------------
 
