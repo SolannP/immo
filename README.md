@@ -34,7 +34,7 @@ Un Jalon (■/✅️) est constitué de tâches. Les Jalons se suivent par ordre
 - aller à bauhaus (DE)
 - ATOO DESIGN (Molsheim)
 - Les Matériaux Siehr (Marlenheim)
-- GEDIMAT - BRICO PRO WEISS (Wasselone)
+- 🟢 GEDIMAT - BRICO PRO WEISS (Wasselone)
 - 🟢 MILDECOR Peintures & Revêtements (Otterswiller)
 - Socobri (Otterwiller)
 - aller chez les autres fournisseurs possible (cf liste google maps) 
@@ -86,8 +86,9 @@ Un Jalon (■/✅️) est constitué de tâches. Les Jalons se suivent par ordre
 - Rdv Notaire pour le 24/10
 - fin octobre lancement départ de Gottenhouse 
 - 🟢 Notaire : demande pour facture matériel (nécéssite facture et mention qui a payé puis contractualisé ça)
-- Récupérer carton pour déménager
-- Trouver des capteurs d'humiditéd/températures. 
+- 🔵 Récupérer carton pour déménager
+- 🟢 Trouver des capteurs d'humidité/températures. 
+- RETEX David proprio 
 
  ■ Signature chez le notaire : acte de vente 
  
