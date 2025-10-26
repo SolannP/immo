@@ -84,9 +84,9 @@ C'est vrai que si on mets du placo c'est beaucoup de travail (et prix !) : autan
 
 On se pause vraiment la question de l'isolation extérieur. Le prix en vaut la peine ? 
 Pour se donner une idée, sans intérêt  sur 15 ans :  
-40.000 / 180 = 222€ / Mois
+40.000 / 180 = 222€ / Mois. 
 
-
+Il y a eu, lorsque j'habitais plus haut dans la rue, d'énormes travaux pour les canalisations (connecter l'arrivée d'eau pour les immeubles plus haut) ainsi que pour refaire le bitume et le marquage (suppression des place de parking pour une voie cyclable). Les travaux peuvent avoir crée des fissures dans la maison.
 
 
 
