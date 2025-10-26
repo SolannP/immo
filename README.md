@@ -23,7 +23,7 @@ Un Jalon (■/✅️) est constitué de tâches. Les Jalons se suivent par ordre
 - Vérifier un ragreage, plénitude et jonction en vue de la pause du planché (2mm avec règle de 1m)
 - check 3% est le taux d'humidité du support.
 - Acheter une règle à niveau de maçon
-- Acheter des contrôleur de fissures 
+- 🟢 Acheter des contrôleur de fissures (mano mano)
 
 - 🟢 lire lettre recommandée 
 - discuter avec les voisins 
@@ -184,9 +184,9 @@ ALEX expertise/Pierrot GERARD/29 Rue du Château/67380 LINGOLSHEIM/03 90 00 25 3
   - plafond ?
 3) Peinture
   - protection fenêtre, porte, radiateur. 
-4b) Ragreage. 
-4) Sols. 
-4#) Plaintes (plus tard)  
+4) Ragreage. 
+4) Sols (3j/h)
+4) Plaintes (plus tard)  
 5) plaintes/cache tuyau 
 6) Cuisine : plan de travail
 7) Cuisine : Lavabo
