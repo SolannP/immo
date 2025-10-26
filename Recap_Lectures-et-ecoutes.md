@@ -280,7 +280,34 @@ garde corps en tant que bibliothèque est une bonne idée
 ------------------------------------------------------------------------------------
 Traiter l'humidité
 
+Important d'avoir l'histoire du lieux et contraintes qui explique tout ça.
 
+Les désordres peuvent être (très) éloigné du symptômes. Une dégradation sur le toit peut stagner/être piégé au niveau inférieure et les dégrader (planché 1er, mur du bas comme le soubassement)
+
+Une humidité de l'air entre 45% à 65% est considérée comme idéal.  
+De la moisissure en ligne peut indiquer une fuite plus haut au niveau de la maçonnerie.  
+Les sols argileux peuvent se gonfler et dégorger d'eau avec en premier désordre u
+un "décrochement des chaine d'angle" (une fissure vertical)
+
+L'enduit traditionnels (chaux et sable) est fait en 3 couches de compositions et mise en œuvre différentes :
+- le gobetis (composition la plus proche possible du mortier de blocage).
+- le corps d'enduit (moins dosé mais plus épaisseur car là s'opère la circulation de l'humidité).
+- la couche de finition, plus fine
+
+Les fissures doivent être surveiller. On le referme une fois tranquillisé quant à leur origine.
+
+Sur les sites très exposé au vent dominant, on protège l'enduit avec un bardage (la force de la pluie n'est terrible).
+
+De nombreuses maisons restauré en 1950 utilise des enduit en "ciment prompt" (chaux et ciment prompt). Il faut vérifier si le mur sonne creux : dans ce cas l'enduit n'adhère plus au mur.
+
+80% des problèmes de planché provient d'un pourrissement des solives (les poutres qui maintiennent le planché)
+
+
+------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------------------
 
