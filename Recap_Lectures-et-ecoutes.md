@@ -27,6 +27,8 @@ Pdf Web Parquet GPT
 
 Gain de place plus de 100 astuces , 2011, 978-2-7072-0641-1; plutôt vieux livre avec 1 ou deux idées bien 
 
+Traiter l'humidité, 23 août 201a, 978-2-212-13223-6;
+
 ------------------------------------------------------------------------------------
 Entretenir sa maison (10 conseils)
 
@@ -276,6 +278,9 @@ Gain de place plus de 100 astuces
 garde corps en tant que bibliothèque est une bonne idée 
 
 ------------------------------------------------------------------------------------
+Traiter l'humidité
+
+
 
 ------------------------------------------------------------------------------------
 
