@@ -56,3 +56,23 @@ Les portes peuvent être très coûteuse
 
 On va faire le recap de ce qu'on a vu dans d'autre maison/appartement 
 
+## Recap 26/10
+
+Suite à l'appel des papa(s), on a des nouveaux éléments/scénarios.
+
+En fonction des devis des maçons on fait nous ou pas l'extérieur (mûrs nord). 
+
+Nous avons les tuyaux en cuivre qui nous embête énormément sur le 1er. Impossible de mettre quelque chose (meuble/lit) contre le mur et c'est dangereux pour Robin; Les tuyau sont brûlant. Dans les scénario possible :
+- on met un coffrage (bof bof bof) 
+- on met du placo 
+- on remplace par multicolore et cache le tout dans des gouttière OU MIEUX dans des rainure puis on recouvre d'enduit.
+
+C'est vrai que si on mets du placo c'est beaucoup de travail (et prix !) en plus. Autant faire de l'isolation intérieur.
+
+On se pause vraiment la question de l'isolation extérieur. Le prix en vaut la peine ? 
+pour se donner une idée, sans intérêt  sur 15 ans :  
+40.000 / 180 = 222
+
+
+
+
