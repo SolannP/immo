@@ -54,22 +54,24 @@ Les portes peuvent être très coûteuse
 
 ## Recap 20/10
 
-On va faire le recap de ce qu'on a vu dans d'autre maison/appartement 
+On va faire le recap de ce qu'on a vu dans d'autre maison/appartement en tant que retour d'expérience sur le bien et moins bien.
 
 ## Recap 26/10
 
 On a visité après une énorme tempête pluie/vent.  
-Énorme surprise, l'une des "poutres" de la charpente prenait l'eau vers son milieu (une sorte de trou ?). En déplaçant le bordel au comble il y avait une zone d'air confiné et de l'eau qui s'écoule : des champignons était présent au pied de la charpente. Trois espèces, l'une avec le chapeau, l'autre qui ressemble à une mousse touffu et la dernière comme on peut voir sur des arbres. Le tout était extrêmement secs même si la poutre était mouillé ce qui laisse penser que la fuite date un peu (l'été ?).
+Énorme surprise, l'une des "poutres" de la charpente prenait l'eau vers son milieu (une sorte de trou ?). En déplaçant le bordel au comble il y avait une zone d'air confiné et de l'eau qui s'écoule : des champignons était présent au pied de la charpente. Trois espèces, l'une avec le chapeau, l'autre qui ressemble à une mousse touffu et la dernière comme on peut voir sur des arbres. Le tout était extrêmement secs même si la poutre était mouillé ce qui laisse penser que la fuite date un peu (l'été ?).  
+Un charpentier va passer par les anciens propriétaire.
 
-Une seconde partie était mouillé mais pas sur une zone importante.  
+Une autre zo.e partie était mouillé mais pas sur une portion importante.  
 
 C'est bon signe car il y a que ça après ce genre de déluge.
 
 Pour l'extérieur un maçon (Esteves) nous a proposé de juste refaire un béton en plus epais : parce que les 3/4cm d'origines ne sont pas suffisant; Il faut plutôt 10 ou 12 cm.  
-Dans la cave il conseille une meilleure aération et pas de peinture, juste "refaire les joints" et laisser la pierre apparente.
+Dans la cave il conseille une meilleure aération et pas de peinture, juste "refaire les joints" et laisser la pierre apparente.  
+Il me semble très pertinent et juste sur ce qui doit être fait.
 
 On a beaucoup de câbles électriques un peu n'importe comment ce qui fait que les combles ont des sacs de nœud. Dans les chambres il y a des câbles qui descendent du toit et qui sont juste coupé en bas
-bas, même pas utilisé.. Pas très propre !
+bas, même pas utilisé.. Pas très propre ! On reflechi sur l'aspect électrique.
 
 Suite à l'appel des papa(s), on a des nouveaux éléments/scénarios.
 
