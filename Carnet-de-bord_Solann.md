@@ -58,20 +58,34 @@ On va faire le recap de ce qu'on a vu dans d'autre maison/appartement
 
 ## Recap 26/10
 
+On a visité après une énorme tempête pluie/vent.  
+Énorme surprise, l'une des "poutres" de la charpente prenait l'eau vers son milieu (une sorte de trou ?). En déplaçant le bordel au comble il y avait une zone d'air confiné et de l'eau qui s'écoule : des champignons était présent au pied de la charpente. Trois espèces, l'une avec le chapeau, l'autre qui ressemble à une mousse touffu et la dernière comme on peut voir sur des arbres. Le tout était extrêmement secs même si la poutre était mouillé ce qui laisse penser que la fuite date un peu (l'été ?).
+
+Une seconde partie était mouillé mais pas sur une zone importante.  
+
+C'est bon signe car il y a que ça après ce genre de déluge.
+
+Pour l'extérieur un maçon (Esteves) nous a proposé de juste refaire un béton en plus epais : parce que les 3/4cm d'origines ne sont pas suffisant; Il faut plutôt 10 ou 12 cm.  
+Dans la cave il conseille une meilleure aération et pas de peinture, juste "refaire les joints" et laisser la pierre apparente.
+
+On a beaucoup de câbles électriques un peu n'importe comment ce qui fait que les combles ont des sacs de nœud. Dans les chambres il y a des câbles qui descendent du toit et qui sont juste coupé en bas
+bas, même pas utilisé.. Pas très propre !
+
 Suite à l'appel des papa(s), on a des nouveaux éléments/scénarios.
 
 En fonction des devis des maçons on fait nous ou pas l'extérieur (mûrs nord). 
 
 Nous avons les tuyaux en cuivre qui nous embête énormément sur le 1er. Impossible de mettre quelque chose (meuble/lit) contre le mur et c'est dangereux pour Robin; Les tuyau sont brûlant. Dans les scénario possible :
 - on met un coffrage (bof bof bof) 
-- on met du placo 
-- on remplace par multicolore et cache le tout dans des gouttière OU MIEUX dans des rainure puis on recouvre d'enduit.
+- on met du placo (air stagnant deriere, obligation de faire isolation extérieur)
+- on remplace par des tuyaux multicouche et cache le tout dans des gouttière OU MIEUX dans des rainure puis on recouvre d'enduit.
 
-C'est vrai que si on mets du placo c'est beaucoup de travail (et prix !) en plus. Autant faire de l'isolation intérieur.
+C'est vrai que si on mets du placo c'est beaucoup de travail (et prix !) : autant faire de l'isolation intérieur. C'est aussi moins modulaire en cas de problème il me semble.
 
 On se pause vraiment la question de l'isolation extérieur. Le prix en vaut la peine ? 
-pour se donner une idée, sans intérêt  sur 15 ans :  
-40.000 / 180 = 222
+Pour se donner une idée, sans intérêt  sur 15 ans :  
+40.000 / 180 = 222€ / Mois
+
 
 
 
