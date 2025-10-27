@@ -74,7 +74,7 @@ Un Jalon (■/✅️) est constitué de tâches. Les Jalons se suivent par ordre
   - 🔵 CONSTRUCTION KINTZELMANN (relance le 22/10)
   - 🔴 SARL AKSU (relancer le 22/10)
   - Construction Romao
-  - DAG Sarl
+  - 🔵 DAG Sarl (27/10+RDFacade)
   - 🔵 ATILLA 
 
 - 🟢 Demander versemment donation pour le 24/10 @Solann
