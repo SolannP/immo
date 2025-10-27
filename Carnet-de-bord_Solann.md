@@ -90,7 +90,7 @@ Pour se donner une idée, sans intérêt  sur 15 ans :
 
 Il y a eu, lorsque j'habitais plus haut dans la rue, d'énormes travaux pour les canalisations (connecter l'arrivée d'eau pour les immeubles plus haut) ainsi que pour refaire le bitume et le marquage (suppression des place de parking pour une voie cyclable). Les travaux peuvent avoir crée des fissures dans la maison.
 
-On est tombé sur une verrière/serre : ça nous semble une très bonne idée pour cette zone vide dessus du garage. 
+On est tombé sur une verrière/serre : ça nous semble une très bonne idée pour cette zone vide dessus du garage. (attention,  80% du volume vitrée = pas comptabilisés dans les m².
 
 
 
