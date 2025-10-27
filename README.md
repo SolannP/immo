@@ -93,6 +93,9 @@ Un Jalon (■/✅️) est constitué de tâches. Les Jalons se suivent par ordre
 - 🔵 Récupérer carton pour déménager
 - 🟢 Trouver des capteurs d'humidité/températures. 
 - RETEX David proprio 
+- RETEX voisin au dessus 
+- RETEX voisin en dessous
+- RETEX voisin en face 
 
  ■ Signature chez le notaire : acte de vente 
  
