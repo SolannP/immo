@@ -182,6 +182,7 @@ ALEX expertise/Pierrot GERARD/29 Rue du Château/67380 LINGOLSHEIM/03 90 00 25 3
 Location d'outils possible :
 - https://bricolib.net/
 - https://www.je-loue-tout.fr/search.php?type=1&reg=6&county=1&keywords=&postcode=&cat=0&sort=1&status=0&page=1
+    - décolleuse https://www.je-loue-tout.fr/annonce/Grand-Est-Bas-Rhin-Decolleuse-papier-peint-Location-decolleuse-a-papiers-peints-electrique-327
 
  ■ Obtention des clés
 
