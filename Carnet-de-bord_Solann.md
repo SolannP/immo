@@ -62,7 +62,7 @@ On a visité après une énorme tempête pluie/vent.
 Énorme surprise, l'une des "poutres" de la charpente prenait l'eau vers son milieu (une sorte de trou ?). En déplaçant le bordel au comble il y avait une zone d'air confiné et de l'eau qui s'écoule : des champignons était présent au pied de la charpente. Trois espèces, l'une avec le chapeau, l'autre qui ressemble à une mousse touffu et la dernière comme on peut voir sur des arbres. Le tout était extrêmement secs même si la poutre était mouillé ce qui laisse penser que la fuite date un peu (l'été ?).  
 Un charpentier va passer par les anciens propriétaire.
 
-Une autre zo.e partie était mouillé mais pas sur une portion importante.  
+Une autre zone partie était mouillé mais pas sur une portion importante.  
 
 C'est bon signe car il y a que ça après ce genre de déluge.
 
@@ -81,6 +81,8 @@ Nous avons les tuyaux en cuivre qui nous embête énormément sur le 1er. Imposs
 - on met un coffrage (bof bof bof) 
 - on met du placo (air stagnant deriere, obligation de faire isolation extérieur)
 - on remplace par des tuyaux multicouche et cache le tout dans des gouttière OU MIEUX dans des rainure puis on recouvre d'enduit.
+- on fait un rainure et on encastre les câble cuivre 
+
 
 C'est vrai que si on mets du placo c'est beaucoup de travail (et prix !) : autant faire de l'isolation intérieur. C'est aussi moins modulaire en cas de problème il me semble.
 
