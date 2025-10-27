@@ -90,7 +90,7 @@ Un Jalon (■/✅️) est constitué de tâches. Les Jalons se suivent par ordre
 - Rdv Notaire pour le 24/10
 - fin octobre lancement départ de Gottenhouse 
 - imprimer récépissé 
-- imprimer lettre congé du logement 
+- imprimer lettre congé du logement  https://www.service-public.gouv.fr/simulateur/calcul/CongeLogement#main
 - 🟢 Notaire : demande pour facture matériel (nécéssite facture et mention qui a payé puis contractualisé ça)
 - 🔵 Récupérer carton pour déménager
 - 🟢 Trouver des capteurs d'humidité/températures. 
