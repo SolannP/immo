@@ -76,7 +76,7 @@ Un Jalon (■/✅️) est constitué de tâches. Les Jalons se suivent par ordre
   - 🔴 SARL AKSU (relancer le 22/10)
   - Construction Romao
   - 🔵 DAG Sarl (27/10+RDFacade)
-  - 🔵 ATILLA 
+  - 🔵 ATILLA (passage le 29/10,à priori 20.000/30.000 l'isolation extérieur, 20.000 une nouvelle toiture)
 
 - 🟢 Demander versemment donation pour le 24/10 @Solann
 - 🔵 Redaction contrat de pret familial @Julia 
