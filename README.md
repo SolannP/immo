@@ -231,6 +231,7 @@ Idée en vrac :
 - VMC
 - poteau extérieur 
 - citerne pour eau de pluie 
+- serre/terrasse ecolo
 - Panneau solaire pour électricité et batteries 
 - potager
 - poulailler
