@@ -77,6 +77,8 @@ Un Jalon (■/✅️) est constitué de tâches. Les Jalons se suivent par ordre
   - Construction Romao
   - 🔵 DAG Sarl (27/10+RDFacade)
   - 🔵 ATILLA (passage le 29/10,à priori 20.000/30.000 l'isolation extérieur, 20.000 une nouvelle toiture)
+- 2 devis isolation
+  - 🔵 ATILLA
 
 - 🟢 Demander versemment donation pour le 24/10 @Solann
 - 🔵 Redaction contrat de pret familial @Julia 
@@ -140,6 +142,24 @@ Un Jalon (■/✅️) est constitué de tâches. Les Jalons se suivent par ordre
 ```
 ALEX expertise/Pierrot GERARD/29 Rue du Château/67380 LINGOLSHEIM/03 90 00 25 39 | 06 71 01 73 33/p.gerard@alexpertise.com. 
 ```
+**PLANNING** 
+> *OCTOBRE*
+  - Contacter artisans pour devis (toiture, étanchéité, isolation)
+  - Commencer à estimer les travaux, réflexion sur les travaux à effectuer et le choix des matériaux  
+> *NOVEMBRE*
+  - S1-S2 : Faire le tri, commencer à emballer ce qui ne sert pas au quotidien
+  - Finalisation du prêt immobilier
+  - Commande de matériaux
+  - Planification de l'acte autentique de vente chez le notaire
+  - Faire un planning précis des 2 semaines de travaux + travail de préparation 
+> *DECEMBRE*
+  - Préparer les démarches de changement d'adresse, résiliation/activation de contrat (gaz, électricité, internet, assurances, sécurité sociale, impôts, etc.) 
+  - Signature de l'acte de vente et remise des clés (on espère!)
+  - Commencer les travaux 
+> *JANVIER*
+  - Travaux (planning précis à réaliser)
+  - Déménager progressivement les affaires, installation progressive (priorité au confort)
+  - Acheter des meubles chinés pour compléter (si l'occasion se présente) 
 
 ------------------------------------------------------------------------------------
 
@@ -315,7 +335,7 @@ Enduit puis peinture.
 Sol peut nécessite ragreage. Puis différentes couches pour parquet 
 
 ------------------------------------
-🛠️🪑Idees meubles a retaper 
+🛠️🪑**Idees meubles a retaper** 
 - Grande table a manger 
 - Chaises 
 - Buffet (pour la salle a manger) 
