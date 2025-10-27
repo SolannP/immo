@@ -66,6 +66,7 @@ Un Jalon (■/✅️) est constitué de tâches. Les Jalons se suivent par ordre
   - 🔵 Schneider couverture
   - 🔵 SD Couverture (devis+photo le 30/10) relance le 22/10.
   - 🔵 Blaise Daniel (16/10,27/10,03 88 95 40 13)
+  - 🔵 Geisler(27/10)
 - 🔵 2 devis étanchéité 
   - 🔵 Suhner Entreprise de Construction (mail le 22/10)
   - 🔴 VA BTP (Hors périmètre)
