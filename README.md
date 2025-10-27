@@ -89,10 +89,12 @@ Un Jalon (■/✅️) est constitué de tâches. Les Jalons se suivent par ordre
 
 - Rdv Notaire pour le 24/10
 - fin octobre lancement départ de Gottenhouse 
+- imprimer récépissé 
+- imprimer lettre congé du logement 
 - 🟢 Notaire : demande pour facture matériel (nécéssite facture et mention qui a payé puis contractualisé ça)
 - 🔵 Récupérer carton pour déménager
 - 🟢 Trouver des capteurs d'humidité/températures. 
-- RETEX David proprio 
+- 🔵 RETEX David proprio 
 - RETEX voisin au dessus 
 - RETEX voisin en dessous
 - RETEX voisin en face 
