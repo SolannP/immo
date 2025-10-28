@@ -338,8 +338,11 @@ Dans la cuisine, il faut une continuité de 10cm entre le plan de travail et le 
 Il faut toujours penser à l'accessibilité,  réversibilité et entretien des systèmes (canalisations dissimulé dans le mur mais caché par une plainte).  
 Prévoir l'accessibilité des systèmes de purge et distribution. Vérifier que les éléments sont munis d'un trop plein.
 
-Pour des règles avec la salle de bains et cuisine : mettre le robinet sur le côté pourquoi soit accessible, le vasque sur le carrelage, limiter la multiplication des matières pour la cuisine (joint pas 100% étanche)
+Pour des règles avec la salle de bains et cuisine : mettre le robinet sur le côté pourquoi soit accessible, le vasque sur le carrelage, limiter la multiplication des matières pour la cuisine (joint pas 100% étanche).
 
+Possible mettre des ventilateur extracteur d'humidité à la cave.
+Il existe des systèmes d'assechement à brancher plusieurs jours(3 à 8j) notamment après un sinistre.
+Des.plantes vertes en pot aide souvent à régler l'humidité 
 ------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------------------
