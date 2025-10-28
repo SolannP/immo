@@ -302,6 +302,17 @@ De nombreuses maisons restauré en 1950 utilise des enduit en "ciment prompt" (c
 
 80% des problèmes de planché provient d'un pourrissement des solives (les poutres qui maintiennent le planché)
 
+Le drainage en terre autour de la maison ancienne sert surtout à son évaporation. La permeabilisation des sols fait que l'eau qui tombe du toit rebondi et dégrade les murs.
+
+Puisque les maçonnerie travalle beaucoup dans l'ancien(tassement) il faut éviter le placement des conduit d'eau dans les murs.
+
+En cas de rupture du lave linge ou chauffe eau, gros dégâts des eaux. Plutôt les placer dans une cave ou celliers. Le lave vaisselle à une capacité de 13L ce qui est moins grave.
+
+Les salle d'eau vont rejeté l'humidité sur les murs et sols. Important de bien faire une étanchéité entre les étages.
+
+Dans une cave saine, les patates ne germe pas : elle est fraîche et ventilé.
+
+Pour les combles, pas de SDB ou cuisine mais chambre rustique avec chaufage radiant et fenêtre + ventilation mécanique à bas débit constant.
 
 ------------------------------------------------------------------------------------
 
