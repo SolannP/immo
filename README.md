@@ -202,10 +202,11 @@ ALEX expertise/Pierrot GERARD/29 Rue du Château/67380 LINGOLSHEIM/03 90 00 25 3
   - grand seau d'eau
   - enduit de ciment pour le trou (si besoin)
 
- - Acheter des très bon EPI :
+ - Acheter des très bon EPI et équipements autres:
   - Respiration 
   - bruit 
   - lunette
+  - détecteur de câble électrique (murale)
 
 Location d'outils possible :
 - https://bricolib.net/
