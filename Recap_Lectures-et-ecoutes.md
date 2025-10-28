@@ -329,7 +329,17 @@ les arrêts des neiges sur les toits permettent de garder le manteau de protecti
 
 **On evite la laine de rochet et de verre pour l'isolationqui perd 60% de ses capacités au bout de 7 ans. On fait d'avantage confianceau chanvre,  la laine de mouton,  paneau de fibre de boix comme Pavatex et la ouate de cellulose qui ne sont pas altérépar l'humidité**
 
-pour la végétation, les arbres doivent être loin. Pour le contrôle des végétaux ça reste un fixer d'humidité. Le mieux est d'opter pour des plantes qui perdent leur feuille en hiver, sur une structure légère désolidarisé du murs (bois/acier), avec un développement racinaire peux important 
+Pour la végétation, les arbres doivent être loin. Pour le contrôle des végétaux ça reste un fixer d'humidité. Le mieux est d'opter pour des plantes qui perdent leur feuille en hiver, sur une structure légère désolidarisé du murs (bois/acier), avec un développement racinaire peux important.
+
+Pour la salle de bain, on privilégié des carreaux : peinture dt enduit ne tiennent pas. La douche doit être installée dans une pièce ayant une ventilation naturelle ou mécanique continue.
+On equipe la pièce elle même d'une dalle étanche avec siphon au sol de 90mm, facile à entretenir.
+Dans la cuisine, il faut une continuité de 10cm entre le plan de travail et le mur.
+
+Il faut toujours penser à l'accessibilité,  réversibilité et entretien des systèmes (canalisations dissimulé dans le mur mais caché par une plainte).  
+Prévoir l'accessibilité des systèmes de purge et distribution. Vérifier que les éléments sont munis d'un trop plein.
+
+Pour des règles avec la salle de bains et cuisine : mettre le robinet sur le côté pourquoi soit accessible, le vasque sur le carrelage, limiter la multiplication des matières pour la cuisine (joint pas 100% étanche)
+
 ------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------------------
