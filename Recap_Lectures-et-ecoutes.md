@@ -314,6 +314,22 @@ Dans une cave saine, les patates ne germe pas : elle est fraîche et ventilé.
 
 Pour les combles, pas de SDB ou cuisine mais chambre rustique avec chaufage radiant et fenêtre + ventilation mécanique à bas débit constant.
 
+Important d'assurer des contrôles pour l'humidité :
+- Les clos et les couverts (toit et ouverture)
+- gérer les récupérations (gouttières, drain,...)
+- traquer les fuites accidentelle ou d'usage des pièces d'eau.. ou encore de ventilation 
+
+les zones à vérifier (en automne avant d'entrer en hiver :
+- les solin de faîtage (l'arrete du toit)
+- les solin de souche de cheminée 
+- fenestron de ventilation 
+- couronnement des mûrs 
+
+les arrêts des neiges sur les toits permettent de garder le manteau de protection de neige en tant que manteau thermisque et pour éviter la dégradation gel dégel qui soulève les éléments.
+
+**On evite la laine de rochet et de verre pour l'isolationqui perd 60% de ses capacités au bout de 7 ans. On fait d'avantage confianceau chanvre,  la laine de mouton,  paneau de fibre de boix comme Pavatex et la ouate de cellulose qui ne sont pas altérépar l'humidité**
+
+pour la végétation, les arbres doivent être loin. Pour le contrôle des végétaux ça reste un fixer d'humidité. Le mieux est d'opter pour des plantes qui perdent leur feuille en hiver, sur une structure légère désolidarisé du murs (bois/acier), avec un développement racinaire peux important 
 ------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------------------
