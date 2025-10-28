@@ -95,4 +95,11 @@ Il y a eu, lorsque j'habitais plus haut dans la rue, d'énormes travaux pour les
 On est tombé sur une verrière/serre : ça nous semble une très bonne idée pour cette zone vide dessus du garage. (attention,  80% du volume vitrée = pas comptabilisés dans les m².
 
 
+## Recap 27/10
+
+Pour la partie électrique pas d'inquiétude pour ajouter des prises.  
+Il reste la présence de plomb qui est très élevé au rdc, surtout sur les encadrementet de porte.  
+Elle est au seul légaux au 1er mais aussi présente.
+Lors du travail au premier, est ce qu'il y a de la peinture au plombs derrières murs de plâtre/papier peint ?
+
 
