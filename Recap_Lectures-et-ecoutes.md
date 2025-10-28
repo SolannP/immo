@@ -340,9 +340,11 @@ Prévoir l'accessibilité des systèmes de purge et distribution. Vérifier que 
 
 Pour des règles avec la salle de bains et cuisine : mettre le robinet sur le côté pourquoi soit accessible, le vasque sur le carrelage, limiter la multiplication des matières pour la cuisine (joint pas 100% étanche).
 
-Possible mettre des ventilateur extracteur d'humidité à la cave.
-Il existe des systèmes d'assechement à brancher plusieurs jours(3 à 8j) notamment après un sinistre.
-Des.plantes vertes en pot aide souvent à régler l'humidité 
+Possible mettre des ventilateur extracteur d'humidité à la cave. 
+
+Il existe des systèmes d'assechement à brancher plusieurs jours(3 à 8j) notamment après un sinistre (plébiscité par les assurances)
+Des plantes vertes en pot aide souvent à régluler l'humidité 
+
 ------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------------------
