@@ -106,21 +106,21 @@ Il faudra que les devis détaillés soit prêts
 
 **PLANNING** 
 > *OCTOBRE*
-  🔵 Contacter artisans pour devis (toiture, étanchéité, isolation)
-  🔵 Commencer à estimer les travaux, réflexion sur les travaux à effectuer et le choix des matériaux
-  🔵 Se rendre dans les magasins de bricolage des alentours
-  🔵 Fin octobre -> lancement du préavis auprès de David. Départ officiel fin janvier 2026.
+ - 🔵 Contacter artisans pour devis (toiture, étanchéité, isolation)
+ - 🔵 Commencer à estimer les travaux, réflexion sur les travaux à effectuer et le choix des matériaux
+ - 🔵 Se rendre dans les magasins de bricolage des alentours
+ - 🔵 Fin octobre -> lancement du préavis auprès de David. Départ officiel fin janvier 2026.
       - Imprimer récépissé 
       - Imprimer lettre congé du logement  https://www.service-public.gouv.fr/simulateur/calcul/CongeLogement#main
 > *NOVEMBRE*
-  🔵 S1-S2 : Faire le tri, commencer à emballer ce qui ne sert pas au quotidien
+ - 🔵 S1-S2 : Faire le tri, commencer à emballer ce qui ne sert pas au quotidien
         🟢 Récupérer carton pour déménager
-  🔵 Signature du prêt bancaire 
-  🟡 Commande de matériaux
-  🔵 Planification de l'acte autentique de vente chez le Notaire
-  🟡 Faire un planning précis des 2 semaines de travaux + travail de préparation -> Quand faire quoi ? 
+ - 🔵 Signature du prêt bancaire 
+ - 🟡 Commande de matériaux
+ - 🔵 Planification de l'acte autentique de vente chez le Notaire
+ - 🟡 Faire un planning précis des 2 semaines de travaux + travail de préparation -> Quand faire quoi ? 
 > *DECEMBRE*
-  🟡 Préparer les démarches de changement d'adresse, résiliation/activation de contrat
+ - 🟡 Préparer les démarches de changement d'adresse, résiliation/activation de contrat
         - Gaz,
         - Electricité,
         - Eau,
@@ -129,13 +129,13 @@ Il faudra que les devis détaillés soit prêts
         - Assurance habitation,
         - Relais courrier
         - MàJ domiciliation (banque, télephone, mutuelle, sécu, travail, impôts, carte grise) 
-  🟡 Signature de l'acte de vente et remise des clés (on espère!)
-  🟡 Commencer les travaux 
+ - 🟡 Signature de l'acte de vente et remise des clés (on espère!)
+ - 🟡 Commencer les travaux 
 > *JANVIER*
-  🟡 Travaux (planning précis à réaliser)
-  🟡 Déménager progressivement les affaires, installation progressive (priorité au confort)
-  🟡 Acheter des meubles chinés pour compléter (si l'occasion se présente)
-  🟡 Acheter électroménager
+ - 🟡 Travaux (planning précis à réaliser)
+ - 🟡 Déménager progressivement les affaires, installation progressive (priorité au confort)
+ - 🟡 Acheter des meubles chinés pour compléter (si l'occasion se présente)
+ - 🟡 Acheter électroménager
       - Machine à laver
       - Lave vaiselle 
 
