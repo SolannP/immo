@@ -89,6 +89,8 @@ Un Jalon (■/✅️) est constitué de tâches. Les Jalons se suivent par ordre
  Attente de 12 jours (24/10)
  **Puis 8 jours après rdv notaire**.
 
+- Stratégie Ma prim renov https://www.economie.gouv.fr/particuliers/faire-des-economies-denergie/maprimerenov-parcours-par-geste-la-prime-pour-la-renovation-energetique
+
 - Rdv Notaire pour le 24/10
 - fin octobre lancement départ de Gottenhouse 
 - imprimer récépissé 
@@ -103,7 +105,8 @@ Un Jalon (■/✅️) est constitué de tâches. Les Jalons se suivent par ordre
 - RETEX voisin en face 
 
  ■ Signature chez le notaire : acte de vente 
- 
+
+- Demarche ma prim renov 
 - 🟢 definir stratégie 5/10/15 ans
 - 🔵 calcule de ROI pour rentabiliser le bas avec AirBnB
 
