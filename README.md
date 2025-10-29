@@ -47,56 +47,56 @@ Un Jalon (■/✅️) est constitué de tâches. Les Jalons se suivent par ordre
 
 **Artisans**
 > PEINTURE
-🔵 L'atelier du peintre (08/11, 9h) 
+- 🔵 L'atelier du peintre (08/11, 9h) 
 > SOLIN/COUVERTURE/TOITURE (trou dans le toit à régler)
-🟡 Tradi toiture (Arnaque)
-🔵 Schneider couverture
-🔵 SD Couverture (devis+photo le 30/10) relance le 22/10.
-🔵 Blaise Daniel (16/10,27/10,03 88 95 40 13)
-🔵 Geisler(27/10)
-🔵 Services Toitures (27/10 dans l'après-midi)
-🔵 ATILLA (29/10, 14h) 
+- 🟡 Tradi toiture (Arnaque)
+- 🔵 Schneider couverture
+- 🔵 SD Couverture (devis+photo le 30/10) relance le 22/10.
+- 🔵 Blaise Daniel (16/10,27/10,03 88 95 40 13)
+- 🔵 Geisler(27/10)
+- 🔵 Services Toitures (27/10 dans l'après-midi)
+- 🔵 ATILLA (29/10, 14h) 
 > ETANCHEITE  
-🔵 Suhner Entreprise de Construction (mail le 22/10)
-🔴 VA BTP (Hors périmètre)
-🔵 Esteves (rdv 24/10)
-🔵 CONSTRUCTION KINTZELMANN (relance le 22/10)
-🔴 SARL AKSU (relancer le 22/10)
-🔵 Construction Romao
-🔵 DAG Sarl (27/10+RDFacade)
-🟢 ATILLA (devis reçu le 29/10 -> 12.500€) 
+- 🔵 Suhner Entreprise de Construction (mail le 22/10)
+- 🔴 VA BTP (Hors périmètre)
+- 🔵 Esteves (rdv 24/10)
+- 🔵 CONSTRUCTION KINTZELMANN (relance le 22/10)
+- 🔴 SARL AKSU (relancer le 22/10)
+- 🔵 Construction Romao
+- 🔵 DAG Sarl (27/10+RDFacade)
+- 🟢 ATILLA (devis reçu le 29/10 -> 12.500€) 
 > ISOLATION THERMIQUE EXTERIEURE 
-🔵 ATILLA (passage le 29/10,à priori 20.000/30.000 l'isolation extérieur, 20.000 une nouvelle toiture)
-🔵 Atelier du peintre (08/11, 9h)
+- 🔵 ATILLA (passage le 29/10,à priori 20.000/30.000 l'isolation extérieur, 20.000 une nouvelle toiture)
+- 🔵 Atelier du peintre (08/11, 9h)
 
 **Matériel à acheter**
-🟢 Trouver des capteurs d'humidité/températures
+- 🟢 Trouver des capteurs d'humidité/températures
 
 **Retours d'expérience**
-🔵 RETEX David proprio 
-🔵 Retex solann et Julia 
-RETEX voisin au dessus 
-RETEX voisin en dessous
-RETEX voisin en face 
+- 🔵 RETEX David proprio 
+- 🔵 Retex solann et Julia 
+- RETEX voisin au dessus 
+- RETEX voisin en dessous
+- RETEX voisin en face 
 
 ■ FINANCEMENT DU PROJET : Offres de prêt + aides 
-🔵 Offre de prêt : Crédit Mutuel
+- 🔵 Offre de prêt : Crédit Mutuel
 *Selon Nadège : d'ici le 12/11, l'offre de prêt peut être finalisée*
 
 A la réception de l'offre : attente de 12 jours **Puis 8 jours après rdv notaire**
 
 **Eco-PTZ** 
-Pourra être vu avec la banque ultérieurement
+- Pourra être vu avec la banque ultérieurement
 Il faudra que les devis détaillés soit prêts
 
 **MA Prime Rénov'+ Prime CEE** 
-https://www.economie.gouv.fr/particuliers/faire-des-economies-denergie/maprimerenov-parcours-par-geste-la-prime-pour-la-renovation-energetique
-Basé sur les revenus fiscaux 2024 : 28.068 + 23.425 = 51.493€ --> Catégorie *"Ménages aux revenus intermédiaires"*
-Possible de cumuler Ma Prime Rénov + Prime CEE + Eco-PTZ
+- https://www.economie.gouv.fr/particuliers/faire-des-economies-denergie/maprimerenov-parcours-par-geste-la-prime-pour-la-renovation-energetique
+- Basé sur les revenus fiscaux 2024 : 28.068 + 23.425 = 51.493€ --> Catégorie *"Ménages aux revenus intermédiaires"*
+- Possible de cumuler Ma Prime Rénov + Prime CEE + Eco-PTZ
 
  ■ SIGNATURE DE L'ACTE ANTHENTIQUE DE VENTE
-🟢 Definir stratégie 5/10/15 ans
-🔵 calcul de ROI pour rentabiliser le bas avec AirBnB
+- 🟢 Definir stratégie 5/10/15 ans
+- 🔵 calcul de ROI pour rentabiliser le bas avec AirBnB
 
 ■ DEMENAGEMENT
 
