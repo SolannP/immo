@@ -9,162 +9,157 @@ Un Jalon (■/✅️) est constitué de tâches. Les Jalons se suivent par ordre
 - 🟢 action A3 : Tâche réalisée
 - ■ Jalon A
 ```
-
 > **Patience, observations et réflexions**.  
 >  Prendre des notes, observations, ressenti subjectif.  
 >  Faire son carnet de bord et noter ses idées; Plan, schéma, photos.
 
+**Magasins de bricolage**
+- Mr Bricolage (Mundolsheim)
+- 🟢 Leroy Merlin (Mundolsheim)
+- Castorama (Mundolsheim)
+- 🟢 Saint-Maclou (Lampersheim)
+- HORNBACH (Kalsruhe, Allemagne)
+- BAUHAUS (Offenbourg, Allemagne)
+- ATOO DESIGN (Molsheim)
+- SIEHR (Marlenheim)
+- 🟢 GEDIMAT - BRICO PRO WEISS (Wasselone)
+- 🟢 MILDECOR Peintures & Revêtements (Otterswiller)
+- SOCOBRI (Otterwiller)
+- Autres (cf liste google maps)
+
+**Banques**
+- 🔵 Banque populaire
+- 🟢 CIC > *Offre reçue*
+- 🟢 Banque postale > Pas intéressant
+- 🟢 Crédit Mutuel > *Offre reçue* **Montage dossier en cours**
+- 🟢 BNP > *Offre reçue*
+- 🟢 LCL > *Offre reçue*
+- 🟢 Caisse d'épargne > *Offre reçue*
+- 🟢 Courtière 
+- 🟢 Société Générale > *Offre reçue*
+
+**Autres contacts**
+- 🟢 Union Nationale des Propriétaire Immobilier : association avec aide/outils
+- 🟢 ANIL, des outils/simulateur, dossiers techniques, question-réponse, revue de presse, documentation grand public.
+- 🟢 Fedexa, expert d'assuré (cf contact)
+- Discuter avec les voisins
+- Fedexa, expert d'assuré : Agit avant (estimation préalable) ou après le sinistre (dossier, pièce technique,...)
+
+**Artisans**
+> PEINTURE
+🔵 L'atelier du peintre (08/11, 9h) 
+> SOLIN/COUVERTURE/TOITURE (trou dans le toit à régler)
+🟡 Tradi toiture (Arnaque)
+🔵 Schneider couverture
+🔵 SD Couverture (devis+photo le 30/10) relance le 22/10.
+🔵 Blaise Daniel (16/10,27/10,03 88 95 40 13)
+🔵 Geisler(27/10)
+🔵 Services Toitures (27/10 dans l'après-midi)
+🔵 ATILLA (29/10, 14h) 
+> ETANCHEITE  
+🔵 Suhner Entreprise de Construction (mail le 22/10)
+🔴 VA BTP (Hors périmètre)
+🔵 Esteves (rdv 24/10)
+🔵 CONSTRUCTION KINTZELMANN (relance le 22/10)
+🔴 SARL AKSU (relancer le 22/10)
+🔵 Construction Romao
+🔵 DAG Sarl (27/10+RDFacade)
+🟢 ATILLA (devis reçu le 29/10 -> 12.500€) 
+> ISOLATION THERMIQUE EXTERIEURE 
+🔵 ATILLA (passage le 29/10,à priori 20.000/30.000 l'isolation extérieur, 20.000 une nouvelle toiture)
+🔵 Atelier du peintre (08/11, 9h)
+
+**Matériel à acheter**
+🟢 Trouver des capteurs d'humidité/températures
+
+**Retours d'expérience**
+🔵 RETEX David proprio 
+🔵 Retex solann et Julia 
+RETEX voisin au dessus 
+RETEX voisin en dessous
+RETEX voisin en face 
+
+■ FINANCEMENT DU PROJET : Offres de prêt + aides 
+🔵 Offre de prêt : Crédit Mutuel
+*Selon Nadège : d'ici le 12/11, l'offre de prêt peut être finalisée*
+
+A la réception de l'offre : attente de 12 jours **Puis 8 jours après rdv notaire**
+
+**Eco-PTZ** 
+Pourra être vu avec la banque ultérieurement
+Il faudra que les devis détaillés soit prêts
+
+**MA Prime Rénov'+ Prime CEE** 
+https://www.economie.gouv.fr/particuliers/faire-des-economies-denergie/maprimerenov-parcours-par-geste-la-prime-pour-la-renovation-energetique
+Basé sur les revenus fiscaux 2024 : 28.068 + 23.425 = 51.493€ --> Catégorie *"Ménages aux revenus intermédiaires"*
+Possible de cumuler Ma Prime Rénov + Prime CEE + Eco-PTZ
+
+ ■ SIGNATURE DE L'ACTE ANTHENTIQUE DE VENTE
+🟢 Definir stratégie 5/10/15 ans
+🔵 calcul de ROI pour rentabiliser le bas avec AirBnB
+
+■ DEMENAGEMENT
+
+■ INSTALLATION
+ 
+■ CREMALLIERE
+
+**PLANNING** 
+> *OCTOBRE*
+  🔵 Contacter artisans pour devis (toiture, étanchéité, isolation)
+  🔵 Commencer à estimer les travaux, réflexion sur les travaux à effectuer et le choix des matériaux
+  🔵 Se rendre dans les magasins de bricolage des alentours
+  🔵 Fin octobre -> lancement du préavis auprès de David. Départ officiel fin janvier 2026.
+      - Imprimer récépissé 
+      - Imprimer lettre congé du logement  https://www.service-public.gouv.fr/simulateur/calcul/CongeLogement#main
+> *NOVEMBRE*
+  🔵 S1-S2 : Faire le tri, commencer à emballer ce qui ne sert pas au quotidien
+        🟢 Récupérer carton pour déménager
+  🔵 Signature du prêt bancaire 
+  🟡 Commande de matériaux
+  🔵 Planification de l'acte autentique de vente chez le Notaire
+  🟡 Faire un planning précis des 2 semaines de travaux + travail de préparation -> Quand faire quoi ? 
+> *DECEMBRE*
+  🟡 Préparer les démarches de changement d'adresse, résiliation/activation de contrat
+        - Gaz,
+        - Electricité,
+        - Eau,
+        - Smictom, 
+        - Internet,
+        - Assurance habitation,
+        - Relais courrier
+        - MàJ domiciliation (banque, télephone, mutuelle, sécu, travail, impôts, carte grise) 
+  🟡 Signature de l'acte de vente et remise des clés (on espère!)
+  🟡 Commencer les travaux 
+> *JANVIER*
+  🟡 Travaux (planning précis à réaliser)
+  🟡 Déménager progressivement les affaires, installation progressive (priorité au confort)
+  🟡 Acheter des meubles chinés pour compléter (si l'occasion se présente)
+  🟡 Acheter électroménager
+      - Machine à laver
+      - Lave vaiselle 
+
+**A TRIER : 
+- pas fait peinture extérieur et mortier pas étanche : peinture étanche à faire
+- Observer à différents moment et météo, avec différents profils (expert et novice). 
+ - alarme 
+ - protection Julia et Robin
+ - protection en cas de décès
+ - 
+ALEX expertise/Pierrot GERARD/29 Rue du Château/67380 LINGOLSHEIM/03 90 00 25 39 | 06 71 01 73 33/p.gerard@alexpertise.com. 
+```
+- Installation des capteurs humidité/température 
+🟢 lire lettre recommandée
  - déterminer si le mur est avec peinture (spritch)
 - Lire revue Logement (figaro)
 - Vérifier plénitude du 1er (et composition) et plafond 
 - telecommande du garage 
 - Réparation des fissures sur le murs (infiltration)
-
 - Vérifier un ragreage, plénitude et jonction en vue de la pause du planché (2mm avec règle de 1m)
 - check 3% est le taux d'humidité du support.
 - Acheter une règle à niveau de maçon
 - 🟢 Acheter des contrôleur de fissures (mano mano)
-
-- 🟢 lire lettre recommandée 
-- discuter avec les voisins 
-- aller à Mr bricolage 
-- 🟢 aller à Leroy Merlin (Mundolsheim)
-- aller à Castorama (Mundolsheim)
-- 🟢 Saint Maclou (Lampersheim)
-- aller à Hornbach (DE)
-- aller à bauhaus (DE)
-- ATOO DESIGN (Molsheim)
-- Les Matériaux Siehr (Marlenheim)
-- 🟢 GEDIMAT - BRICO PRO WEISS (Wasselone)
-- 🟢 MILDECOR Peintures & Revêtements (Otterswiller)
-- Socobri (Otterwiller)
-- aller chez les autres fournisseurs possible (cf liste google maps) 
-
-- Obtenir relevé bancaire SG
-- Maçon et trou dans le toit à régler 
-
-- Hypothèque ou cautionnement ? prix ?
-- 🔵 Banque populaire 03 54 22 10 00,  site hs
-- 🟢 CIC 03 88 49 97 21, mail envoyé 
-- 🟢 Banque postale ??? (pas OK de faire en emprunt ?!)
-- 🟢 critères note DPE 
-- 🟢 Union Nationale des Propriétaire Immobilier : association avec aide/outils
-- 🟢 ANIL, des outils/simulateur, dossiers techniques, question-réponse, revue de presse, documentation grand public.
-- 🟢 Fedexa, expert d'assuré (cf contact) 
-- 🟢 Crédit Mutuelle 
-- 🟢 BNP
-- 🟢 LCL
-- 🟢 Caisse d'épargne(pas dispo/vacances), boursoBank (pas accès/info)
-- 🟢 Courtière 
-- 🟢 SG
-- 🟢 Banque postale (3.33.. 3.73 .. icredit)
-- 🟢 Crédit Mutuelle (Possible de prendre une autre assurance, réductions de l'assurance à 50% quotité, Demande de proposition pour un crédit)
-
-- 2 devis peinture 
-- 🔵 2 devis solin
-  - 🟡 Tradi toiture (arnaque)
-  - 🔵 Schneider couverture
-  - 🔵 SD Couverture (devis+photo le 30/10) relance le 22/10.
-  - 🔵 Blaise Daniel (16/10,27/10,03 88 95 40 13)
-  - 🔵 Geisler(27/10)
-  - 🔵 Services Toitures (27/10 dans l'après-midi)
-- 🔵 2 devis étanchéité 
-  - 🔵 Suhner Entreprise de Construction (mail le 22/10)
-  - 🔴 VA BTP (Hors périmètre)
-  - 🔵 Esteves (rdv 24/10)
-  - 🔵 CONSTRUCTION KINTZELMANN (relance le 22/10)
-  - 🔴 SARL AKSU (relancer le 22/10)
-  - Construction Romao
-  - 🔵 DAG Sarl (27/10+RDFacade)
-  - 🔵 ATILLA (passage le 29/10,à priori 20.000/30.000 l'isolation extérieur, 20.000 une nouvelle toiture)
-- 2 devis isolation
-  - 🔵 ATILLA
-
-- 🟢 Demander versemment donation pour le 24/10 @Solann
-- 🔵 Redaction contrat de pret familial @Julia 
-- Versement du pret avant le 03/11/2025
-
-■ Financements du projet : offres de prêt 
- 
- Attente de 12 jours (24/10)
- **Puis 8 jours après rdv notaire**.
-
-- Stratégie Ma prim renov https://www.economie.gouv.fr/particuliers/faire-des-economies-denergie/maprimerenov-parcours-par-geste-la-prime-pour-la-renovation-energetique
-
-- Rdv Notaire pour le 24/10
-- fin octobre lancement départ de Gottenhouse 
-- imprimer récépissé 
-- imprimer lettre congé du logement  https://www.service-public.gouv.fr/simulateur/calcul/CongeLogement#main
-- 🟢 Notaire : demande pour facture matériel (nécéssite facture et mention qui a payé puis contractualisé ça)
-- 🔵 Récupérer carton pour déménager
-- 🟢 Trouver des capteurs d'humidité/températures. 
-- 🔵 RETEX David proprio 
-- 🔵 Retex solann et Julia 
-- RETEX voisin au dessus 
-- RETEX voisin en dessous
-- RETEX voisin en face 
-
- ■ Signature chez le notaire : acte de vente 
-
-- Demarche ma prim renov 
-- 🟢 definir stratégie 5/10/15 ans
-- 🔵 calcule de ROI pour rentabiliser le bas avec AirBnB
-
-- mettre Lave vaisselle 
-- Machine à laver : trouver la taille et le prix
-- Question : quand peut on faire quoi ?
-- pas fait peinture extérieur et mortier pas étanche : peinture étanche à faire
-- Observer à différents moment et météo, avec différents profils (expert et novice). 
-- Mettre en carton les affaires (30/10)
-- Assurance habitation 
-- Eau
-- Électricité
-- Gaz
-- Smitcom
-- Internet 
-- Relais courrier 
-- Adresse carte grise
-- MàJ domiciliation
-   - banque
-   - telephone 
-   - mutuelle 
-   - Amelie
-   - travail 
-   - impot 
-- Installation des capteurs humidité/température 
-
-■ Déménagement
-
-■ Installation 
- 
-■ Crémaillère 
-
- - alarme 
- - protection Julia et Robin
- - protection en cas de décès
- - Fedexa, expert d'assuré : Agit avant (estimation préalable) ou après le sinistre (dossier, pièce technique,...)
-```
-ALEX expertise/Pierrot GERARD/29 Rue du Château/67380 LINGOLSHEIM/03 90 00 25 39 | 06 71 01 73 33/p.gerard@alexpertise.com. 
-```
-**PLANNING** 
-> *OCTOBRE*
-  - Contacter artisans pour devis (toiture, étanchéité, isolation)
-  - Commencer à estimer les travaux, réflexion sur les travaux à effectuer et le choix des matériaux  
-> *NOVEMBRE*
-  - S1-S2 : Faire le tri, commencer à emballer ce qui ne sert pas au quotidien
-  - Finalisation du prêt immobilier
-  - Commande de matériaux
-  - Planification de l'acte autentique de vente chez le notaire
-  - Faire un planning précis des 2 semaines de travaux + travail de préparation 
-> *DECEMBRE*
-  - Préparer les démarches de changement d'adresse, résiliation/activation de contrat (gaz, électricité, internet, assurances, sécurité sociale, impôts, etc.) 
-  - Signature de l'acte de vente et remise des clés (on espère!)
-  - Commencer les travaux 
-> *JANVIER*
-  - Travaux (planning précis à réaliser)
-  - Déménager progressivement les affaires, installation progressive (priorité au confort)
-  - Acheter des meubles chinés pour compléter (si l'occasion se présente) 
-
+- 🟢 Notaire : demande pour facture matériel (nécéssite facture et mention qui a payé puis contractualisé ça)**
 ------------------------------------------------------------------------------------
 
 # Vision sur 1 ans (2026/2027)
