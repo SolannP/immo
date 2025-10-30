@@ -1,14 +1,18 @@
 # Mémo
 Ce fichier utilise le [markdown](https://www.markdownguide.org/cheat-sheet/).  
 Un Jalon (■/✅️) est constitué de tâches. Les Jalons se suivent par ordre chronologique. Les tâches permetant de concrétiser un Jalon sont au dessus de celui-ci. Par exemple :
+```mermaid
+gantt
+    title A Gantt Diagram
+    dateFormat YYYY-MM-DD
+    section Section
+        A task          :a1, 2014-01-01, 30d
+        Another task    :after a1, 20d
+    section Another
+        Task in Another :2014-01-12, 12d
+        another task    :24d
 ```
-- action A1 : Tâche à réaliser
-- 🔵 action A2 : Tâche en cours
-  - sous action A2.1
-  - sous actions A2.2
-- 🟢 action A3 : Tâche réalisée
-- ■ Jalon A
-```
+
 > **Patience, observations et réflexions**.  
 >  Prendre des notes, observations, ressenti subjectif.  
 >  Faire son carnet de bord et noter ses idées; Plan, schéma, photos.
