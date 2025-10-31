@@ -352,6 +352,7 @@ Des plantes vertes en pot aide souvent à régluler l'humidité
 
 Les clés du confort écologique 
 
+VMR (Ventilation Mécanique Répartie) est idéal pour le bâti ancien, spécialement les salles d'eau !
 
 ------------------------------------------------------------------------------------
 
