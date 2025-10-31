@@ -29,6 +29,10 @@ gantt
 - 🟢 GEDIMAT - BRICO PRO WEISS (Wasselone)
 - 🟢 MILDECOR Peintures & Revêtements (Otterswiller)
 - SOCOBRI (Otterwiller)
+- Haller Carrelage (Saverne)
+- Négoce Veysal (Saverne)
+- DUROLITH SAVERNE (Saverne)
+- BigMat Muller Wagner (Saverne)
 - Autres (cf liste google maps)
 
 **Banques**
