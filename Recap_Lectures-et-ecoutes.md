@@ -27,7 +27,10 @@ Pdf Web Parquet GPT
 
 Gain de place plus de 100 astuces , 2011, 978-2-7072-0641-1; plutôt vieux livre avec 1 ou deux idées bien 
 
-Traiter l'humidité, 23 août 2011, 978-2-212-13223-6;
+Traiter l'humidité, 23 août 2011, 978-2-212-13223-6; Plutôt bien avec des réflexions intéressantes.
+
+Les clés du confort thermique écologiques,septembre 2021; 978-2-36098-651-4; Un peux trop compliqué et pas forcément pédagogique dans les explications.  Des idées pratico pratique utiles
+ 
 
 ------------------------------------------------------------------------------------
 Entretenir sa maison (10 conseils)
@@ -346,6 +349,9 @@ Il existe des systèmes d'assechement à brancher plusieurs jours(3 à 8j) notam
 Des plantes vertes en pot aide souvent à régluler l'humidité 
 
 ------------------------------------------------------------------------------------
+
+Les clés du confort écologique 
+
 
 ------------------------------------------------------------------------------------
 
