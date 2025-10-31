@@ -207,6 +207,7 @@ ALEX expertise/Pierrot GERARD/29 Rue du Château/67380 LINGOLSHEIM/03 90 00 25 3
   - grand seau pour produit ragreage 
   - grand seau d'eau
   - enduit de ciment pour le trou (si besoin)
+  - Pauliane à poser avant le ragreage 
 
  - Acheter des très bon EPI et équipements autres:
   - Respiration 
