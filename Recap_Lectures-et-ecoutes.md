@@ -30,6 +30,8 @@ Gain de place plus de 100 astuces , 2011, 978-2-7072-0641-1; plutôt vieux livre
 Traiter l'humidité, 23 août 2011, 978-2-212-13223-6; Plutôt bien avec des réflexions intéressantes.
 
 Les clés du confort thermique écologiques,septembre 2021; 978-2-36098-651-4; Un peux trop compliqué et pas forcément pédagogique dans les explications.  Des idées pratico pratique utiles
+
+l'archi pelle, youtube
  
 
 ------------------------------------------------------------------------------------
@@ -353,6 +355,28 @@ Des plantes vertes en pot aide souvent à régluler l'humidité
 Les clés du confort écologique 
 
 VMR (Ventilation Mécanique Répartie) est idéal pour le bâti ancien, spécialement les salles d'eau !
+
+------------------------------------------------------------------------------------
+
+L'archi pelle
+
+
+Pour des fissures, possible de mettre quelque chose d'élastique (genre acrylique) si bien bouché de chaque côté et repeindre par dessus.
+
+vraiment axé sur la limitation de la perte de chaleur en hiver plutôt que garder la fraîcheur l'été dans nos régions. 
+
+chaleur en dent de scie contribue a l'inconfort.
+
+placo donne sensation de mal isolé,  comme le métal et autre. peut être alternative pour améliorer la diffusion comme la terre.
+
+sur les parties à l'extérieur proche du vide sanitaire, passage de fraîcheur, notamment si métal dans la dalle. 
+
+broque à une intertie plus faible et le fait de ne pas isoler l'intégralité (pas de continuité) à un vrai impacte fort (15% pas isolé = 20% perte)
+
+
+------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------------------
 
