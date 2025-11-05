@@ -44,14 +44,15 @@ Ce fichier utilise le [markdown](https://www.markdownguide.org/cheat-sheet/).
 **Artisans**
 > PEINTURE
 - 🔵 L'atelier du peintre (08/11, 9h) 
+> COUVERTURE
 - 🟢 SOLIN/COUVERTURE/TOITURE (trou dans le toit à régler)
 - Rapport reparation attendu
-- 🟡 Tradi toiture (Arnaque)
-- 🔵 Schneider couverture
-- 🔵 SD Couverture (devis+photo le 30/10) relance le 22/10.
-- 🔵 Blaise Daniel (16/10,27/10,03 88 95 40 13)
+- ⚠️ Tradi toiture (Arnaque)
+- 🟡 Schneider couverture (pas dispo)
+- 🔴 SD Couverture (injoignable: devis+photo le 30/10, 22/10, 5/11)
+- 🔴 Blaise Daniel (injoignable: 16/10,27/10,5/11,03 88 95 40 13)
 - 🔵 Geisler(27/10)
-- 🔵 Services Toitures (27/10 dans l'après-midi)
+- ⚠️ Services Toitures (ARNAQUE 27/10 dans l'après-midi)
 - 🟢 ATILLA (29/10, 14h) 
 > ETANCHEITE  
 - 🔵 Suhner Entreprise de Construction (mail le 22/10)
@@ -63,8 +64,7 @@ Ce fichier utilise le [markdown](https://www.markdownguide.org/cheat-sheet/).
 - 🔵 DAG Sarl (27/10+RDFacade)
 - 🟢 ATILLA (devis reçu le 29/10 -> 12.500€) 
 > ISOLATION THERMIQUE EXTERIEURE 
-- 🔵 ATILLA (passage le 29/10,à priori 20.000/30.000 l'isolation extérieur, 20.000 une nouvelle toiture)
-- 🔵 Atelier du peintre (08/11, 9h)
+- 🟢 ATILLA (passage le 29/10,à priori 20.000/30.000 l'isolation extérieur, 20.000 une nouvelle toiture)
 
 **Matériel à acheter**
 - 🟢 Trouver des capteurs d'humidité/températures
@@ -232,6 +232,7 @@ Location d'outils possible :
 11) Air Fryer
 12) Machine à laver 
 13) Lave vaisselle 
+14) Poele 
 14) Salle de bain/WC, faire appel à quelqu'un 
 15) escalier / entrée 
 
