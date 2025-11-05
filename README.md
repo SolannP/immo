@@ -1,17 +1,5 @@
 # Mémo
 Ce fichier utilise le [markdown](https://www.markdownguide.org/cheat-sheet/).  
-Un Jalon (■/✅️) est constitué de tâches. Les Jalons se suivent par ordre chronologique. Les tâches permetant de concrétiser un Jalon sont au dessus de celui-ci. Par exemple :
-```mermaid
-gantt
-    title A Gantt Diagram
-    dateFormat YYYY-MM-DD
-    section Section
-        A task          :a1, 2014-01-01, 30d
-        Another task    :after a1, 20d
-    section Another
-        Task in Another :2014-01-12, 12d
-        another task    :24d
-```
 
 > **Patience, observations et réflexions**.  
 >  Prendre des notes, observations, ressenti subjectif.  
@@ -26,6 +14,7 @@ gantt
 - BAUHAUS (Offenbourg, Allemagne)
 - ATOO DESIGN (Molsheim)
 - SIEHR (Marlenheim)
+- 🟢 Sehr (Saverne)
 - 🟢 GEDIMAT - BRICO PRO WEISS (Wasselone)
 - 🟢 MILDECOR Peintures & Revêtements (Otterswiller)
 - 🟢 SOCOBRI (Otterwiller)
@@ -36,7 +25,7 @@ gantt
 - Autres (cf liste google maps)
 
 **Banques**
-- 🔵 Banque populaire
+- 🟡 Banque populaire > Pas de retour 
 - 🟢 CIC > *Offre reçue*
 - 🟢 Banque postale > Pas intéressant
 - 🟢 Crédit Mutuel > *Offre reçue* **Montage dossier en cours**
@@ -51,19 +40,19 @@ gantt
 - 🟢 ANIL, des outils/simulateur, dossiers techniques, question-réponse, revue de presse, documentation grand public.
 - 🟢 Fedexa, expert d'assuré (cf contact)
 - Discuter avec les voisins
-- Fedexa, expert d'assuré : Agit avant (estimation préalable) ou après le sinistre (dossier, pièce technique,...)
 
 **Artisans**
 > PEINTURE
 - 🔵 L'atelier du peintre (08/11, 9h) 
-> SOLIN/COUVERTURE/TOITURE (trou dans le toit à régler)
+- 🟢 SOLIN/COUVERTURE/TOITURE (trou dans le toit à régler)
+- Rapport reparation attendu
 - 🟡 Tradi toiture (Arnaque)
 - 🔵 Schneider couverture
 - 🔵 SD Couverture (devis+photo le 30/10) relance le 22/10.
 - 🔵 Blaise Daniel (16/10,27/10,03 88 95 40 13)
 - 🔵 Geisler(27/10)
 - 🔵 Services Toitures (27/10 dans l'après-midi)
-- 🔵 ATILLA (29/10, 14h) 
+- 🟢 ATILLA (29/10, 14h) 
 > ETANCHEITE  
 - 🔵 Suhner Entreprise de Construction (mail le 22/10)
 - 🔴 VA BTP (Hors périmètre)
