@@ -14,7 +14,7 @@ Ce fichier utilise le [markdown](https://www.markdownguide.org/cheat-sheet/).
 - BAUHAUS (Offenbourg, Allemagne)
 - ATOO DESIGN (Molsheim)
 - SIEHR (Marlenheim)
-- 🟢 Sehr (Saverne)
+- 🟢 Siehr (Saverne)
 - 🟢 GEDIMAT - BRICO PRO WEISS (Wasselone)
 - 🟢 MILDECOR Peintures & Revêtements (Otterswiller)
 - 🟢 SOCOBRI (Otterwiller)
@@ -30,7 +30,7 @@ Ce fichier utilise le [markdown](https://www.markdownguide.org/cheat-sheet/).
 - 🟢 Banque postale > Pas intéressant
 - 🟢 Crédit Mutuel > *Offre reçue* **Montage dossier en cours**
 - 🟢 BNP > *Offre reçue*
-- 🟢 LCL > *Offre reçue*
+- 🟢 LCL > *Offre reçue* > **Relance en cours**
 - 🟢 Caisse d'épargne > *Offre reçue*
 - 🟢 Courtière 
 - 🟢 Société Générale > *Offre reçue*
@@ -52,7 +52,8 @@ Ce fichier utilise le [markdown](https://www.markdownguide.org/cheat-sheet/).
 - 🔴 SD Couverture (injoignable: devis+photo le 30/10, 22/10, 5/11)
 - 🔴 Blaise Daniel (injoignable: 16/10,27/10,5/11,03 88 95 40 13)
 - 🔵 Geisler(27/10)
-- ⚠️ Services Toitures (ARNAQUE 27/10 dans l'après-midi)
+- ⚠️ Services Toitures (ARNAQUE 27/10 dans l'après-midi ; devis reçu --> 2.500€
+
 - 🟢 ATILLA (29/10, 14h) 
 > ETANCHEITE  
 - 🔵 Suhner Entreprise de Construction (mail le 22/10)
@@ -64,7 +65,7 @@ Ce fichier utilise le [markdown](https://www.markdownguide.org/cheat-sheet/).
 - 🔵 DAG Sarl (27/10+RDFacade)
 - 🟢 ATILLA (devis reçu le 29/10 -> 12.500€) 
 > ISOLATION THERMIQUE EXTERIEURE 
-- 🟢 ATILLA (passage le 29/10,à priori 20.000/30.000 l'isolation extérieur, 20.000 une nouvelle toiture)
+- 🟢 ATILLA (passage le 29/10,devis reçu le 05/11 --> 45.000€)
 
 **Matériel à acheter**
 - 🟢 Trouver des capteurs d'humidité/températures
