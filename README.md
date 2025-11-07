@@ -118,7 +118,7 @@ Il faudra que les devis détaillés soit prêts
  - 🔵 Planification de l'acte autentique de vente chez le Notaire
  - 🟡 Faire un planning précis des 2 semaines de travaux + travail de préparation -> Quand faire quoi ? 
 > *DECEMBRE*
- - 🟡 Préparer les démarches de changement d'adresse, résiliation/activation de contrat
+ - 🟡 Préparer les démarches de changement d'adresse, résiliation/activation de contrat.
         - Gaz,
         - Electricité,
         - Eau,
@@ -204,6 +204,11 @@ ALEX expertise/Pierrot GERARD/29 Rue du Château/67380 LINGOLSHEIM/03 90 00 25 3
   - bruit 
   - lunette
   - détecteur de câble électrique (murale)
+
+ - Réparer un placo abîmé :
+    - l’enduit de finition
+    - l’utilisation d’une bande à joint ou d’une bande grillagée est recommandée pour renforcer la réparation 
+    - Utilisation du MAP (Mortier Adhésif Placoplatre)
 
 Location d'outils possible :
 - https://bricolib.net/
