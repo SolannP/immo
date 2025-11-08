@@ -24,23 +24,6 @@ Ce fichier utilise le [markdown](https://www.markdownguide.org/cheat-sheet/).
 - BigMat Muller Wagner (Saverne)
 - Autres (cf liste google maps)
 
-**Banques**
-- 🟡 Banque populaire > Pas de retour 
-- 🟢 CIC > *Offre reçue*
-- 🟢 Banque postale > Pas intéressant
-- 🟢 Crédit Mutuel > *Offre reçue* **Montage dossier en cours**
-- 🟢 BNP > *Offre reçue*
-- 🟢 LCL > *Offre reçue* > **Relance en cours**
-- 🟢 Caisse d'épargne > *Offre reçue*
-- 🟢 Courtière 
-- 🟢 Société Générale > *Offre reçue*
-
-**Autres contacts**
-- 🟢 Union Nationale des Propriétaire Immobilier : association avec aide/outils
-- 🟢 ANIL, des outils/simulateur, dossiers techniques, question-réponse, revue de presse, documentation grand public.
-- 🟢 Fedexa, expert d'assuré (cf contact)
-- Discuter avec les voisins
-
 **Artisans**
 > PEINTURE
 - 🔵 L'atelier du peintre (08/11, 9h) 
@@ -365,6 +348,22 @@ Sol peut nécessite ragreage. Puis différentes couches pour parquet
 - 🟢 Sur le toit, devis solin (étanchéité de la cheminée en toiture) couvreur ou plombier zingueur (devis rapide avec bati toit 06 33 12 63 41, viens sur place)
 - 🟢 imprimer les contraintes d'urbanisme
 ✅️ Compromis signée (notaire redige) 12/10
+**Banques**
+- 🟡 Banque populaire > Pas de retour 
+- 🟢 CIC > *Offre reçue*
+- 🟢 Banque postale > Pas intéressant
+- 🟢 Crédit Mutuel > *Offre reçue* **Montage dossier en cours**
+- 🟢 BNP > *Offre reçue*
+- 🟢 LCL > *Offre reçue* > **Relance en cours**
+- 🟢 Caisse d'épargne > *Offre reçue*
+- 🟢 Courtière 
+- 🟢 Société Générale > *Offre reçue*
+
+**Autres contacts**
+- 🟢 Union Nationale des Propriétaire Immobilier : association avec aide/outils
+- 🟢 ANIL, des outils/simulateur, dossiers techniques, question-réponse, revue de presse, documentation grand public.
+- 🟢 Fedexa, expert d'assuré (cf contact)
+- Discuter avec les voisins
 
 
 
