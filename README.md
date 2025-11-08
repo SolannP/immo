@@ -53,7 +53,7 @@ Ce fichier utilise le [markdown](https://www.markdownguide.org/cheat-sheet/).
 - 🔴 Blaise Daniel (injoignable: 16/10,27/10,5/11,03 88 95 40 13)
 - 🔵 Geisler(27/10)
 - ⚠️ Services Toitures (ARNAQUE 27/10 dans l'après-midi ; devis reçu --> 2.500€
-
+- KV Toiture (à contacter)
 - 🟢 ATILLA (29/10, 14h) 
 > ETANCHEITE  
 - 🔵 Suhner Entreprise de Construction (mail le 22/10)
