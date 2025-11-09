@@ -7,6 +7,7 @@ Ce fichier utilise le [markdown](https://www.markdownguide.org/cheat-sheet/).
 
 **Magasins de bricolage**
 - Mr Bricolage (Mundolsheim)
+- Hyper céramique (moulure)
 - 🟢 Leroy Merlin (Mundolsheim)
 - Castorama (Mundolsheim)
 - 🟢 Saint-Maclou (Lampersheim)
