@@ -29,7 +29,7 @@ Gain de place plus de 100 astuces , 2011, 978-2-7072-0641-1; plutôt vieux livre
 
 Traiter l'humidité, 23 août 2011, 978-2-212-13223-6; Plutôt bien avec des réflexions intéressantes.
 
-Les clés du confort thermique écologiques,septembre 2021; 978-2-36098-651-4; Un peux trop compliqué et pas forcément pédagogique dans les explications.  Des idées pratico pratique utiles
+Les clés du confort thermique écologiques,septembre 2021; 978-2-36098-651-4; Un peux trop compliqué et pas forcément pédagogique dans les explications. Certaines partie plutôt politique que pragmatique et d'autre très pragmatique. Des idées pratico pratique utiles. Des points de vue différents qui sont intéressant et nouveau.
 
 l'archi pelle, youtube
  
@@ -380,7 +380,11 @@ Reste la corvée du bois et le ramonages mais
 Façade Lucio et Mur Trombe necessite un bon ensoleillement. La serre bioclimatique ou serre d'abondance est intéressante.
 
 Une terrasse peut être un beau accumulateur de calories. 
-Une rallonge de toit oblique permet d'éviter de couper/limiter l'ensoleillement fort en été 
+Une rallonge de toit oblique permet d'éviter de couper/limiter l'ensoleillement fort en été.
+
+Une VMC contrôlé, n'existant pas encore, serait le mieux : réduit en été pour ne pas faire entrer la chaleur,booster la nuit pas faire entrer la chaleur, booster lors de l'utilisation de la SdB.
+Plante verte et fontaine peuvent aider 
+
 ------------------------------------------------------------------------------------
 
 L'archi pelle
