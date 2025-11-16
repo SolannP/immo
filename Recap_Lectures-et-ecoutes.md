@@ -409,6 +409,7 @@ broque à une intertie plus faible et le fait de ne pas isoler l'intégralité (
 
 Une chambre d'enfant saine et écologique
 
+> Biofa, Auro, Leinos, Volvox
 Peinture écologique **sans solvant** comme les peinture à base de caséine, diluable dans l'eau.
 Pour en appliquer :
 - Fonctionne sur tout support (pierre, grès, calcaire, torchis, argile, enduits, plâtres et placopatre, bois et dérivés. Mais il doit être absorbant, propre et sec (pas de tâches d'huile)
@@ -416,7 +417,9 @@ Pour en appliquer :
 - Selon le support, il est nécessaire des faire une sous couche de peinture dispersion 
 - deux couche de finition ou plus en fonction de l’effet recherché : le pouvoir couvrant en visible qu'après séchage 
 - Pour la peinture teintée avec des pigment,  une variations est à prévoir (une a deux teinte plus claire) : utiliser un sèche cheveux pour les essais 
-- verser 0.7 à 0.9 Litre d'eau par Kg de caséine. Y ajouter les pigments dillué au préalable dans de l'eau puis verser progressivement la Caséine. Rajouter 0.1 à 0.3 L d'eau jusqu'à l'obtention d'une consistance crémeuse. Repos de 30mn. Puis la peinture continu de s'épaissit pendant 24h (temps de séchage). Pour maintenir la bonne consistance, ajouter de l'eau de temps à autre.
+- verser 0.7 à 0.9 Litre d'eau par Kg de caséine. Y ajouter les pigments (concentré de couleur prêt à l'emploi ou à dilluer au préalable dans de l'eau) puis verser progressivement la Caséine. Rajouter 0.1 à 0.3 L d'eau jusqu'à l'obtention d'une consistance crémeuse. Repos de 30mn. Puis la peinture continu de s'épaissit pendant 24h (temps de séchage). Pour maintenir la bonne consistance, ajouter de l'eau de temps à autre.
+
+
 
 Décapage écologique pour le mobilier (pour les peintures et vernis) :
 - 200g de lessive Saint Marc délayé dans un peu d'eau
@@ -446,6 +449,8 @@ hyde en fonction de sa taille, et décom-
 pose aussi xylène, toluène, ammoniac,
 alcools acétone, trichloréthylène et
 benzène
+
+Citation à verifier : Les ampoules "Lumbio" sont les plus économiques sur le marché et ont un spectre identique à la lumière du jour.
 
 ------------------------------------------------------------------------------------
 
