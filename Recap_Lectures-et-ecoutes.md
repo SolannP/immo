@@ -32,6 +32,8 @@ Traiter l'humidité, 23 août 2011, 978-2-212-13223-6; Plutôt bien avec des ré
 Les clés du confort thermique écologiques,septembre 2021; 978-2-36098-651-4; Un peux trop compliqué et pas forcément pédagogique dans les explications. Certaines partie plutôt politique que pragmatique et d'autre très pragmatique. Des idées pratico pratique utiles. Des points de vue différents qui sont intéressant et nouveau.
 
 l'archi pelle, youtube
+
+Une chambre d'enfant saine et écologique; 2007;972-2-84138-343-6
  
 
 ------------------------------------------------------------------------------------
@@ -404,6 +406,9 @@ broque à une intertie plus faible et le fait de ne pas isoler l'intégralité (
 
 
 ------------------------------------------------------------------------------------
+
+Une chambre d'enfant saine et écologique
+
 
 ------------------------------------------------------------------------------------
 
