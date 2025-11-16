@@ -356,6 +356,8 @@ Les clés du confort écologique
 
 VMR (Ventilation Mécanique Répartie) est idéal pour le bâti ancien, spécialement les salles d'eau !
 
+Pour ITI anciens, par pluie hygro régulé est important.
+
 ------------------------------------------------------------------------------------
 
 L'archi pelle
