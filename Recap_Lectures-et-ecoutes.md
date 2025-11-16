@@ -433,6 +433,20 @@ Pour repeindre du mobilier, il est conseillé d'utiliser une laque écologique :
 - Sur le bois avec nue, utiliser une sous couche de primaires de laquelle ou impression universelle 
 - Sur de Zinc ou métaux zingués, appliquer une couche d'antirouille
 
+
+> Plantes dépolluantes pour la maison, Eugène Ulmer, 2008, Isabelle Hannebicque et Marc Grollimund 
+
+- POTHOS. SCINDAPSUS SP : Plante incontournable qui absorbe toluène, benzène, hexane, formaldéhyde et trichloréthylène
+- CHLOROPHYTUM_ COMOSUM (PLANTE ARAIGNÉE) : Plante entièrement dépolluante, des racines aux tubercules. Selon sa taille, elle élimine de 3 à 10 ug/h du formaldéhyde 96 % du CO (monoxyde de carbone) sont éliminés en 24 h. Le toluène, le benzène et le xylène sont également décomposés.
+- PHILODENDRON : Les philodendrons ont une action purifica-
+trice de l'air. Selon les espèces choisies, leurs actions diffèrent. Par exemple, le philodendron grimpant élimine le formaldéhyde, tandis que le philodendron monstera absorbera en plus l'ammoniac.
+-  SPATHIPHYLLUM : Championne de la dépollution., cette
+plante absorbe 5 à 15 ug/h de formaldé-
+hyde en fonction de sa taille, et décom-
+pose aussi xylène, toluène, ammoniac,
+alcools acétone, trichloréthylène et
+benzène
+
 ------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------------------
