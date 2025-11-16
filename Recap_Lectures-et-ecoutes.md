@@ -409,6 +409,29 @@ broque à une intertie plus faible et le fait de ne pas isoler l'intégralité (
 
 Une chambre d'enfant saine et écologique
 
+Peinture écologique **sans solvant** comme les peinture à base de caséine, diluable dans l'eau.
+Pour en appliquer :
+- Fonctionne sur tout support (pierre, grès, calcaire, torchis, argile, enduits, plâtres et placopatre, bois et dérivés. Mais il doit être absorbant, propre et sec (pas de tâches d'huile)
+- Dépoussiérer,  éliminer les anciennes peinture qui n'adhère pas, poncer les laques
+- Selon le support, il est nécessaire des faire une sous couche de peinture dispersion 
+- deux couche de finition ou plus en fonction de l’effet recherché : le pouvoir couvrant en visible qu'après séchage 
+- Pour la peinture teintée avec des pigment,  une variations est à prévoir (une a deux teinte plus claire) : utiliser un sèche cheveux pour les essais 
+- verser 0.7 à 0.9 Litre d'eau par Kg de caséine. Y ajouter les pigments dillué au préalable dans de l'eau puis verser progressivement la Caséine. Rajouter 0.1 à 0.3 L d'eau jusqu'à l'obtention d'une consistance crémeuse. Repos de 30mn. Puis la peinture continu de s'épaissit pendant 24h (temps de séchage). Pour maintenir la bonne consistance, ajouter de l'eau de temps à autre.
+
+Décapage écologique pour le mobilier (pour les peintures et vernis) :
+- 200g de lessive Saint Marc délayé dans un peu d'eau
+- 150g de farine
+Bien malaxer pour obtenir un gel puis l'étaler et laisser agir plusieurs heures. Enfin retiré le gel avec un spatule et rincer avec de l'eau.  
+Sur chêne massif, il faut éviter sinon il noircis.
+
+Pour repeindre du mobilier, il est conseillé d'utiliser une laque écologique :
+- Bon pouvoir couvrant 
+- Bonne résistance mécanique 
+- Lessivable 
+- Satisfait les normes européennes EN 71/3 (Sécurité et jouet) et DIN 53160 (Tenue à la transpiration et salive)
+- Convient pour l'intérieur,  extérieur,...
+- Sur le bois avec nue, utiliser une sous couche de primaires de laquelle ou impression universelle 
+- Sur de Zinc ou métaux zingués, appliquer une couche d'antirouille
 
 ------------------------------------------------------------------------------------
 
