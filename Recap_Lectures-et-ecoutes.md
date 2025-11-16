@@ -378,6 +378,9 @@ On nomme fourneau bouilleur le système mixe de chaufage du lieu et de l'eau.
 Reste la corvée du bois et le ramonages mais 
 
 Façade Lucio et Mur Trombe necessite un bon ensoleillement. La serre bioclimatique ou serre d'abondance est intéressante.
+
+Une terrasse peut être un beau accumulateur de calories. 
+Une rallonge de toit oblique permet d'éviter de couper/limiter l'ensoleillement fort en été 
 ------------------------------------------------------------------------------------
 
 L'archi pelle
