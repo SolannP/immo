@@ -370,6 +370,10 @@ Pour le chauffage, le poelle de masse est plutôt dédiée au petit espace. Le p
 **Les films électrique rayonnant** est intéressant, même s'il utilise de l'électricité (qui va devenir cher), a peu d'entretien et une installation simple.  
 **Le poêle a bois** est bien pour ceux qui peuvent s'en procurer localement ou ont leur propre bois. L'inconvénient est que c'est salissant et ne peut pas être allumé tout seul. Si le tirage n'est pas idéal, la fumée pourra marquer la deco. Le mieux est la double combustion et étanche : sont fonctionnement est plus performant, régulière et ne pertube pas le renouvellement de l'air.
 
+Installer un chauffage non pas au sol mais sur les murs est bien car nous avons plus de capteurs sur le corps que sur les pieds. L'inconvénient est qu'il faut prévoir l'emplacement des meubles (car l'armoire peut bloquer l'emission) et obligatoirement noter les emplacements en cas de perçage.
+
+Possible aussi sur les plafonds !
+
 
 ------------------------------------------------------------------------------------
 
