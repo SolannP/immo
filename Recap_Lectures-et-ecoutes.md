@@ -356,7 +356,10 @@ Les clés du confort écologique
 
 VMR (Ventilation Mécanique Répartie) est idéal pour le bâti ancien, spécialement les salles d'eau !
 
-Pour ITI anciens, par pluie hygro régulé est important.
+Pour ITI anciens, le par pluie hygro régulé est important.
+
+Pour L'ITI, il est primordial que le châssis des menuiserie soient intégrés à l'isolant. Sur le mur porteur, il faut donc le châssis sur sa face intérieur avant même de l'isoler. Ainsi lors de la pose de l'isolant, le dormant (partie fixe des menuiseries) seront enchassés dans l'isolant ce qui assure la continuité des éléments.  
+Pour l'ITE il faudra à contrario positionner les menuiserie sur la face extérieure des murs porteurs(avant mise en place de l'isolant.
 
 ------------------------------------------------------------------------------------
 
