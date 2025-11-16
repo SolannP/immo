@@ -374,7 +374,10 @@ Installer un chauffage non pas au sol mais sur les murs est bien car nous avons 
 
 Possible aussi sur les plafonds !
 
+On nomme fourneau bouilleur le système mixe de chaufage du lieu et de l'eau. 
+Reste la corvée du bois et le ramonages mais 
 
+Façade Lucio et Mur Trombe necessite un bon ensoleillement. La serre bioclimatique ou serre d'abondance est intéressante.
 ------------------------------------------------------------------------------------
 
 L'archi pelle
