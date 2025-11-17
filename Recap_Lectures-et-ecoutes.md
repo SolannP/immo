@@ -33,7 +33,7 @@ Les clés du confort thermique écologiques,septembre 2021; 978-2-36098-651-4; U
 
 l'archi pelle, youtube
 
-Une chambre d'enfant saine et écologique; 2007;972-2-84138-343-6
+Une chambre d'enfant saine et écologique; 2007;972-2-84138-343-6; Des idées et produits bien .. mais grosse incertitude sur la qualité car des propos HS comme "protéger les rideaux du soleil et de la lune" ou "installer des protections contre le magnétisme du courant elec lorsqu'il n'est pas utilisé"
  
 
 ------------------------------------------------------------------------------------
@@ -451,6 +451,8 @@ alcools acétone, trichloréthylène et
 benzène
 
 Citation à verifier : Les ampoules "Lumbio" sont les plus économiques sur le marché et ont un spectre identique à la lumière du jour.
+
+Aspirations centralisé.. 
 
 ------------------------------------------------------------------------------------
 
