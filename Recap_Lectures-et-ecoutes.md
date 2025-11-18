@@ -457,6 +457,52 @@ Aspirations centralisé..
 
 ------------------------------------------------------------------------------------
 
+La maison écologique
+
+- Poêle à bûche 12 kW (Nordpeiss) + fumisterie = 2 500 €.  
+- Poêle à granulé bouilleur (HR 70 Hydro Ravelli) 10 kW dont 8 kW pour l'eau + ballon tampon 600L + fumisterie : 5 000 € 
+- Chauffe-eau solaire 5,44 m² capteurs + accumulateur Calyssée 300L: 4 300 €
+
+
+Gestion de l'eau : cuve plastique enterrée 3 600L pour recuperation eau de pluie (3 000 €), cuve de 50K et pompe de relevage pour récupération eaux grises (200 €), toilettes sèches (100 €)
+
+Photo terrasse jardin très sympa avec bas sur élevé avec petit plante, grosse dalle de pierre et herbe entre.
+
+Enduit chaux sable,Pour 1 m² de mur et environ 3,5 cm d'épaisseur, soit 35L d'enduit chaux- sable :
+- 52,5 kg de sable alluvionnaire
+en granulométrie 0/2 ou 0/4 suivant
+l'esthétique désirée : soit un total
+de 2 € TTC
+- 12L de chaux hydroulique NHL 3,5
+soit un total de 5 € TTC
+
+Outils :
+- Marteau-puqueur, Marteau de purge
+- Tuyau d'eau
+- Bétonnière
+- Gamate (pour mettre le mortier)
+- Brouette
+- Seau de maçon de 10L
+- Pelle
+- Truelle
+- Taloche
+- Brosse coco ou souffleur
+- Brosse violon
+- Brosse nylon
+
+Étapes :
+- Déjointoyer sur une profondeur de 5cm. 
+- Une fois les joints descellés, dépoussiérer avec souffleur,brosse 
+- Avec un tuyau en mode brumisateur, humidifié la zone (une trace d'eau doit se former et y rester). Répéter l'opération à chaque zone.
+- Appliquer l'enduit 
+- Une fois l'enduit presque sec (entre 6h et 24h), gratter l'enduit avec une truelle à 90° pour être à ras des pierres.
+- finition avec des brosses (violon sur des pierres pour les faire ressortir,  nylon pour faire tomber les derniers grains)
+
+Recette :
+Verser un sac de chaux hydraulique NHL3,5
+de 35 kg et 12 seaux (de 10 I) de sable dans la bétonnière. Ajouter 20 I d'eau. Ajuster si besoin pour obtenir une consistance de pâte épaisse. 
+Verser l'enduit dans une brouette, puis le disposer dans une gamate pour pouvoir l'appliquer sur le mur.
+
 ------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------------------
