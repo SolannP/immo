@@ -35,6 +35,7 @@ l'archi pelle, youtube
 
 Une chambre d'enfant saine et écologique; 2007;972-2-84138-343-6; Des idées et produits bien .. mais grosse incertitude sur la qualité car des propos HS comme "protéger les rideaux du soleil et de la lune" ou "installer des protections contre le magnétisme du courant elec lorsqu'il n'est pas utilisé"
  
+La maison écologique ; Autonomie et Résilience #145; 03/2025; Revue; 
 
 ------------------------------------------------------------------------------------
 Entretenir sa maison (10 conseils)
