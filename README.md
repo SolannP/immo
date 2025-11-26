@@ -27,29 +27,29 @@ Ce fichier utilise le [markdown](https://www.markdownguide.org/cheat-sheet/).
 
 **Artisans**
 > PEINTURE
-- 🔵 L'atelier du peintre (08/11, 9h) 
+- 🟢 L'atelier du peintre --> 36.000€, 43.700€
 > COUVERTURE
 - 🟢 SOLIN/COUVERTURE/TOITURE (trou dans le toit à régler)
-- Rapport reparation attendu
+- 🟢 Rapport reparation attendu
 - ⚠️ Tradi toiture (Arnaque)
 - 🟡 Schneider couverture (pas dispo)
-- 🔴 SD Couverture (injoignable: devis+photo le 30/10, 22/10, 5/11)
-- 🔴 Blaise Daniel (injoignable: 16/10,27/10,5/11,03 88 95 40 13)
+- 🟢 SD Couverture --> 3.000€
+- 🔴 Blaise Daniel
 - 🔵 Geisler(27/10)
-- ⚠️ Services Toitures (ARNAQUE 27/10 dans l'après-midi ; devis reçu --> 2.500€
+- ⚠️ Services Toitures --> 2.500€
 - KV Toiture (à contacter)
 - 🟢 ATILLA (29/10, 14h) 
 > ETANCHEITE  
-- 🔵 Suhner Entreprise de Construction (mail le 22/10)
+- 🔴 Suhner Entreprise de Construction (?)
 - 🔴 VA BTP (Hors périmètre)
 - 🔵 Esteves (rdv 24/10)
-- 🔵 CONSTRUCTION KINTZELMANN (relance le 22/10)
-- 🔴 SARL AKSU (relancer le 22/10)
-- 🔵 Construction Romao
-- 🔵 DAG Sarl (27/10+RDFacade)
-- 🟢 ATILLA (devis reçu le 29/10 -> 12.500€) 
+- 🔵 CONSTRUCTION KINTZELMANN (?)
+- 🔴 SARL AKSU (?)
+- 🔵 Construction Romao (?)
+- 🔵 DAG Sarl (?)
+- 🟢 ATILLA --> 12.500€
 > ISOLATION THERMIQUE EXTERIEURE 
-- 🟢 ATILLA (passage le 29/10,devis reçu le 05/11 --> 45.000€)
+- 🟢 ATILLA --> 45.000€)
 
 **Matériel à acheter**
 - 🟢 Trouver des capteurs d'humidité/températures
