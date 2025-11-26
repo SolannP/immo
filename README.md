@@ -128,7 +128,7 @@ Il faudra que les devis détaillés soit prêts
  - alarme 
  - protection Julia et Robin
  - protection en cas de décès
- - 
+ 
 ALEX expertise/Pierrot GERARD/29 Rue du Château/67380 LINGOLSHEIM/03 90 00 25 39 | 06 71 01 73 33/p.gerard@alexpertise.com. 
 
 - Installation des capteurs humidité/température 
@@ -215,17 +215,41 @@ Location d'outils possible :
 4) Sols (3j/h)
 4) Plaintes (plus tard)  
 5) plaintes/cache tuyau 
+
 6) Cuisine : plan de travail
 7) Cuisine : Lavabo
 8) Cuisines : Sols ?
 9) Porte (?)
 10) Frigo
-11) Air Fryer
+11) 🟢 Air Fryer
 12) Machine à laver 
 13) Lave vaisselle 
 14) Poele 
 14) Salle de bain/WC, faire appel à quelqu'un 
 15) escalier / entrée 
+
+# TRAVAUX DECEMBRE/JANVIER
+
+Conseil : 
+- peinture Mat
+
+1) La peinture du plafond 
+2) La dépose des plinthes et masticage soigné des murs des cloisons qui ne donne pas sur l'extérieur
+3) Msticage grossier des murs qui seront isolés dans le future
+Attention c'est inutile de déposer les plinthes
+4) Peinture soignée des cloisons qui ne donnent pas sur l'extérieur et peinture des murs qui seront isolés dans le future (finition moins importante)
+5) pour finir, la pose du parquet avec seulement les plinthes sur les cloisons qui ne donne pas sur l'extérieur.
+ 
+> *Partage d'expérience :*
+- peintures " dépolluantes " . HORIZON pour les portes et CAPTEO pour les plafonds
+- peinture acrylique " standard " Idrotop (mur et plafond)
+- peintures biosourcé
+- dans l'hôtellerie: utilisation de la marque TOLLENS 
+- Les portes et huisseries peuvent se faire plus tard avec une peinture ALKIDE SATIN (préparation via éponges ou tampons à poncer)
+
+> *Notes :*
+- on ne touche pas aux tuyaux de chauffage ni aux radiateurs 
+- a voir sur place, le remplacement des interrupteurs et prises
 
 ------------------------------------------------------------------------------------
 # Stratégie macro
