@@ -38,6 +38,11 @@ Une chambre d'enfant saine et écologique; 2007;972-2-84138-343-6; Des idées et
 La maison écologique ; Autonomie et Résilience #145; 03/2025; Revue; 
 
 ------------------------------------------------------------------------------------
+
+Menuiserie André : bon ratio qualité prix !
+
+------------------------------------------------------------------------------------
+
 Entretenir sa maison (10 conseils)
 
 Éviter ciment étanche et préféré les enduits à la chaux ?
