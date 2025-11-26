@@ -171,9 +171,9 @@ Conseil : peinture Mat
 > **Phase pre-propriétaire[xx/xx-yy/yy]**
 (3j/h)
 
-) mise en carton de la maison 
-) Déménagement gros meubles à organiser en fin de phase réhabilitation minimale
-) Démarches de changement d'adresse, résiliation/activation de contrat.
+- mise en carton de la maison 
+- Déménagement gros meubles à organiser en fin de phase réhabilitation minimale
+- Démarches de changement d'adresse, résiliation/activation de contrat.
         - Gaz,
         - Electricité,
         - Eau,
@@ -182,28 +182,28 @@ Conseil : peinture Mat
         - Assurance habitation,
         - Relais courrier
         - MàJ domiciliation (banque, télephone, mutuelle, sécu, travail, impôts, carte grise) 
-)  Signature de l'acte de vente et remise des clés (on espère!)
-) Commencer les travaux 
-) Apporter les petits cartons petit à petit 
+- Signature de l'acte de vente et remise des clés (on espère!)
+- Commencer les travaux 
+- Apporter les petits cartons petit à petit 
 
 > **Phase préparation[xx/xx-yy/yy]**
 7j/h
-1) Mise à nu du sol (moquette x5 pièces) et dans carton prêt à jeter
-2) Vérifier un ragreage, plénitude et jonction en vue de la pause du planché (moins de 2mm avec règle de 1m)
-3) Mise à nu des murs(tapisserie x5 pièces) et dans carton 
-4) Déchetterie 
+- Mise à nu du sol (lineau et moquette x5 pièces) et dans carton prêt à jeter
+- Vérifier un ragreage, plénitude et jonction en vue de la pause du planché (moins de 2mm avec règle de 1m)
+- Mise à nu des murs(tapisserie x5 pièces) et dans carton 
+- Déchetterie
 
 > **Phase réhabilitation minimale[xx/xx-yy/yy]
 
-) Apporter le parquet dans la pièce 48h avant (à 15°-20°)
-) La peinture du plafond 
-) La dépose des plinthes et masticage soigné des murs des cloisons qui ne donne pas sur l'extérieur
-) Masticage grossier des murs qui seront isolés dans le future (inutile de déposer les plinthes)
-) Peinture soignée des cloisons qui ne donnent pas sur l'extérieur et peinture des murs qui seront isolés dans le future (finition moins importante)
-) pour finir, la pose du parquet avec seulement les plinthes sur les cloisons qui ne donne pas sur l'extérieur.
+- Apporter le parquet dans la pièce 48h avant (à 15°-20°)
+- La peinture du plafond 
+- La dépose des plinthes et masticage soigné des murs des cloisons qui ne donne pas sur l'extérieur
+- Masticage grossier des murs qui seront isolés dans le future (inutile de déposer les plinthes)
+- Peinture soignée des cloisons qui ne donnent pas sur l'extérieur et peinture des murs qui seront isolés dans le future (finition moins importante)
+- pour finir, la pose du parquet avec seulement les plinthes sur les cloisons qui ne donne pas sur l'extérieur.
 
-) Déménagement Gottenhouse 
-) État des lieux Gottenhouse 
+- Déménagement Gottenhouse 
+- État des lieux Gottenhouse 
 
 > **Suite réhabilitation [xx/xx-yy/yy]
 
