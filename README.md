@@ -76,52 +76,6 @@ Il faudra que les devis détaillés soit prêts
 - Basé sur les revenus fiscaux 2024 : 28.068 + 23.425 = 51.493€ --> Catégorie *"Ménages aux revenus intermédiaires"*
 - Possible de cumuler Ma Prime Rénov + Prime CEE + Eco-PTZ
 
- ■ SIGNATURE DE L'ACTE ANTHENTIQUE DE VENTE
-- 🟢 Definir stratégie 5/10/15 ans
-- 🔵 calcul de ROI pour rentabiliser le bas avec AirBnB
-
-■ DEMENAGEMENT
-
-■ INSTALLATION
- 
-■ CREMALLIERE
-
-**PLANNING** 
-> *OCTOBRE*
- - 🟢 Contacter artisans pour devis (toiture, étanchéité, isolation)
- - 🔵 Commencer à estimer les travaux, réflexion sur les travaux à effectuer et le choix des matériaux
- - 🔵 Se rendre dans les magasins de bricolage des alentours
- - 🔵 Fin octobre -> lancement du préavis auprès de David. Départ officiel fin janvier 2026.
-      - Imprimer récépissé 
-      - Imprimer lettre congé du logement  https://www.service-public.gouv.fr/simulateur/calcul/CongeLogement#main
-> *NOVEMBRE*
- - 🔵 S1-S2 : Faire le tri, commencer à emballer ce qui ne sert pas au quotidien
-        🟢 Récupérer carton pour déménager
- - 🔵 Signature du prêt bancaire 
- - 🟡 Commande de matériaux
- - 🔵 Planification de l'acte autentique de vente chez le Notaire
- - 🟡 Faire un planning précis des 2 semaines de travaux + travail de préparation -> Quand faire quoi ? 
-> *DECEMBRE*
- - 🟡 Préparer les démarches de changement d'adresse, résiliation/activation de contrat.
-        - Gaz,
-        - Electricité,
-        - Eau,
-        - Smictom, 
-        - Internet,
-        - Assurance habitation,
-        - Relais courrier
-        - MàJ domiciliation (banque, télephone, mutuelle, sécu, travail, impôts, carte grise) 
- - 🟡 Signature de l'acte de vente et remise des clés (on espère!)
- - 🟡 Commencer les travaux 
-> *JANVIER*
- - 🟡 Travaux (planning précis à réaliser)
- - 🟡 Déménager progressivement les affaires, installation progressive (priorité au confort)
- - 🟡 Acheter des meubles chinés pour compléter (si l'occasion se présente)
- - 🟡 Acheter électroménager
-      - Machine à laver
-      - Lave vaiselle 
-
-
 **A TRIER : 
 - pas fait peinture extérieur et mortier pas étanche : peinture étanche à faire
 - Observer à différents moment et météo, avec différents profils (expert et novice). 
@@ -132,50 +86,56 @@ Il faudra que les devis détaillés soit prêts
 ALEX expertise/Pierrot GERARD/29 Rue du Château/67380 LINGOLSHEIM/03 90 00 25 39 | 06 71 01 73 33/p.gerard@alexpertise.com. 
 
 - Installation des capteurs humidité/température 
-🟢 lire lettre recommandée
- - déterminer si le mur est avec peinture (spritch)
-- Lire revue Logement (figaro)
-- Vérifier plénitude du 1er (et composition) et plafond 
 - telecommande du garage 
 - Réparation des fissures sur le murs (infiltration)
-- Vérifier un ragreage, plénitude et jonction en vue de la pause du planché (2mm avec règle de 1m)
 - check 3% est le taux d'humidité du support.
 - Acheter une règle à niveau de maçon (lbc : 03.88.98.28.26)
 - 🟢 Acheter des contrôleur de fissures (mano mano)
 - 🟢 Notaire : demande pour facture matériel (nécéssite facture et mention qui a payé puis contractualisé ça)**
 ------------------------------------------------------------------------------------
 
-# Vision sur 1 ans (2026/2027)
+- Outils 
+  - Commun/Autre
+    - 🟢 Niveau laser
+    - 🟢 Métré laser 
+    - 🟢 thermomètre/hygrométrie x4
+    - 🟢 hygrometre matiere
+    - Une règle de maçon
+    - Aspirateur 
+    - Niveau à bulle
+    - Équerre
+    - Scie sauteuse
+    - Scie circulaire
+    - Table de sciage universelle
+    - Ponceuse rotative
+  - Peinture 
+    - Un couteau de peintre
+    - rouleau peinture 
+    - Bacs peinture 
+    - pinceau finition
+  - Parquet 
+    - Cales de dilatation 
+    - Tire lame (U en metal)
+    - Cales de frappe (bois pour amortir marteau)
 
-- choisir parquets
-  - 🟢 Niveau laser (~23/10)
-  - 🟢 Métré laser (~23/10)
-  - Un couteau de peintre
-  - Une règle de maçon
-  - Aspirateur 
-  - Niveau à bulle
-  - cales de dilatation 
-  - Équerre 
-  - meilleur scie sauteuse 
- (- scie circulaire)
-  - cales de frappe (bois pour amortir marteau)
-  - tire lame (U en metal)
-  - sous couche 
-  - Scotch dédiée 
-  - Table de sciage universelle
-- choisir le type de plainte 
-- choisir la peinture (mieux humide : mat)
-  - 🟢 thermomètre/hygrométrie x4 (~29/10)
-  - 🟢 hygrometre matiere (~26/10)
-  - rouleau 
-  - Bacs
-  - pinceau finition 
-  - Protection fenêtre/radiateur/...
-  - carton en tant que poubelle lors du nettoyage (tapisserie)
-  - Rouleau de protection 
-  - Ponceuse rotative 
+- Consommable 
+  - Peinture 
+    - La peinture
+    - Plastiques fenêtre/radiateur/... 
+    - Scotch dédiée protection 
+  - Parquet
+    - Le parquet 
+    - Les plinthes 
+    - Scotch dédiée sous couche 
+    - Sous couche 
+- Équipement de Protection Individuelle (EPI)
+  - Masque
+  - Casque bruit et boule quies
+  - lunette
+  - détecteur de câble électrique (murale)
 
-- préparer le ragreage 
+    
+- Si ragreage 
   - definir le lissage par zone en incluant parquets 
   - type de ragreage (fibre ou standard)
   - rouleau à bulle 
@@ -184,38 +144,70 @@ ALEX expertise/Pierrot GERARD/29 Rue du Château/67380 LINGOLSHEIM/03 90 00 25 3
   - enduit de ciment pour le trou (si besoin)
   - Pauliane à poser avant le ragreage 
 
- - Acheter des très bon EPI et équipements autres:
-  - Respiration 
-  - bruit 
-  - lunette
-  - détecteur de câble électrique (murale)
-
- - Réparer un placo abîmé :
-    - l’enduit de finition
-    - l’utilisation d’une bande à joint ou d’une bande grillagée est recommandée pour renforcer la réparation 
-    - Utilisation du MAP (Mortier Adhésif Placoplatre)
+- Si placo/atre abîmé :
+  - l’enduit de finition
+  - l’utilisation d’une bande à joint ou d’une bande grillagée est recommandée pour renforcer la réparation 
+  - Utilisation du MAP (Mortier Adhésif Placoplatre)
 
 Location d'outils possible :
 - https://bricolib.net/
 - https://www.je-loue-tout.fr/search.php?type=1&reg=6&county=1&keywords=&postcode=&cat=0&sort=1&status=0&page=1
     - décolleuse https://www.je-loue-tout.fr/annonce/Grand-Est-Bas-Rhin-Decolleuse-papier-peint-Location-decolleuse-a-papiers-peints-electrique-327
 
- ■ Obtention des clés
+# TRAVAUX DECEMBRE/JANVIER
 
-- béton
-- solin
-- 1er : grande chambre, petit chambre, couloir, séjour (7j/h)
-  - arracher la tapisserie
-  - arracher la moquette
-  - déchetterie
-  - plafond ?
-3) Peinture
-  - protection fenêtre, porte, radiateur. 
-4) Ragreage. 
-4) Sols (3j/h)
-4) Plaintes (plus tard)  
-5) plaintes/cache tuyau 
+Conseil : peinture Mat
 
+>*Étapes :*
+
+- 🔵 Faire un planning précis des 2 semaines de travaux + travail de préparation -> Quand faire quoi ? 
+- Commande de matériaux
+- Inventaire des outils familiaux 
+- Acheter des meubles chinés pour compléter (si l'occasion se présente)
+- Acheter électroménager
+  - Machine à laver
+  - Lave vaiselle 
+
+> **Phase pre-propriétaire[xx/xx-yy/yy]**
+(3j/h)
+
+) mise en carton de la maison 
+) Déménagement gros meubles à organiser en fin de phase réhabilitation minimale
+) Démarches de changement d'adresse, résiliation/activation de contrat.
+        - Gaz,
+        - Electricité,
+        - Eau,
+        - Smictom, 
+        - Internet,
+        - Assurance habitation,
+        - Relais courrier
+        - MàJ domiciliation (banque, télephone, mutuelle, sécu, travail, impôts, carte grise) 
+)  Signature de l'acte de vente et remise des clés (on espère!)
+) Commencer les travaux 
+) Apporter les petits cartons petit à petit 
+
+> **Phase préparation[xx/xx-yy/yy]**
+7j/h
+1) Mise à nu du sol (moquette x5 pièces) et dans carton prêt à jeter
+2) Vérifier un ragreage, plénitude et jonction en vue de la pause du planché (moins de 2mm avec règle de 1m)
+3) Mise à nu des murs(tapisserie x5 pièces) et dans carton 
+4) Déchetterie 
+
+> **Phase réhabilitation minimale[xx/xx-yy/yy]
+
+) Apporter le parquet dans la pièce 48h avant (à 15°-20°)
+) La peinture du plafond 
+) La dépose des plinthes et masticage soigné des murs des cloisons qui ne donne pas sur l'extérieur
+) Masticage grossier des murs qui seront isolés dans le future (inutile de déposer les plinthes)
+) Peinture soignée des cloisons qui ne donnent pas sur l'extérieur et peinture des murs qui seront isolés dans le future (finition moins importante)
+) pour finir, la pose du parquet avec seulement les plinthes sur les cloisons qui ne donne pas sur l'extérieur.
+
+) Déménagement Gottenhouse 
+) État des lieux Gottenhouse 
+
+> **Suite réhabilitation [xx/xx-yy/yy]
+
+) Porte
 6) Cuisine : plan de travail
 7) Cuisine : Lavabo
 8) Cuisines : Sols ?
@@ -228,19 +220,6 @@ Location d'outils possible :
 14) Salle de bain/WC, faire appel à quelqu'un 
 15) escalier / entrée 
 
-# TRAVAUX DECEMBRE/JANVIER
-
->*Conseil :*
-- peinture Mat
-
->*Étapes :*
-1) La peinture du plafond 
-2) La dépose des plinthes et masticage soigné des murs des cloisons qui ne donne pas sur l'extérieur
-3) Msticage grossier des murs qui seront isolés dans le future
-Attention c'est inutile de déposer les plinthes
-4) Peinture soignée des cloisons qui ne donnent pas sur l'extérieur et peinture des murs qui seront isolés dans le future (finition moins importante)
-5) pour finir, la pose du parquet avec seulement les plinthes sur les cloisons qui ne donne pas sur l'extérieur.
- 
 > *Partage d'expérience :*
 - peintures " dépolluantes " . HORIZON pour les portes et CAPTEO pour les plafonds
 - peinture acrylique " standard " Idrotop (mur et plafond)
@@ -251,6 +230,8 @@ Attention c'est inutile de déposer les plinthes
 > *Notes :*
 - on ne touche pas aux tuyaux de chauffage ni aux radiateurs 
 - a voir sur place, le remplacement des interrupteurs et prises
+
+
 
 ------------------------------------------------------------------------------------
 # Stratégie macro
@@ -308,27 +289,17 @@ Risque fissures structurelle : 15.000 à 100.000
 Étanchéité (toiture/fenêtre) : 2.000 à 15.000
 Mise au normes électrique : 5.000 à 20.000
 Desamiantage : 2.000 à 10.000
+
 ------------------------------------------------------------------------------------
 Fournisseur Possible 
 
 Pour rénovation énergie, label d'entreprise : Qualibat, Qualifelec, Eco Artisant, RGE
 Mildecor
 https://maps.app.goo.gl/Ap4t8qW9aCL4kf8Y7
+
 ------------------------------------------------------------------------------------
-Bonjour,
 
-Nous aimerions acquérir pour 2026 un bien immobilier à l'adresse suivante : 11 Rue du maréchal Foch, 67700 Saverne : une maison de 1800.
 
-Dans les actions à traiter rapidement, il est nécessaire de refaire le tour de maison, particulièrement sur le côté nord. La dale est fragmenté à certains endroits ce qui entraîne (a priori) de l'humidité dans la maison.
-
-Est ce qu'il serait possible de nous faire un devis ?
-
-Disponible pour en discuter.
- 
-Bonne fin de semaine, 
-Cordialement,
-
-M.PUYGRENIER Solann
 ------------------------------------------------------------------------------------
 
 Idée travaux
