@@ -230,9 +230,10 @@ Location d'outils possible :
 
 # TRAVAUX DECEMBRE/JANVIER
 
-Conseil : 
+>*Conseil :*
 - peinture Mat
 
+>*Étapes :*
 1) La peinture du plafond 
 2) La dépose des plinthes et masticage soigné des murs des cloisons qui ne donne pas sur l'extérieur
 3) Msticage grossier des murs qui seront isolés dans le future
