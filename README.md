@@ -52,8 +52,7 @@ Ce fichier utilise le [markdown](https://www.markdownguide.org/cheat-sheet/).
 - 🟢 ATILLA --> 45.000€)
 > PARQUETS 
 - 🟢 Saint Maclou --> 7.500€
-**Matériel à acheter**
-- 🟢 Trouver des capteurs d'humidité/températures
+
 
 **Retours d'expérience**
 - 🔵 RETEX David proprio 
@@ -89,7 +88,7 @@ Il faudra que les devis détaillés soit prêts
 
 **PLANNING** 
 > *OCTOBRE*
- - 🔵 Contacter artisans pour devis (toiture, étanchéité, isolation)
+ - 🟢 Contacter artisans pour devis (toiture, étanchéité, isolation)
  - 🔵 Commencer à estimer les travaux, réflexion sur les travaux à effectuer et le choix des matériaux
  - 🔵 Se rendre dans les magasins de bricolage des alentours
  - 🔵 Fin octobre -> lancement du préavis auprès de David. Départ officiel fin janvier 2026.
@@ -122,6 +121,7 @@ Il faudra que les devis détaillés soit prêts
       - Machine à laver
       - Lave vaiselle 
 
+
 **A TRIER : 
 - pas fait peinture extérieur et mortier pas étanche : peinture étanche à faire
 - Observer à différents moment et météo, avec différents profils (expert et novice). 
@@ -140,7 +140,7 @@ ALEX expertise/Pierrot GERARD/29 Rue du Château/67380 LINGOLSHEIM/03 90 00 25 3
 - Réparation des fissures sur le murs (infiltration)
 - Vérifier un ragreage, plénitude et jonction en vue de la pause du planché (2mm avec règle de 1m)
 - check 3% est le taux d'humidité du support.
-- Acheter une règle à niveau de maçon
+- Acheter une règle à niveau de maçon (lbc : 03.88.98.28.26)
 - 🟢 Acheter des contrôleur de fissures (mano mano)
 - 🟢 Notaire : demande pour facture matériel (nécéssite facture et mention qui a payé puis contractualisé ça)**
 ------------------------------------------------------------------------------------
@@ -148,8 +148,8 @@ ALEX expertise/Pierrot GERARD/29 Rue du Château/67380 LINGOLSHEIM/03 90 00 25 3
 # Vision sur 1 ans (2026/2027)
 
 - choisir parquets
-  - 🔵 Niveau laser (~23/10)
-  - 🔵 Métré laser (~23/10)
+  - 🟢 Niveau laser (~23/10)
+  - 🟢 Métré laser (~23/10)
   - Un couteau de peintre
   - Une règle de maçon
   - Aspirateur 
@@ -165,8 +165,8 @@ ALEX expertise/Pierrot GERARD/29 Rue du Château/67380 LINGOLSHEIM/03 90 00 25 3
   - Table de sciage universelle
 - choisir le type de plainte 
 - choisir la peinture (mieux humide : mat)
-  - 🔵 thermomètre/hygrométrie x4 (~29/10)
-  - 🔵 hygrometre matiere (~26/10)
+  - 🟢 thermomètre/hygrométrie x4 (~29/10)
+  - 🟢 hygrometre matiere (~26/10)
   - rouleau 
   - Bacs
   - pinceau finition 
@@ -342,6 +342,9 @@ Sol peut nécessite ragreage. Puis différentes couches pour parquet
 - Armoire pour une des chambres ? 
 
 # Archive 
+
+**Matériel à acheter**
+- 🟢 Trouver des capteurs d'humidité/températures
 
 - 🟢 confirmer à SD couverture le vendredi 14h, sdc5wanado@outlook.fr (via page jaune, mail hs)
 - 🟢 check Schneider couverture pour créneau vendredi ou à 15h
