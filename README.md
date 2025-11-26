@@ -173,7 +173,7 @@ Conseil : peinture Mat
 
 - mise en carton de la maison 
 - Déménagement gros meubles à organiser en fin de phase réhabilitation minimale
-- Démarches de changement d'adresse, résiliation/activation de contrat.
+- Démarches de changement d'adresse, résiliation/activation de contrat
   - Gaz,
   - Electricité,
   - Eau,
