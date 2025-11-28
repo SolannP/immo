@@ -94,6 +94,82 @@ ALEX expertise/Pierrot GERARD/29 Rue du Château/67380 LINGOLSHEIM/03 90 00 25 3
 - 🟢 Notaire : demande pour facture matériel (nécéssite facture et mention qui a payé puis contractualisé ça)**
 ------------------------------------------------------------------------------------
 
+# TRAVAUX DECEMBRE/JANVIER
+
+Conseil : peinture Mat
+
+>*Étapes :*
+
+- 🔵 Faire un planning précis des 2 semaines de travaux + travail de préparation -> Quand faire quoi ? 
+- Commande de matériaux
+- Inventaire des outils familiaux 
+- Acheter des meubles chinés pour compléter (si l'occasion se présente)
+- Acheter électroménager
+  - Machine à laver
+  - Lave vaiselle 
+
+> **Phase pre-propriétaire[xx/xx-yy/yy]**
+(3j/h)
+
+- mise en carton de la maison 
+- Déménagement gros meubles à organiser en fin de phase réhabilitation minimale
+- Démarches de changement d'adresse, résiliation/activation de contrat
+  - Gaz,
+  - Electricité,
+  - Eau,
+  - Smictom, 
+  - Internet,
+  - Assurance habitation,
+  - Relais courrier
+  - MàJ domiciliation (banque, télephone, mutuelle, sécu, travail, impôts, carte grise) 
+- Signature de l'acte de vente et remise des clés (on espère!)
+- Commencer les travaux 
+- Apporter les petits cartons petit à petit 
+
+> **Phase préparation[xx/xx-yy/yy]**
+7j/h
+- Mise à nu du sol (lineau et moquette x5 pièces) et dans carton prêt à jeter
+- Grattage des sols si colle 
+- Vérifier un ragreage, plénitude et jonction en vue de la pause du planché (moins de 2mm avec règle de 1m)
+- Mise à nu des murs(tapisserie x5 pièces) et dans carton 
+- Déchetterie
+
+> **Phase réhabilitation minimale[xx/xx-yy/yy]
+
+- Apporter le parquet dans la pièce 48h avant (à 15°-20°)
+- La peinture du plafond 
+- La dépose des plinthes et masticage soigné des murs des cloisons qui ne donne pas sur l'extérieur
+- Masticage grossier des murs qui seront isolés dans le future (inutile de déposer les plinthes)
+- Peinture soignée des cloisons qui ne donnent pas sur l'extérieur et peinture des murs qui seront isolés dans le future (finition moins importante)
+- pour finir, la pose du parquet avec seulement les plinthes sur les cloisons qui ne donne pas sur l'extérieur.
+
+- Déménagement Gottenhouse 
+- État des lieux Gottenhouse 
+
+> **Suite réhabilitation [xx/xx-yy/yy]
+
+- Porte
+- Cuisine : plan de travail?Lavabo?Sols?
+- Frigo
+- 🟢 Air Fryer
+- Machine à laver 
+- Lave vaisselle 
+- Poele 
+- Salle de bain/WC, faire appel à quelqu'un 
+- escalier / entrée 
+
+> *Partage d'expérience :*
+- peintures " dépolluantes " . HORIZON pour les portes et CAPTEO pour les plafonds
+- peinture acrylique " standard " Idrotop (mur et plafond)
+- peintures biosourcé
+- dans l'hôtellerie: utilisation de la marque TOLLENS 
+- Les portes et huisseries peuvent se faire plus tard avec une peinture ALKIDE SATIN (préparation via éponges ou tampons à poncer)
+
+> *Notes :*
+- on ne touche pas aux tuyaux de chauffage ni aux radiateurs 
+- a voir sur place, le remplacement des interrupteurs et prises
+
+
 - Outils 
   - Commun/Autre
     - 🟢 Niveau laser
@@ -153,84 +229,6 @@ Location d'outils possible :
 - https://bricolib.net/
 - https://www.je-loue-tout.fr/search.php?type=1&reg=6&county=1&keywords=&postcode=&cat=0&sort=1&status=0&page=1
     - décolleuse https://www.je-loue-tout.fr/annonce/Grand-Est-Bas-Rhin-Decolleuse-papier-peint-Location-decolleuse-a-papiers-peints-electrique-327
-
-# TRAVAUX DECEMBRE/JANVIER
-
-Conseil : peinture Mat
-
->*Étapes :*
-
-- 🔵 Faire un planning précis des 2 semaines de travaux + travail de préparation -> Quand faire quoi ? 
-- Commande de matériaux
-- Inventaire des outils familiaux 
-- Acheter des meubles chinés pour compléter (si l'occasion se présente)
-- Acheter électroménager
-  - Machine à laver
-  - Lave vaiselle 
-
-> **Phase pre-propriétaire[xx/xx-yy/yy]**
-(3j/h)
-
-- mise en carton de la maison 
-- Déménagement gros meubles à organiser en fin de phase réhabilitation minimale
-- Démarches de changement d'adresse, résiliation/activation de contrat
-  - Gaz,
-  - Electricité,
-  - Eau,
-  - Smictom, 
-  - Internet,
-  - Assurance habitation,
-  - Relais courrier
-  - MàJ domiciliation (banque, télephone, mutuelle, sécu, travail, impôts, carte grise) 
-- Signature de l'acte de vente et remise des clés (on espère!)
-- Commencer les travaux 
-- Apporter les petits cartons petit à petit 
-
-> **Phase préparation[xx/xx-yy/yy]**
-7j/h
-- Mise à nu du sol (lineau et moquette x5 pièces) et dans carton prêt à jeter
-- Vérifier un ragreage, plénitude et jonction en vue de la pause du planché (moins de 2mm avec règle de 1m)
-- Mise à nu des murs(tapisserie x5 pièces) et dans carton 
-- Déchetterie
-
-> **Phase réhabilitation minimale[xx/xx-yy/yy]
-
-- Apporter le parquet dans la pièce 48h avant (à 15°-20°)
-- La peinture du plafond 
-- La dépose des plinthes et masticage soigné des murs des cloisons qui ne donne pas sur l'extérieur
-- Masticage grossier des murs qui seront isolés dans le future (inutile de déposer les plinthes)
-- Peinture soignée des cloisons qui ne donnent pas sur l'extérieur et peinture des murs qui seront isolés dans le future (finition moins importante)
-- pour finir, la pose du parquet avec seulement les plinthes sur les cloisons qui ne donne pas sur l'extérieur.
-
-- Déménagement Gottenhouse 
-- État des lieux Gottenhouse 
-
-> **Suite réhabilitation [xx/xx-yy/yy]
-
-) Porte
-6) Cuisine : plan de travail
-7) Cuisine : Lavabo
-8) Cuisines : Sols ?
-9) Porte (?)
-10) Frigo
-11) 🟢 Air Fryer
-12) Machine à laver 
-13) Lave vaisselle 
-14) Poele 
-14) Salle de bain/WC, faire appel à quelqu'un 
-15) escalier / entrée 
-
-> *Partage d'expérience :*
-- peintures " dépolluantes " . HORIZON pour les portes et CAPTEO pour les plafonds
-- peinture acrylique " standard " Idrotop (mur et plafond)
-- peintures biosourcé
-- dans l'hôtellerie: utilisation de la marque TOLLENS 
-- Les portes et huisseries peuvent se faire plus tard avec une peinture ALKIDE SATIN (préparation via éponges ou tampons à poncer)
-
-> *Notes :*
-- on ne touche pas aux tuyaux de chauffage ni aux radiateurs 
-- a voir sur place, le remplacement des interrupteurs et prises
-
 
 
 ------------------------------------------------------------------------------------
