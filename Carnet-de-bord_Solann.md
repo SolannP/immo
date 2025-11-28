@@ -1,3 +1,44 @@
+# Stratégie macro
+## 1 ans : 
+Check des coût chauffage/gaz
+Vérifier avec un expert l'humidité avant avoir retaper l'extérieur.
+Voir pour isolation extérieur.
+Question des tuyaux apparent : peut on les cacher ? Via isolation intérieur ?
+Chauffage au gaz : peut on ajouter un poele à pellet ?
+
+## 5 ans (2030)
+Le haut est fait et le bas est partiellement fait. Pour le rdc, la restauration de la chambre et faites en tirant sur les prix au max ou en utilisant du matériel que l'on peut récupérer (ex: parquets que l'on peut détacher). On peut ainsi rentabiliser des que possible. Idem pour la salle de bain : on rafraîchi les lieux.
+
+## 10 ans ou 15 ans (2035/2040)
+Plus besoin de location pour financer les travaux : on transforme le bas pour l'espace parent
+
+
+À priori, les travaux ne valorisent pas de la même manière un bien. Certains coût ne valent pas une valorisation équivalente.
+ - Classe énergie / DPE 
+ - Comble aménagée 
+ - Salle de bains 
+ - Cuisine 
+
+Idée en vrac :
+- VMC
+- poteau extérieur 
+- citerne pour eau de pluie 
+- serre/terrasse ecolo
+- Panneau solaire pour électricité et batteries 
+- potager
+- poulailler
+- piano pour la cuisine (cuisinière)
+- compteur/sonde pour connaître les consommations des éléments (elec,gaz,...)
+- ouverture sur le jardin 
+- Terrasse en bois
+- Marquise a mettre au dessus de la porte 
+https://cdn.manomano.com/pim-dam-img/4579/18351463/1040aff4fdc2814744cb76c28a5a33f71b5bf443.pdf
+
+Attention, 100 000 de charge pour ravalement de façade..
+Existence d'un arrêté préfectoral : Le ravalement doit être réalisé au moins 1 fois tous les 10 ans.
+
+------------------------------------------------------------------------------------
+
 # Historique et remarques sur des choix
 
 
