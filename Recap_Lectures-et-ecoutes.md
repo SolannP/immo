@@ -37,6 +37,8 @@ Une chambre d'enfant saine et écologique; 2007;972-2-84138-343-6; Des idées et
  
 La maison écologique ; Autonomie et Résilience #145; 03/2025; Revue; 
 
+Systeme D; Tout changer sans tout casser #949; 02/2025; Revue
+
 ------------------------------------------------------------------------------------
 
 Menuiserie André : bon ratio qualité prix !
@@ -509,6 +511,18 @@ de 35 kg et 12 seaux (de 10 I) de sable dans la bétonnière. Ajouter 20 I d'eau
 Verser l'enduit dans une brouette, puis le disposer dans une gamate pour pouvoir l'appliquer sur le mur.
 
 ------------------------------------------------------------------------------------
+Systeme D; Tout changer sans tout casser
+
+Très bonne idée d'utiliser des pierres/ampoules avec batterie/ charge solaire pour le jardin (ou phosphorescent) et délimiter les chemins : j'avais beaucoup aimé par le passé.
+
+Cuisine avec hauteur réglable : comme les bureaux !
+
+Lumière en bas de lit lorsqu'on se lève.
+
+Toilette avec chasse d'eau silencieuse 
+
+store elec pour les anciens 
+
 
 ------------------------------------------------------------------------------------
 
