@@ -83,6 +83,16 @@ Il existe des produits auto lissant ensuite(outil : lisseuse pour bien repartir)
 
 Équerre variable est un outil top
 
+*Section Électricité*
+
+Le Consuel (Comité national pour la sécurité
+des usagers de l'électricité) est un organisme indépendant chargé de vérifier si les installations (neuves ou rénovées avec interruption temporaire de la fourniture d'énergie) sont conformes à la NFC 15-100. Si vous réalisez vous-même vos travaux d'électricité, votre installation doit être systématiquement vérifiée en totalité.
+Le distributeur exigera une attestation
+de conformité délivrée par le Consuel
+avant de vous raccorder.
+Si vous confiez vos travaux à un électricien, celui-ci vous délivrera un certificat de conformité à l'issue de sa visite
+
+Pour en savoir plus: www.consuel.com
 
 
 ------------------------------------------------------------------------------------
