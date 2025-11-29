@@ -67,10 +67,21 @@ Radiateur :
 Tuyauterie cuivre via peinture spéciale.  
 
 
+*Section Ragreage*
 
+Il faut avant tout reboucher les fissures (humidifier puis résine d'accrochage PCI, si besoin produit d'accrochage).
+Ensuite utiliser un mortier dédié de rebouchage.
+Enfin lisser la surface avec Taloche en polyeste.
+
+Utiliser un primaire d'accrochage 
+
+Il existe des produits auto lissant ensuite(outil : lisseuse pour bien repartir)
 
 *Section Parquets*
 
++/- 2mm de planeite, 5 à 8mm de joint périphériques 
+
+Équerre variable est un outil top
 
 
 
