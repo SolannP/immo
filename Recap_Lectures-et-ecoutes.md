@@ -7,6 +7,8 @@
 # Source 
 Titre,Parution, ISBN, Commentaire 
 
+L'essentiel du bricolage; 03/2016; 9782812503559; 
+
 Récupérer et valoriser l'eau de pluie dans la maison; 23/09/2004; 2-7372-4155-3; Très intéressant et technique. Traduit de l'allemand. Un peu vieux et beaucoup de choses ont évolués.  
 
 La maison résiliente; 01/01/2022; 978-2-35981-160-5; Très alarmiste et un peu trop poussé sur le survivalisme. Impression de degout des auteurs suite a des années de travail dans des milieux inhospitalier. Des concepts intéressants. Quelques erreurs curieuse dans les arguments.  
@@ -42,6 +44,35 @@ Systeme D; Tout changer sans tout casser #949; 02/2025; Revue
 ------------------------------------------------------------------------------------
 
 Menuiserie André : bon ratio qualité prix !
+
+------------------------------------------------------------------------------------
+
+L'essentiel du bricolage
+
+*Section Peintures*
+
+Décolleuse de loue. 
+
+Vérification des surfaces saine et sèche.
+Commence par pinceau de finition, rouleau en commençant par la ou on ne fait pas d'ombre puis Mini rouleau pour recouvrir (une deuxième fois) les angles.
+Interrupteurs à enlever  
+
+Radiateur : 
+- fermer le radiateur pour l'entrée d'eau et la sortie 
+- ouvrir vis de purge en haut pour faire entrer l'air, 
+- puis desserrage du retour pour sortir 10L
+- enfin dévissage haut et déplacement du radiateur
+- ATTENTION à protéger le sol et murs pours les marques 
+
+Tuyauterie cuivre via peinture spéciale.  
+
+
+
+
+*Section Parquets*
+
+
+
 
 ------------------------------------------------------------------------------------
 
