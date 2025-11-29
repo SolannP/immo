@@ -169,15 +169,17 @@ Conseil : peinture Mat
 - on ne touche pas aux tuyaux de chauffage ni aux radiateurs 
 - a voir sur place, le remplacement des interrupteurs et prises
 
-
+🌞 Denis p.
+🥨 Solann p.
+🎾 Peter k.
 - Outils 
   - Commun/Autre
-    - 🟢 Niveau laser
-    - 🟢 Métré laser 
-    - 🟢 thermomètre/hygrométrie x4
-    - 🟢 hygrometre matiere
+    - 🥨 Niveau laser
+    - 🥨 Métré laser 
+    - 🥨 thermomètre/hygrométrie x4
+    - 🥨 hygrometre matiere
     - Une règle de maçon
-    - Aspirateur 
+    - 🎾 Aspirateur chantier
     - Niveau à bulle
     - Équerre
     - Scie sauteuse
@@ -186,9 +188,15 @@ Conseil : peinture Mat
     - Ponceuse rotative
   - Peinture 
     - Un couteau de peintre
-    - rouleau peinture 
+    - 🥨 rouleau peinture (poils 12mm)
+    - 🥨 Bacs peinture 
+    - mini rouleau
+    - rouleau peinture (poils 12mm)
     - Bacs peinture 
-    - pinceau finition
+    - mini rouleau
+    - brosse coudé 
+    - pinceau finition/réchampir
+    - Projecteur halogène 
   - Parquet 
     - Cales de dilatation 
     - Tire lame (U en metal)
@@ -208,7 +216,7 @@ Conseil : peinture Mat
   - Masque
   - Casque bruit et boule quies
   - lunette
-  - détecteur de câble électrique (murale)
+  - 🎾détecteur de câble électrique (murale)
 
     
 - Si ragreage 
