@@ -150,3 +150,8 @@ Plutot que de tout refaire, nous pouvons enlever le sol souple et ajouter un sou
 
 Sinon coulé une dalle pour éviter le bruit creux en dessous.
 
+Il est inutile d'avoir une sous couche premium/deluxe au 1er : il y a les pont thermique mais sinon même le bas est chauffée au minimum.
+Il faut simplement de quoi bien isoler du bruit et résistant à l'humidité.
+
+Pour la peinture, les types est à déterminer.
+
