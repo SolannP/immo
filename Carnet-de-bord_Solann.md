@@ -143,4 +143,10 @@ Il reste la présence de plomb qui est très élevé au rdc, surtout sur les enc
 Elle est au seul légaux au 1er mais aussi présente.
 Lors du travail au premier, est ce qu'il y a de la peinture au plombs derrières murs de plâtre/papier peint ?
 
+## Recap 29/11
+
+Pour le bas, les pièces côté garage utilise très certainement : des solives/lambourdes + panneau d'agglomére + sol souple. 
+Plutot que de tout refaire, nous pouvons enlever le sol souple et ajouter un sous couche de très bonne qualité puis parquet : des solives/lambourdes + panneau d'agglomére + parquet . 
+
+Sinon coulé une dalle pour éviter le bruit creux en dessous.
 
