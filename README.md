@@ -132,6 +132,7 @@ Conseil : peinture Mat
 - Grattage des sols si colle 
 - Vérifier un ragreage, plénitude et jonction en vue de la pause du planché (moins de 2mm avec règle de 1m)
 - Mise à nu des murs(tapisserie x5 pièces) et dans carton 
+- Rendre les plafonds et murs poreux
 - Déchetterie
 
 > **Phase réhabilitation minimale[xx/xx-yy/yy]
@@ -186,6 +187,8 @@ Conseil : peinture Mat
     - Scie circulaire
     - Table de sciage universelle
     - Ponceuse rotative
+    - Cutter
+    - Escabeau 
   - Peinture 
     - Un couteau de peintre
     - 🥨 rouleau peinture (poils 12mm)
@@ -216,9 +219,15 @@ Conseil : peinture Mat
   - Masque
   - Casque bruit et boule quies
   - lunette
-  - 🎾détecteur de câble électrique (murale)
+  - 🎾 détecteur de câble électrique (murale)
 
-    
+   
+- Si moquette accroche (reste de colle)
+  - décapant peinture 
+
+- Si murs abîmé lorsqu'on enlève le papier peint 
+  - Enduit (MAP)
+
 - Si ragreage 
   - definir le lissage par zone en incluant parquets 
   - type de ragreage (fibre ou standard)
