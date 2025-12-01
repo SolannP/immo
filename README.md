@@ -225,8 +225,9 @@ Conseil : peinture Mat
 - Si moquette accroche (reste de colle)
   - décapant peinture 
 
-- Si murs abîmé lorsqu'on enlève le papier peint 
+- Si galère ou murs abîmé lorsqu'on enlève le papier peint 
   - Enduit (MAP)
+  - brumisateur 
 
 - Si ragreage 
   - definir le lissage par zone en incluant parquets 
