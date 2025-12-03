@@ -41,6 +41,8 @@ La maison écologique ; Autonomie et Résilience #145; 03/2025; Revue;
 
 Systeme D; Tout changer sans tout casser #949; 02/2025; Revue
 
+Maison passive en autoconstruction : retour d’expérience sans filtre de Frédéric; 09/2025; https://youtu.be/QdxjLJE-xUk?si=5DwIIOvSyW_hpFFP; Très intéressant et vrai RETEX de qualité : Excellent 
+
 ------------------------------------------------------------------------------------
 
 Menuiserie André : bon ratio qualité prix !
@@ -577,6 +579,24 @@ store elec pour les anciens
 
 
 ------------------------------------------------------------------------------------
+
+Maison passive en autoconstruction : retour d’expérience sans filtre de Frédéric
+
+Lorsqu'on met tout dans l'équation ça coûte chère (membrane, gaines, visites, ... coût terrain,  terrassement, Notaire, ...)
+
+Attention aux tendinites lorsque le corps n'est pas habitué et au traumatisme au corps en cas de travaux trop intense.  
+Rénovation peut être mieux que construction..  
+
+Pas pensé au soleil en fin de journée ("sous la casquette") en été qui est source d'inconfort côté sud.  
+
+Grand baie vitré problématique à partir de 4m et au dessus (problème de poids et autre). Puis ensuite surprise car voile pour se proteger.
+
+Systèmes actifs nécessite des changements réguliers (VMC double flux, pompe à eau,...). Système passif qu'une fois.  
+Simplicité réduit les coûts car la complexité ajoute souvent des frais d'amortissement à intégrer au calcul.  
+Faire petit à petit et pas bille en tête est mieux.  
+
+*Prudence, patience, travail et observations* permettront de se prémunir de plein de problèmes (Analyse de risque,ROI,Delta).
+
 
 ------------------------------------------------------------------------------------
 
