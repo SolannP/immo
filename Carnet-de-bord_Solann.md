@@ -31,6 +31,7 @@ Idée en vrac :
 - compteur/sonde pour connaître les consommations des éléments (elec,gaz,...)
 - ouverture sur le jardin 
 - Terrasse en bois
+- peinture artiste dans la maison (encadrement de porte)
 - Marquise a mettre au dessus de la porte 
 https://cdn.manomano.com/pim-dam-img/4579/18351463/1040aff4fdc2814744cb76c28a5a33f71b5bf443.pdf
 
