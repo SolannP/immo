@@ -71,9 +71,6 @@ Status :
 - Commande de matériaux
 - Inventaire des outils familiaux 
 - Acheter des meubles chinés pour compléter (si l'occasion se présente)
-- Acheter électroménager
-  - Machine à laver
-  - Lave vaiselle 
 
 ------------------------------------------------------------------------------------
 
@@ -83,7 +80,7 @@ Conseil : peinture Mat
 
 ## Étapes
 
-> **Phase pre-propriétaire[xx/xx-yy/yy]**
+> **Phase pre-propriétaire[12/12-16/12]**
 (3j/h)
 
 - mise en carton de la maison 
@@ -125,16 +122,22 @@ Conseil : peinture Mat
 - Déménagement Gottenhouse 
 - État des lieux Gottenhouse 
 
+
+> **Phase équipements de survie [09/01-17/01]
+
+- 🟡 Machine à laver : LFVQ395W à 319€ sur Cdiscount,  livraison à priori gratuite :
+https://www.cdiscount.com/electromenager/lavage-sechage/lave-linge-hublot-vedette-llv395w-9-kg-inducti/f-1100104-ved3660767998162.html?cid=search_pla&cm_mmc=PLA!COR!!CD!494267762!bing&msclkid=ea15453b5ea81cb741dd2c218f4fc253
+- Lave vaisselle 
+- Frigo
+- 🟢 Air Fryer
+
+
 > **Pause décompression [18/01]
 
 > **Suite réhabilitation [xx/xx-yy/yy?]
 
 - Porte
 - Cuisine : plan de travail?Lavabo?Sols?
-- Frigo
-- 🟢 Air Fryer
-- Machine à laver 
-- Lave vaisselle 
 - Poele 
 - Salle de bain/WC, faire appel à quelqu'un 
 - escalier / entrée 
