@@ -113,6 +113,7 @@ Conseil : peinture Mat
 > **Phase réhabilitation minimale [31/12-08/01]
 
 - Apporter le parquet dans la pièce 48h avant (à 15°-20°)
+- idem pour la sous couche
 - La peinture du plafond 
 - La dépose des plinthes et masticage soigné des murs des cloisons qui ne donne pas sur l'extérieur
 - Masticage grossier des murs qui seront isolés dans le future (inutile de déposer les plinthes)
