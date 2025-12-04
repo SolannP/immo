@@ -5,6 +5,13 @@ Ce fichier utilise le [markdown](https://www.markdownguide.org/cheat-sheet/).
 >  Prendre des notes, observations, ressenti subjectif.  
 >  Faire son carnet de bord et noter ses idées; Plan, schéma, photos.
 
+Status 
+   À faire
+🔵 En cours
+🟢 Fait
+🔴 Alerte
+🟡 À l'arrêt 
+
 **Magasins de bricolage**
 - Mr Bricolage (Mundolsheim)
 - Hyper céramique (moulure)
@@ -60,12 +67,6 @@ Ce fichier utilise le [markdown](https://www.markdownguide.org/cheat-sheet/).
 - RETEX voisin au dessus 
 - RETEX voisin en dessous
 - RETEX voisin en face 
-
-■ FINANCEMENT DU PROJET : Offres de prêt + aides 
-- 🔵 Offre de prêt : Crédit Mutuel
-*Selon Nadège : d'ici le 12/11, l'offre de prêt peut être finalisée*
-
-A la réception de l'offre : attente de 12 jours **Puis 8 jours après rdv notaire**
 
 **Eco-PTZ** 
 - Pourra être vu avec la banque ultérieurement
@@ -126,8 +127,11 @@ Conseil : peinture Mat
 - Commencer les travaux 
 - Apporter les petits cartons petit à petit 
 
-> **Phase préparation[xx/xx-yy/yy]**
-7j/h
+> **Phase préparation [15/12-30/12]**
+
+- *Faire la mise à nu des la chambre enfant en priorité pour pouvoir faire la peinture dès que possible*
+- *Faire la peinture chambre enfant en priorité 1*
+
 - Mise à nu du sol (lineau et moquette x5 pièces) et dans carton prêt à jeter
 - Grattage des sols si colle 
 - Vérifier un ragreage, plénitude et jonction en vue de la pause du planché (moins de 2mm avec règle de 1m)
@@ -135,7 +139,7 @@ Conseil : peinture Mat
 - Rendre les plafonds et murs poreux
 - Déchetterie
 
-> **Phase réhabilitation minimale[xx/xx-yy/yy]
+> **Phase réhabilitation minimale [31/12-08/01]
 
 - Apporter le parquet dans la pièce 48h avant (à 15°-20°)
 - La peinture du plafond 
@@ -147,7 +151,9 @@ Conseil : peinture Mat
 - Déménagement Gottenhouse 
 - État des lieux Gottenhouse 
 
-> **Suite réhabilitation [xx/xx-yy/yy]
+> **Pause décompression [18/01]
+
+> **Suite réhabilitation [xx/xx-yy/yy?]
 
 - Porte
 - Cuisine : plan de travail?Lavabo?Sols?
@@ -189,6 +195,9 @@ Conseil : peinture Mat
     - Ponceuse rotative
     - Cutter
     - Escabeau 
+  - Tapisserie 
+    - brumisateur
+    - Spatule pour gratter la colle 
   - Peinture 
     - Un couteau de peintre
     - 🥨 rouleau peinture (poils 12mm)
@@ -206,6 +215,9 @@ Conseil : peinture Mat
     - Cales de frappe (bois pour amortir marteau)
 
 - Consommable 
+  - Nettoyage 
+    - Sac en carton
+    - Sac poubelle 
   - Peinture 
     - La peinture
     - Plastiques fenêtre/radiateur/... 
@@ -226,8 +238,7 @@ Conseil : peinture Mat
   - décapant peinture 
 
 - Si galère ou murs abîmé lorsqu'on enlève le papier peint 
-  - Enduit (MAP)
-  - brumisateur 
+  - Enduit (MAP) 
 
 - Si ragreage 
   - definir le lissage par zone en incluant parquets 
@@ -249,21 +260,7 @@ Location d'outils possible :
     - décolleuse https://www.je-loue-tout.fr/annonce/Grand-Est-Bas-Rhin-Decolleuse-papier-peint-Location-decolleuse-a-papiers-peints-electrique-327
 
 ------------------------------------------------------------------------------------
-Drainage 
-- Qu'est ce que nous avons actuellement ? 
-- De quand date le dernier ?
 
-Risque :
-
-1) mal le refaire : infiltration ou affaiblissement 
-
-Un drainage mal conçu peut causer plus de dégâts qu’il n’en évite. L’erreur que je vois souvent, c’est un drain posé trop bas, directement au niveau des fondations. Résultat : au lieu d’éloigner l’eau, il peut se transformer en une rigole qui draine l’eau vers la maison au lieu de l’évacuer. J’ai déjà vu un client dont la cave était plus humide après l’installation d’un drainage, simplement parce que le niveau du drain était mal calculé. La bonne pratique, c’est de positionner le drain légèrement au-dessus du niveau des fondations et de bien vérifier la pente d’écoulement, sinon, c’est l’inverse de l’effet recherché !"
-https://www.habitatpresto.com/mag/isolation/humidite-etancheite/drainage-maison
-
-Risque fissures structurelle : 15.000 à 100.000
-Étanchéité (toiture/fenêtre) : 2.000 à 15.000
-Mise au normes électrique : 5.000 à 20.000
-Desamiantage : 2.000 à 10.000
 
 ------------------------------------------------------------------------------------
 Fournisseur Possible 
@@ -340,6 +337,13 @@ Sol peut nécessite ragreage. Puis différentes couches pour parquet
 - 🟢 ANIL, des outils/simulateur, dossiers techniques, question-réponse, revue de presse, documentation grand public.
 - 🟢 Fedexa, expert d'assuré (cf contact)
 - Discuter avec les voisins
+
+✅️ FINANCEMENT DU PROJET : Offres de prêt + aides 
+- 🟢 Offre de prêt : Crédit Mutuel
+*Selon Nadège : d'ici le 12/11, l'offre de prêt peut être finalisée*
+
+A la réception de l'offre : attente de 12 jours **Puis 8 jours après rdv notaire**
+
 
 
 
