@@ -5,12 +5,12 @@ Ce fichier utilise le [markdown](https://www.markdownguide.org/cheat-sheet/).
 >  Prendre des notes, observations, ressenti subjectif.  
 >  Faire son carnet de bord et noter ses idées; Plan, schéma, photos.
 
-Status 
-   À faire
-🔵 En cours
-🟢 Fait
-🔴 Alerte
-🟡 À l'arrêt 
+Status :
+-   À faire. 
+- 🔵 En cours. 
+- 🟢 Fait. 
+- 🔴 Alerte. 
+- 🟡 À l'arrêt. 
 
 **Magasins de bricolage**
 - Mr Bricolage (Mundolsheim)
