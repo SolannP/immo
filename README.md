@@ -67,14 +67,6 @@ Status :
 - RETEX voisin en dessous
 - RETEX voisin en face 
 
-------------------------------------------------------------------------------------
-
-# TRAVAUX DECEMBRE/JANVIER
-
-Conseil : peinture Mat
-
->*Étapes :*
-
 - 🔵 Faire un planning précis des 2 semaines de travaux + travail de préparation -> Quand faire quoi ? 
 - Commande de matériaux
 - Inventaire des outils familiaux 
@@ -82,6 +74,14 @@ Conseil : peinture Mat
 - Acheter électroménager
   - Machine à laver
   - Lave vaiselle 
+
+------------------------------------------------------------------------------------
+
+# TRAVAUX DECEMBRE/JANVIER
+
+Conseil : peinture Mat
+
+## Étapes
 
 > **Phase pre-propriétaire[xx/xx-yy/yy]**
 (3j/h)
@@ -149,6 +149,8 @@ Conseil : peinture Mat
 > *Notes :*
 - on ne touche pas aux tuyaux de chauffage ni aux radiateurs 
 - a voir sur place, le remplacement des interrupteurs et prises
+
+## Ressource matériel 
 
 🌞 Denis p.
 🥨 Solann p.
@@ -232,6 +234,15 @@ Location d'outils possible :
 - https://bricolib.net/
 - https://www.je-loue-tout.fr/search.php?type=1&reg=6&county=1&keywords=&postcode=&cat=0&sort=1&status=0&page=1
     - décolleuse https://www.je-loue-tout.fr/annonce/Grand-Est-Bas-Rhin-Decolleuse-papier-peint-Location-decolleuse-a-papiers-peints-electrique-327
+
+## Dispo 
+
+Julia : 
+ - vacances du 29/1225 au 11/01/26
+
+Solann :
+ - vacances du 29/1225 au 11/01/26
+
 
 ------------------------------------------------------------------------------------
 
