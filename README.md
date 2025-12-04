@@ -60,7 +60,6 @@ Status :
 > PARQUETS 
 - 🟢 Saint Maclou --> 7.500€
 
-
 **Retours d'expérience**
 - 🔵 RETEX David proprio 
 - 🔵 Retex solann et Julia 
@@ -68,31 +67,6 @@ Status :
 - RETEX voisin en dessous
 - RETEX voisin en face 
 
-**Eco-PTZ** 
-- Pourra être vu avec la banque ultérieurement
-Il faudra que les devis détaillés soit prêts
-
-**MA Prime Rénov'+ Prime CEE** 
-- https://www.economie.gouv.fr/particuliers/faire-des-economies-denergie/maprimerenov-parcours-par-geste-la-prime-pour-la-renovation-energetique
-- Basé sur les revenus fiscaux 2024 : 28.068 + 23.425 = 51.493€ --> Catégorie *"Ménages aux revenus intermédiaires"*
-- Possible de cumuler Ma Prime Rénov + Prime CEE + Eco-PTZ
-
-**A TRIER : 
-- pas fait peinture extérieur et mortier pas étanche : peinture étanche à faire
-- Observer à différents moment et météo, avec différents profils (expert et novice). 
- - alarme 
- - protection Julia et Robin
- - protection en cas de décès
- 
-ALEX expertise/Pierrot GERARD/29 Rue du Château/67380 LINGOLSHEIM/03 90 00 25 39 | 06 71 01 73 33/p.gerard@alexpertise.com. 
-
-- Installation des capteurs humidité/température 
-- telecommande du garage 
-- Réparation des fissures sur le murs (infiltration)
-- check 3% est le taux d'humidité du support.
-- Acheter une règle à niveau de maçon (lbc : 03.88.98.28.26)
-- 🟢 Acheter des contrôleur de fissures (mano mano)
-- 🟢 Notaire : demande pour facture matériel (nécéssite facture et mention qui a payé puis contractualisé ça)**
 ------------------------------------------------------------------------------------
 
 # TRAVAUX DECEMBRE/JANVIER
@@ -261,6 +235,32 @@ Location d'outils possible :
 
 ------------------------------------------------------------------------------------
 
+
+**Eco-PTZ** 
+- Pourra être vu avec la banque ultérieurement
+Il faudra que les devis détaillés soit prêts
+
+**MA Prime Rénov'+ Prime CEE** 
+- https://www.economie.gouv.fr/particuliers/faire-des-economies-denergie/maprimerenov-parcours-par-geste-la-prime-pour-la-renovation-energetique
+- Basé sur les revenus fiscaux 2024 : 28.068 + 23.425 = 51.493€ --> Catégorie *"Ménages aux revenus intermédiaires"*
+- Possible de cumuler Ma Prime Rénov + Prime CEE + Eco-PTZ
+
+**A TRIER : 
+- pas fait peinture extérieur et mortier pas étanche : peinture étanche à faire
+- Observer à différents moment et météo, avec différents profils (expert et novice). 
+ - alarme 
+ - protection Julia et Robin
+ - protection en cas de décès
+ 
+ALEX expertise/Pierrot GERARD/29 Rue du Château/67380 LINGOLSHEIM/03 90 00 25 39 | 06 71 01 73 33/p.gerard@alexpertise.com. 
+
+- Installation des capteurs humidité/température 
+- telecommande du garage 
+- Réparation des fissures sur le murs (infiltration)
+- check 3% est le taux d'humidité du support.
+- Acheter une règle à niveau de maçon (lbc : 03.88.98.28.26)
+- 🟢 Acheter des contrôleur de fissures (mano mano)
+- 🟢 Notaire : demande pour facture matériel (nécéssite facture et mention qui a payé puis contractualisé ça)**
 
 ------------------------------------------------------------------------------------
 Fournisseur Possible 
