@@ -46,6 +46,8 @@ Maison passive en autoconstruction : retour d’expérience sans filtre de Fréd
 7 conseils que j'aurais aimé connaître avant de peindre;02/2024;
 https://m.youtube.com/watch?v=exjhi-WhjeA; interessant
 
+PEINDRE: LES 20 ERREURS DE DÉBUTANT; 05/2020; https://m.youtube.com/watch?v=WYMX6pwJiFE&pp=ugUEEgJmctIHCQkeAaO1ajebQw%3D%3D; 
+
 ------------------------------------------------------------------------------------
 
 Menuiserie André : bon ratio qualité prix !
@@ -619,5 +621,13 @@ L'epousetage (passé une serpillière très bien essoré sur le mur)
 
 
 ------------------------------------------------------------------------------------
+
+PEINDRE: LES 20 ERREURS DE DÉBUTANT
+
+Attendre 48h pour enlever le Scotch (et pas 24h, même sur les spéciale 24h).
+
+Pas de mastique ou silicone vers les fenêtres : ça ne se peint pas. Plutôt mastique acrylique 
+
+Pas recommandée de peindre en décembre,  janvier, février 
 
 ------------------------------------------------------------------------------------
