@@ -156,9 +156,11 @@ https://www.cdiscount.com/electromenager/lavage-sechage/lave-linge-hublot-vedett
 
 ## Ressource matériel 
 
-🌞 Denis p.
-🥨 Solann p.
-🎾 Peter k.
+- 🌞 Denis p.
+- 🥨 Solann p.
+- 🎾 Peter k.
+- € À acheter (Solann P.)
+
 - Outils 
   - Commun/Autre
     - 🥨🎾 Niveau laser
@@ -167,29 +169,33 @@ https://www.cdiscount.com/electromenager/lavage-sechage/lave-linge-hublot-vedett
     - 🥨 hygrometre matiere
     - 🎾 Une règle de maçon
     - 🎾 Aspirateur chantier
-    - 🎾 Niveau à bulle
-    - 🎾 Équerre
-    - 🎾 Scie sauteuse
+    - 🌞🎾 Niveau à bulle
+    - 🌞🎾 Équerre
+    - 🌞🎾 Scie sauteuse
     - 🎾🟡Scie circulaire
     - € Table de sciage universelle
-    - € Ponceuse rotative
-    - 🎾 Cutter
+    - €🎾Ponceuse rotative/orbital
+    - 🌞 Ponceuse à bande
+    - € 🎾 Cutter
     - 🎾 Escabeau 
-    - €🎾 Scie à angle
+    - 🎾 Scie à angle
   - Tapisserie 
-    - 🎾 brumisateur
-    - 🎾 Spatule pour gratter la colle 
+    - 🌞?🎾 brumisateur
+    - € 🎾 Spatule pour gratter la colle 
   - Peinture 
     - Un couteau de peintre
-    - 🥨 rouleau peinture (poils 12mm)
+    - 🥨 rouleau peinture (20cm et poils 12mm)
     - 🥨 Bacs peinture 
-    - mini rouleau
+    - plaque metal
+    - perche 
+    - perche
+    - patte de lapin
     - rouleau peinture (poils 12mm)
     - Bacs peinture 
     - mini rouleau
     - brosse coudé 
     - pinceau finition/réchampir
-    - Projecteur halogène 
+    - € Projecteur halogène 
   - Parquet 
     - Cales de dilatation 
     - Tire lame (U en metal)
