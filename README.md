@@ -103,7 +103,7 @@ Conseil : peinture Mat
 - *Faire la mise à nu des la chambre enfant en priorité pour pouvoir faire la peinture dès que possible*
 - *Faire la peinture chambre enfant en priorité 1*
 
-- Mise à nu du sol (lineau et moquette x5 pièces) et dans carton prêt à jeter
+- Mise à nu du sol (lineau et moquette x5 pièces) et dans carton prêt à jeter. Si moquette en bonne état réutiliser pour protection 
 - Grattage des sols si colle 
 - Vérifier un ragreage, plénitude et jonction en vue de la pause du planché (moins de 2mm avec règle de 1m)
 - Mise à nu des murs(tapisserie x5 pièces) et dans carton 
@@ -168,7 +168,7 @@ https://www.cdiscount.com/electromenager/lavage-sechage/lave-linge-hublot-vedett
     - 🥨 thermomètre/hygrométrie x4
     - 🥨 hygrometre matiere
     - 🎾 Une règle de maçon
-    - 🎾 Aspirateur chantier
+    - 🌞🎾 Aspirateur chantier
     - 🌞🎾 Niveau à bulle
     - 🌞🎾 Équerre
     - 🌞🎾 Scie sauteuse
@@ -187,20 +187,21 @@ https://www.cdiscount.com/electromenager/lavage-sechage/lave-linge-hublot-vedett
     - Un couteau de peintre
     - 🥨 rouleau peinture (20cm et poils 12mm)
     - 🥨 Bacs peinture 
-    - plaque metal
-    - perche 
-    - perche
-    - patte de lapin
-    - rouleau peinture (poils 12mm)
-    - Bacs peinture 
-    - mini rouleau
-    - brosse coudé 
-    - pinceau finition/réchampir
+    - € plaque metal
+    - € perche 
+    - € perche
+    - € patte de lapin
+    - € rouleau peinture (poils 12mm)
+    - € Bacs peinture 
+    - € mini rouleau
+    - € brosse coudé 
+    - € pinceau finition/réchampir
     - € Projecteur halogène 
   - Parquet 
-    - Cales de dilatation 
-    - Tire lame (U en metal)
-    - Cales de frappe (bois pour amortir marteau)
+    - € Cales de dilatation 
+    - € Tire lame (U en metal)
+    - € Cales de frappe (bois pour amortir marteau)
+    - 🌞 maillet
 
 - Consommable 
   - Nettoyage 
@@ -217,9 +218,10 @@ https://www.cdiscount.com/electromenager/lavage-sechage/lave-linge-hublot-vedett
     - Sous couche 
 - Équipement de Protection Individuelle (EPI) (Lidl/Provet)
   - Masque
-  - Casque bruit et boule quies
-  - lunette
-  - 🎾 détecteur de câble électrique (murale)
+  - Casque bruit
+  - Boule quies
+  - Lunette
+  - € 🎾 détecteur de câble électrique (murale)
 
    
 - Si moquette accroche (reste de colle)
