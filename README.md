@@ -161,23 +161,24 @@ https://www.cdiscount.com/electromenager/lavage-sechage/lave-linge-hublot-vedett
 🎾 Peter k.
 - Outils 
   - Commun/Autre
-    - 🥨 Niveau laser
-    - 🥨 Métré laser 
+    - 🥨🎾 Niveau laser
+    - 🥨🎾 Métré laser 
     - 🥨 thermomètre/hygrométrie x4
     - 🥨 hygrometre matiere
-    - Une règle de maçon
+    - 🎾 Une règle de maçon
     - 🎾 Aspirateur chantier
-    - Niveau à bulle
-    - Équerre
-    - Scie sauteuse
-    - Scie circulaire
-    - Table de sciage universelle
-    - Ponceuse rotative
-    - Cutter
-    - Escabeau 
+    - 🎾 Niveau à bulle
+    - 🎾 Équerre
+    - 🎾 Scie sauteuse
+    - 🎾🟡Scie circulaire
+    - € Table de sciage universelle
+    - € Ponceuse rotative
+    - 🎾 Cutter
+    - 🎾 Escabeau 
+    - €🎾 Scie à angle
   - Tapisserie 
-    - brumisateur
-    - Spatule pour gratter la colle 
+    - 🎾 brumisateur
+    - 🎾 Spatule pour gratter la colle 
   - Peinture 
     - Un couteau de peintre
     - 🥨 rouleau peinture (poils 12mm)
@@ -207,7 +208,7 @@ https://www.cdiscount.com/electromenager/lavage-sechage/lave-linge-hublot-vedett
     - Les plinthes 
     - Scotch dédiée sous couche 
     - Sous couche 
-- Équipement de Protection Individuelle (EPI)
+- Équipement de Protection Individuelle (EPI) (Lidl/Provet)
   - Masque
   - Casque bruit et boule quies
   - lunette
