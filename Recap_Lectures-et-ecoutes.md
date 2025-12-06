@@ -595,6 +595,10 @@ Systèmes actifs nécessite des changements réguliers (VMC double flux, pompe �
 Simplicité réduit les coûts car la complexité ajoute souvent des frais d'amortissement à intégrer au calcul.  
 Faire petit à petit et pas bille en tête est mieux.  
 
+Électricité infiniment plus simple que eau pour installation. 
+
+attention au réseau et qui alimente de contenu instagramable : on est amené à être influencé pour faire des choses moins cohérentz. Ou faire des choix par rapport à ce que pense les autres.
+
 *Prudence, patience, travail et observations* permettront de se prémunir de plein de problèmes (Analyse de risque,ROI,Delta).
 
 
