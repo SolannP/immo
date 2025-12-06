@@ -43,6 +43,9 @@ Systeme D; Tout changer sans tout casser #949; 02/2025; Revue
 
 Maison passive en autoconstruction : retour d’expérience sans filtre de Frédéric; 09/2025; https://youtu.be/QdxjLJE-xUk?si=5DwIIOvSyW_hpFFP; Très intéressant et vrai RETEX de qualité : Excellent 
 
+7 conseils que j'aurais aimé connaître avant de peindre;02/2024;
+https://m.youtube.com/watch?v=exjhi-WhjeA; interessant
+
 ------------------------------------------------------------------------------------
 
 Menuiserie André : bon ratio qualité prix !
@@ -603,6 +606,17 @@ attention au réseau et qui alimente de contenu instagramable : on est amené à
 
 
 ------------------------------------------------------------------------------------
+
+7 conseils que j'aurais aimé connaître avant de peindre
+
+ne prenez pas du ruban de masquage bleu pour une surface qui vient d'être peinte mais le rose spécial surface délicate 
+
+bonne peinture
+
+peintre poir que la dernière couches soit dans les sens de la fenêtre (comme le parquet)
+
+L'epousetage (passé une serpillière très bien essoré sur le mur)
+
 
 ------------------------------------------------------------------------------------
 
