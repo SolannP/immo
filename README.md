@@ -174,6 +174,7 @@ https://www.cdiscount.com/electromenager/lavage-sechage/lave-linge-hublot-vedett
     - 🌞🎾 Scie sauteuse
     - 🎾🟡Scie circulaire
     - € Table de sciage universelle
+    - 🌞 coupe à onglet
     - €🎾Ponceuse rotative/orbital
     - 🌞 Ponceuse à bande
     - € 🎾 Cutter
