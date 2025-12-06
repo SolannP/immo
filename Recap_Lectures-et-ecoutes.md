@@ -630,4 +630,6 @@ Pas de mastique ou silicone vers les fenêtres : ça ne se peint pas. Plutôt ma
 
 Pas recommandée de peindre en décembre,  janvier, février 
 
+en dessous de 5° ou au dessus de 25°
+
 ------------------------------------------------------------------------------------
