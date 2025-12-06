@@ -182,7 +182,9 @@ https://www.cdiscount.com/electromenager/lavage-sechage/lave-linge-hublot-vedett
     - 🎾 Scie à angle
   - Tapisserie 
     - 🌞?🎾 brumisateur
-    - € 🎾 Spatule pour gratter la colle 
+    - € 🎾 Spatule pour gratter la colle
+    - € bac d'eau 
+    - € éponges chantier (reutilisable pour le nettoyage de la peinture)
   - Peinture 
     - Un couteau de peintre
     - 🥨 rouleau peinture (20cm et poils 12mm)
@@ -197,6 +199,7 @@ https://www.cdiscount.com/electromenager/lavage-sechage/lave-linge-hublot-vedett
     - € brosse coudé 
     - € pinceau finition/réchampir
     - € Projecteur halogène 
+    - Serpillière (epousetage)
   - Parquet 
     - € Cales de dilatation 
     - € Tire lame (U en metal)
