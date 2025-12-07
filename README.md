@@ -129,6 +129,8 @@ Conseil : peinture Mat
 - 🟡 Machine à laver : LFVQ395W à 319€ sur Cdiscount,  livraison à priori gratuite :
 https://www.cdiscount.com/electromenager/lavage-sechage/lave-linge-hublot-vedette-llv395w-9-kg-inducti/f-1100104-ved3660767998162.html?cid=search_pla&cm_mmc=PLA!COR!!CD!494267762!bing&msclkid=ea15453b5ea81cb741dd2c218f4fc253
 - Lave vaisselle 
+    - https://m.darty.com/m/achat/gros_electromenager/lave-vaisselle/lave-vaisselle/bosch_sms25aw09f_serie_2.html#product-characteristics
+    - https://www.conforama.fr/gros-electromenager/lavage/lave-vaisselle/lave-vaisselle-pose-libre-siemens-sn23ew03mf/p/B85258526
 - Frigo
 - 🟢 Air Fryer
 
@@ -220,11 +222,11 @@ https://www.cdiscount.com/electromenager/lavage-sechage/lave-linge-hublot-vedett
     - Scotch dédiée sous couche 
     - Sous couche 
 - Équipement de Protection Individuelle (EPI) (Lidl/Provet)
-  - Masque
-  - Casque bruit
+  - Masques
+  - 🔵 Casque bruit
   - Boule quies
-  - Lunette
-  - € 🎾 détecteur de câble électrique (murale)
+  - 🔵 Lunette
+  - 🔵 🎾 détecteur de câble électrique (murale)
 
    
 - Si moquette accroche (reste de colle)
