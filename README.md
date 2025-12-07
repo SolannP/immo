@@ -212,6 +212,9 @@ https://www.cdiscount.com/electromenager/lavage-sechage/lave-linge-hublot-vedett
   - Nettoyage 
     - Sac en carton
     - Sac poubelle 
+  - Préparation 
+    - Enduit a reboucher 
+    - Fixateur ?
   - Peinture 
     - La peinture
     - Plastiques fenêtre/radiateur/... 
