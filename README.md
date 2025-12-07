@@ -249,6 +249,13 @@ https://www.cdiscount.com/electromenager/lavage-sechage/lave-linge-hublot-vedett
   - l’utilisation d’une bande à joint ou d’une bande grillagée est recommandée pour renforcer la réparation 
   - Utilisation du MAP (Mortier Adhésif Placoplatre)
 
+- Si besoin d'enduire :
+   - enduit de lissage ou enduit de lissage au rouleau 
+   - eponge, seau , couteau à peintre
+   - grain fin 
+   - 2 larges couteau à enduire  ou raclette spécial enduits de lissage
+   - calle à poncer 
+
 Location d'outils possible :
 - https://bricolib.net/
 - https://www.je-loue-tout.fr/search.php?type=1&reg=6&county=1&keywords=&postcode=&cat=0&sort=1&status=0&page=1
