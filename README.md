@@ -86,7 +86,7 @@ Conseil : peinture Mat
 - mise en carton de la maison 
 - Déménagement gros meubles à organiser en fin de phase réhabilitation minimale
 - Démarches de changement d'adresse, résiliation/activation de contrat
-  - Gaz,
+  - Gaz, (prio)
   - Electricité,
   - Eau,
   - Smictom, 
@@ -101,7 +101,7 @@ Conseil : peinture Mat
 
 > **Phase préparation [15/12-30/12]**
 
-- *Faire la mise à nu des la chambre enfant en priorité pour pouvoir faire la peinture dès que possible*
+- *Faire la mise à nu de la chambre enfant en priorité pour pouvoir faire la peinture dès que possible*
 - *Faire la peinture chambre enfant en priorité 1*
 
 - Mise à nu du sol (lineau et moquette x5 pièces) et dans carton prêt à jeter. Si moquette en bonne état réutiliser pour protection 
@@ -178,7 +178,7 @@ https://www.cdiscount.com/electromenager/lavage-sechage/lave-linge-hublot-vedett
     - 🎾🟡Scie circulaire
     - € Table de sciage universelle
     - 🌞 coupe à onglet
-    - €🎾Ponceuse rotative/orbital
+    - 🥨🎾Ponceuse rotative/orbital
     - 🌞 Ponceuse à bande
     - € 🎾 Cutter
     - 🎾 Escabeau 
