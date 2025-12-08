@@ -94,6 +94,7 @@ Conseil : peinture Mat
   - Assurance habitation,
   - Relais courrier
   - MàJ domiciliation (banque, télephone, mutuelle, sécu, travail, impôts, carte grise) 
+- ouvrir contrat que en haut
 - Signature de l'acte de vente et remise des clés (on espère!)
 - Commencer les travaux 
 - Apporter les petits cartons petit à petit 
