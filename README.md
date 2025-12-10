@@ -16,7 +16,7 @@ Status :
 - Mr Bricolage (Mundolsheim)
 - Hyper céramique (moulure)
 - 🟢 Leroy Merlin (Mundolsheim)
-- Castorama (Mundolsheim)
+- 🟢 Castorama (Mundolsheim)
 - 🟢 Saint-Maclou (Lampersheim)
 - HORNBACH (Kalsruhe, Allemagne)
 - BAUHAUS (Offenbourg, Allemagne)
@@ -61,7 +61,7 @@ Status :
 - 🟢 Saint Maclou --> 7.500€
 
 **Retours d'expérience**
-- 🔵 RETEX David proprio 
+- 🟡 RETEX David proprio 
 - 🔵 Retex solann et Julia 
 - RETEX voisin au dessus 
 - RETEX voisin en dessous
@@ -91,11 +91,11 @@ Conseil : peinture Mat
   - Eau,
   - Smictom, 
   - Internet,
-  - Assurance habitation,
+  - 🟢 Assurance habitation,
   - Relais courrier
   - MàJ domiciliation (banque, télephone, mutuelle, sécu, travail, impôts, carte grise) 
 - ouvrir contrat que en haut
-- Signature de l'acte de vente et remise des clés (on espère!)
+- 🔵 Signature de l'acte de vente et remise des clés (on espère!)
 - Commencer les travaux 
 - Apporter les petits cartons petit à petit 
 
