@@ -123,6 +123,7 @@ Conseil : peinture Mat
 
 - Déménagement Gottenhouse 
 - État des lieux Gottenhouse 
+- Stop contrat elec Gottenhouse 
 
 
 > **Phase équipements de survie [09/01-17/01]
