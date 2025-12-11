@@ -86,15 +86,15 @@ Conseil : peinture Mat
 - mise en carton de la maison 
 - Déménagement gros meubles à organiser en fin de phase réhabilitation minimale
 - Démarches de changement d'adresse, résiliation/activation de contrat
-  - Gaz, (prio)
-  - Electricité,
-  - Eau,
+  - 🔵 Gaz, (22/12)
+  - 🔵 Electricité (15/12)
+  - 🔵 Eau,
   - Smictom, 
   - Internet,
   - 🟢 Assurance habitation,
   - Relais courrier
   - MàJ domiciliation (banque, télephone, mutuelle, sécu, travail, impôts, carte grise) 
-- ouvrir contrat que en haut
+- 🔵 ouvrir contrat que en haut
 - 🔵 Signature de l'acte de vente et remise des clés (on espère!)
 - Commencer les travaux 
 - Apporter les petits cartons petit à petit 
