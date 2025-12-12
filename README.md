@@ -186,22 +186,22 @@ https://www.cdiscount.com/electromenager/lavage-sechage/lave-linge-hublot-vedett
     - 🎾 Scie à angle
   - Tapisserie 
     - 🌞?🎾 brumisateur
-    - € 🎾 Spatule pour gratter la colle
-    - € bac d'eau 
+    - 🥨🎾 Spatule pour gratter la colle
+    - 🥨 bac d'eau 
     - € éponges chantier (reutilisable pour le nettoyage de la peinture)
   - Peinture 
     - Un couteau de peintre
     - 🥨 rouleau peinture (20cm et poils 12mm)
     - 🥨 Bacs peinture 
-    - € plaque metal
-    - € perche 
-    - € perche
+    - 🥨 plaque metal
+    - 🥨 perche 
+    - 🥨 perche
     - € patte de lapin
-    - € rouleau peinture (poils 12mm)
-    - € Bacs peinture 
+    - 🥨 rouleau peinture (poils 12mm)
+    - 🥨 Bacs peinture 
     - € mini rouleau
-    - € brosse coudé 
-    - € pinceau finition/réchampir
+    - 🥨 brosse coudé 
+    - 🥨 pinceau finition/réchampir
     - € Projecteur halogène 
     - Serpillière (epousetage)
   - Parquet 
