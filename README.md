@@ -238,7 +238,10 @@ https://www.cdiscount.com/electromenager/lavage-sechage/lave-linge-hublot-vedett
   - décapant peinture 
 
 - Si galère ou murs abîmé lorsqu'on enlève le papier peint 
-  - Enduit (MAP) 
+  - a) Fixateur/primaire d'accroche
+  - b) platre reboucheur
+  - b) Enduit de rebouchage (MAP) 
+  - c) platre à joint (finition), enduit de lissage
 
 - Si ragreage 
   - definir le lissage par zone en incluant parquets 
