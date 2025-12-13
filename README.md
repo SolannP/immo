@@ -205,10 +205,10 @@ https://www.cdiscount.com/electromenager/lavage-sechage/lave-linge-hublot-vedett
     - € Projecteur halogène 
     - Serpillière (epousetage)
   - Parquet 
-    - € Cales de dilatation 
-    - € Tire lame (U en metal)
-    - € Cales de frappe (bois pour amortir marteau)
-    - 🌞 maillet
+    - 🔵 Cales de dilatation 
+    - 🔵 Tire lame (U en metal)
+    - 🔵 Cales de frappe (bois pour amortir marteau)
+    - 🔵🌞 maillet
 
 - Consommable 
   - Nettoyage 
