@@ -97,9 +97,9 @@ Conseil : peinture Mat
 - 🔵 ouvrir contrat que en haut
 - 🔵 Signature de l'acte de vente et remise des clés (on espère!)
 - Commencer les travaux 
-- Apporter les petits cartons petit à petit 
+- 🔵 Apporter les petits cartons petit à petit 
 
-> **Phase préparation [15/12-30/12]**
+> **Phase préparation [13/12-25/12]**
 
 - *Faire la mise à nu de la chambre enfant en priorité pour pouvoir faire la peinture dès que possible*
 - *Faire la peinture chambre enfant en priorité 1*
@@ -111,7 +111,7 @@ Conseil : peinture Mat
 - Rendre les plafonds et murs poreux
 - Déchetterie
 
-> **Phase réhabilitation minimale [31/12-08/01]
+> **Phase réhabilitation minimale [25/12-08/01]
 
 - Apporter le parquet dans la pièce 48h avant (à 15°-20°)
 - idem pour la sous couche
