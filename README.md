@@ -83,33 +83,33 @@ Conseil : peinture Mat
 > **Phase pre-propriétaire[12/12-16/12]**
 (3j/h)
 
-- mise en carton de la maison 
+- 🔵 mise en carton de la maison 
 - Déménagement gros meubles à organiser en fin de phase réhabilitation minimale
 - Démarches de changement d'adresse, résiliation/activation de contrat
   - 🔵 Gaz, (22/12)
-  - 🔵 Electricité (15/12)
+  - 🟢 Electricité (15/12)
   - 🔵 Eau,
   - Smictom, 
   - Internet,
   - 🟢 Assurance habitation,
   - Relais courrier
   - MàJ domiciliation (banque, télephone, mutuelle, sécu, travail, impôts, carte grise) 
-- 🔵 ouvrir contrat que en haut
-- 🔵 Signature de l'acte de vente et remise des clés (on espère!)
+- 🟢 ouvrir contrat que en haut
+- 🟢 Signature de l'acte de vente et remise des clés (on espère!)
 - Commencer les travaux 
-- 🔵 Apporter les petits cartons petit à petit 
+- 🟢 Apporter les petits cartons petit à petit 
 
 > **Phase préparation [13/12-25/12]**
 
-- *Faire la mise à nu de la chambre enfant en priorité pour pouvoir faire la peinture dès que possible*
+- 🔵 *Faire la mise à nu de la chambre enfant en priorité pour pouvoir faire la peinture dès que possible*
 - *Faire la peinture chambre enfant en priorité 1*
 
 - Mise à nu du sol (lineau et moquette x5 pièces) et dans carton prêt à jeter. Si moquette en bonne état réutiliser pour protection 
 - Grattage des sols si colle 
 - Vérifier un ragreage, plénitude et jonction en vue de la pause du planché (moins de 2mm avec règle de 1m)
-- Mise à nu des murs(tapisserie x5 pièces) et dans carton 
+- 🟢 Mise à nu des murs(tapisserie x5 pièces) et dans carton 
 - Rendre les plafonds et murs poreux
-- Déchetterie
+- Déchetterie 
 
 > **Phase réhabilitation minimale [25/12-08/01]
 
