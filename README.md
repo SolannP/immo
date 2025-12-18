@@ -89,11 +89,18 @@ Conseil : peinture Mat
   - 🔵 Gaz, (22/12)
   - 🟢 Electricité (15/12)
   - 🔵 Eau,
-  - Smictom, 
+  - 🔵 Smictom, 
   - Internet,
   - 🟢 Assurance habitation,
   - Relais courrier
-  - MàJ domiciliation (banque, télephone, mutuelle, sécu, travail, impôts, carte grise) 
+  - MàJ domiciliation 
+      - banque
+      - télephone
+      - mutuelle
+      - sécu
+      - travail
+      - impôts
+      - carte grise
 - 🟢 ouvrir contrat que en haut
 - 🟢 Signature de l'acte de vente et remise des clés (on espère!)
 - Commencer les travaux 
