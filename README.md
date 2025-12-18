@@ -188,7 +188,7 @@ https://www.cdiscount.com/electromenager/lavage-sechage/lave-linge-hublot-vedett
     - 🌞?🎾 brumisateur
     - 🥨🎾 Spatule pour gratter la colle
     - 🥨 bac d'eau 
-    - € éponges chantier (reutilisable pour le nettoyage de la peinture)
+    - 🥨 éponges chantier (reutilisable pour le nettoyage de la peinture)
   - Peinture 
     - Un couteau de peintre
     - 🥨 rouleau peinture (20cm et poils 12mm)
@@ -199,10 +199,10 @@ https://www.cdiscount.com/electromenager/lavage-sechage/lave-linge-hublot-vedett
     - € patte de lapin
     - 🥨 rouleau peinture (poils 12mm)
     - 🥨 Bacs peinture 
-    - € mini rouleau
+    - 🥨 mini rouleau
     - 🥨 brosse coudé 
     - 🥨 pinceau finition/réchampir
-    - € Projecteur halogène 
+    - 🥨🎾 Projecteur halogène 
     - Serpillière (epousetage)
   - Parquet 
     - 🔵 Cales de dilatation 
@@ -228,14 +228,14 @@ https://www.cdiscount.com/electromenager/lavage-sechage/lave-linge-hublot-vedett
     - Sous couche 
 - Équipement de Protection Individuelle (EPI) (Lidl/Provet)
   - Masques
-  - 🔵 Casque bruit
+  - 🥨 Casque bruit
   - Boule quies
-  - 🔵 Lunette
-  - 🔵 🎾 détecteur de câble électrique (murale)
+  - 🥨 Lunette
+  - 🥨 🎾 détecteur de câble électrique (murale)
 
    
 - Si moquette accroche (reste de colle)
-  - décapant peinture 
+  - 🟢 décapant peinture 
 
 - Si galère ou murs abîmé lorsqu'on enlève le papier peint 
   - a) Fixateur/primaire d'accroche
