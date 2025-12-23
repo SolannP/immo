@@ -23,10 +23,10 @@ Si on cherche à le mitiger, on peut proposer des pistes d'atténuation (engagé
 Nous avons remarqué une fissure traversante intérieure/extérieur sur le mur au premier. 
 Il y a des troubles différents en fonction de l'origine du désordre :
  - retrait des argiles : peu probable car serait visible au RDC aussi, avec fissure verticale
- ->[ ] Regarder dans la chambre au rdc le même angle nord
+ - ->[ ] Regarder dans la chambre au rdc le même angle nord
  - planché qui travaille beaucoup 
-->[ ] Regarder dans les combles le même angle nord 
-->[ ] Regarder dans le sejour rdc s'il y a des indiquateurs de traversé 
+- ->[ ] Regarder dans les combles le même angle nord 
+- ->[ ] Regarder dans le sejour rdc s'il y a des indiquateurs de traversé 
  - usure naturelle : peut probable car fissure de grosse ampleur
 
 Les risques sont :
