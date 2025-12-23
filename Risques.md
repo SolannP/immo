@@ -23,9 +23,10 @@ Si on cherche à le mitiger, on peut proposer des pistes d'atténuation (engagé
 Nous avons remarqué une fissure traversante intérieure/extérieur sur le mur au premier. 
 Il y a des troubles différents en fonction de l'origine du désordre :
  - retrait des argiles : peu probable car serait visible au RDC aussi, avec fissure verticale
- [ ] Regarder dans la chambre au rdc le même angle nord
+ ->[ ] Regarder dans la chambre au rdc le même angle nord
  - planché qui travaille beaucoup 
- [ ] Regarder dans les combles le même angle nord 
+->[ ] Regarder dans les combles le même angle nord 
+->[ ] Regarder dans le sejour rdc s'il y a des indiquateurs de traversé 
  - usure naturelle : peut probable car fissure de grosse ampleur
 
 Les risques sont :
@@ -34,16 +35,15 @@ Les risques sont :
  - la déstabilisation de la charpente
 
 Un travail préventif doit être fait pour déterminer l'origine et s'il y a une évolution :
-[ ] installer un fissurometre extérieur 
+->[ ] installer un fissurometre extérieur pendant 6 mois
 En fonction :
- - si pas de mouvement on renforce
+ - si pas de mouvement on renforce comme proposé par Papa
  - si mouvement intervention d'un expert pour déterminer l'origine et actions préventive 
 
 Risque fissures structurelle : 15.000 à 100.000
 
-## 
 
-[ ] Regarder dans le sejour rdc s'il y a des indiquateurs de traversé 
+
 
 ## Drainage 
 - Qu'est ce que nous avons actuellement ? 
