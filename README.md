@@ -108,20 +108,24 @@ Conseil : peinture Mat
 
 > **Phase préparation [13/12-25/12]**
 
-- 🔵 *Faire la mise à nu de la chambre enfant en priorité pour pouvoir faire la peinture dès que possible*
+- 🟢 *Faire la mise à nu de la chambre enfant en priorité pour pouvoir faire la peinture dès que possible*
 - *Faire la peinture chambre enfant en priorité 1*
 
+- tester la peinture au plafond 
+- tester la peinture sur mur ex tapisserie couloir 
+- tester la peinture sur mur ex tapisserie séjour 
+
 - Mise à nu du sol (lineau et moquette x5 pièces) et dans carton prêt à jeter. Si moquette en bonne état réutiliser pour protection 
-- Grattage des sols si colle 
+- 🟢 Grattage des sols si colle : pas besoin
 - Vérifier un ragreage, plénitude et jonction en vue de la pause du planché (moins de 2mm avec règle de 1m)
 - 🟢 Mise à nu des murs(tapisserie x5 pièces) et dans carton 
-- Rendre les plafonds et murs poreux
+- Rendre les plafonds et murs poreux et ou lessiver
 - Déchetterie 
 
 > **Phase réhabilitation minimale [25/12-08/01]
 
-- Apporter le parquet dans la pièce 48h avant (à 15°-20°)
-- idem pour la sous couche
+- 🟢 Apporter le parquet dans la pièce 48h avant (à 15°-20°)
+- 🟢 idem pour la sous couche
 - La peinture du plafond 
 - La dépose des plinthes et masticage soigné des murs des cloisons qui ne donne pas sur l'extérieur
 - Masticage grossier des murs qui seront isolés dans le future (inutile de déposer les plinthes)
@@ -135,6 +139,7 @@ Conseil : peinture Mat
 
 > **Phase équipements de survie [09/01-17/01]
 
+- Rachat embout gratte moquette pierre 
 - 🟡 Machine à laver : LFVQ395W à 319€ sur Cdiscount,  livraison à priori gratuite :
 https://www.cdiscount.com/electromenager/lavage-sechage/lave-linge-hublot-vedette-llv395w-9-kg-inducti/f-1100104-ved3660767998162.html?cid=search_pla&cm_mmc=PLA!COR!!CD!494267762!bing&msclkid=ea15453b5ea81cb741dd2c218f4fc253
 - Lave vaisselle 
