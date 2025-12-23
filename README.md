@@ -157,6 +157,7 @@ https://www.cdiscount.com/electromenager/lavage-sechage/lave-linge-hublot-vedett
 
 > **Suite réhabilitation [xx/xx-yy/yy?]
 
+- Interrupteurs 
 - Porte
 - Cuisine : plan de travail?Lavabo?Sols?
 - Poele 
