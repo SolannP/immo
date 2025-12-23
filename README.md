@@ -114,6 +114,10 @@ Conseil : peinture Mat
 - tester la peinture au plafond 
 - tester la peinture sur mur ex tapisserie couloir 
 - tester la peinture sur mur ex tapisserie séjour 
+- appel Stéphane WEISS pour conduit
+- appel ES pour double conteurs
+- préparation des éléments pour réparer la fissures 
+- préparation des éléments pour ajouter les agraphe 
 
 - Mise à nu du sol (lineau et moquette x5 pièces) et dans carton prêt à jeter. Si moquette en bonne état réutiliser pour protection 
 - 🟢 Grattage des sols si colle : pas besoin
