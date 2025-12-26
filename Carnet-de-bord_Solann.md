@@ -43,7 +43,7 @@ Existence d'un arrêté préfectoral : Le ravalement doit être réalisé au moi
 # Historique et remarques sur des choix
 
 
-## Recap - 27/09/2025
+## Recap - 27/09/25
 
 Le plafond sous la salle de bain du 1er est recouvert par du bois. Impossible de constater l'état sous jacent. À voir lorsque nous allons retaper ça.
 On pense que les anciens propriétaire était un peu limite sur le prix. Certaine choses ont été faites au meilleur ratio prix/qualité, comme le sollin sans finition ou enduit sans peinture.
@@ -59,7 +59,7 @@ Le mur côté nord est fendu à la base et a crée les problèmes d'humidité. P
 Pour ce qui est de l'enduit ciment utilisé sur la maison,  il aurait été mieux d'avoir un enduit à la chaux pour du bati ancien. Le mal est fait on va voir pour la suite.
 
 
-## Recap 15/10/2025
+## Recap 15/10/25
 
 Nous avons lancé des demandes de devis. 
 Certains artisans sont capables d’estimer l'état du toit sans même voir le toit, incroyable ! On va quand même faire venir d'autres artisans.
@@ -72,17 +72,17 @@ On va à priori changer le solin des que possible, faire du temporaire le temps 
 
 Il y a la question de la composition de l'entre étage : qu'est ce qu'il y a sous la moquette et comment ça tient ?
 
-## Recap 16/10
+## Recap 16/10/25
 
 À date, il y a qu'un seul endroit où nous avons constaté de la moisissure sur le coin du plafond : au 1er, mur nord, la petite chambre. Certainement le combo pont thermique et air sans mouvement. 
 Il vient quelques idées pour résoudre ça : trouver un moyen de brasser l'air, installer une VMC/entrée d'air a cette endroit, placer une plante pour jouer sur l'humidité.
 
-## Recap 17/10
+## Recap 17/10/25
 
 Il existe de nombreux "motifs" de parquet (française, anglais, point hongrois,...). Anglaise à point perdu sur des grandes latte me semble mieux (effet aléatoire des jonction)
 Pour ce qui est du type, c'est vrai que le contre collé est plus agréable que le stratifié lorsque l'on marche dessus.
 
-## Recap 18/10
+## Recap 18/10/25
 
 Visite des magasins (Saint Maclou, Leroy Melrin). Il existe des mauvais parquets en bois massif. Certains contre collé ressemblent à des stratifiés.  Il existe des bons stratifiés. Le lino s'appelle le vinyle maintenant. 
 La sous couche à son importance.
@@ -94,11 +94,11 @@ Saint Maclou était bien pour le stratifié.
 
 Les portes peuvent être très coûteuse 
 
-## Recap 20/10
+## Recap 20/10/25
 
 On va faire le recap de ce qu'on a vu dans d'autre maison/appartement en tant que retour d'expérience sur le bien et moins bien.
 
-## Recap 26/10
+## Recap 26/10/25
 
 On a visité après une énorme tempête pluie/vent.  
 Énorme surprise, l'une des "poutres" de la charpente prenait l'eau vers son milieu (une sorte de trou ?). En déplaçant le bordel au comble il y avait une zone d'air confiné et de l'eau qui s'écoule : des champignons était présent au pied de la charpente. Trois espèces, l'une avec le chapeau, l'autre qui ressemble à une mousse touffu et la dernière comme on peut voir sur des arbres. Le tout était extrêmement secs même si la poutre était mouillé ce qui laisse penser que la fuite date un peu (l'été ?).  
@@ -137,14 +137,14 @@ Il y a eu, lorsque j'habitais plus haut dans la rue, d'énormes travaux pour les
 On est tombé sur une verrière/serre : ça nous semble une très bonne idée pour cette zone vide dessus du garage. (attention,  80% du volume vitrée = pas comptabilisés dans les m².
 
 
-## Recap 27/10
+## Recap 27/10/25
 
 Pour la partie électrique pas d'inquiétude pour ajouter des prises.  
 Il reste la présence de plomb qui est très élevé au rdc, surtout sur les encadrementet de porte.  
 Elle est au seul légaux au 1er mais aussi présente.
 Lors du travail au premier, est ce qu'il y a de la peinture au plombs derrières murs de plâtre/papier peint ?
 
-## Recap 29/11
+## Recap 29/11/25
 
 Pour le bas, les pièces côté garage utilise très certainement : des solives/lambourdes + panneau d'agglomére + sol souple. 
 Plutot que de tout refaire, nous pouvons enlever le sol souple et ajouter un sous couche de très bonne qualité puis parquet : des solives/lambourdes + panneau d'agglomére + parquet . 
@@ -155,4 +155,9 @@ Il est inutile d'avoir une sous couche premium/deluxe au 1er : il y a les pont t
 Il faut simplement de quoi bien isoler du bruit et résistant à l'humidité.
 
 Pour la peinture, les types est à déterminer.
+ 
+## Recap 26/12/25
+
+L'obtention des clés est faite avec signature le 11 décembre.
+
 
