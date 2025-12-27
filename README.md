@@ -111,30 +111,52 @@ Conseil : peinture Mat
 - 🟢 *Faire la mise à nu de la chambre enfant en priorité pour pouvoir faire la peinture dès que possible*
 - *Faire la peinture chambre enfant en priorité 1*
 
-- tester la peinture au plafond 
-- tester la peinture sur mur ex tapisserie couloir 
-- tester la peinture sur mur ex tapisserie séjour 
+- 🟢 tester la peinture au plafond 
+- 🟢 tester la peinture sur mur ex tapisserie couloir 
+- 🟢 tester la peinture sur mur ex tapisserie séjour 
 - appel Stéphane WEISS pour conduit
-- appel ES pour double conteurs
+- 🟢 appel ES pour double conteurs
 - préparation des éléments pour réparer la fissures 
 - préparation des éléments pour ajouter les agraphe 
 
-- Mise à nu du sol (lineau et moquette x5 pièces) et dans carton prêt à jeter. Si moquette en bonne état réutiliser pour protection 
+- 🟢 Mise à nu du sol (lineau et moquette x5 pièces) et dans carton prêt à jeter. Si moquette en bonne état réutiliser pour protection 
 - 🟢 Grattage des sols si colle : pas besoin
-- Vérifier un ragreage, plénitude et jonction en vue de la pause du planché (moins de 2mm avec règle de 1m)
+- 🟢 Vérifier un ragreage, plénitude et jonction en vue de la pause du planché (moins de 2mm avec règle de 1m)
 - 🟢 Mise à nu des murs(tapisserie x5 pièces) et dans carton 
 - Rendre les plafonds et murs poreux et ou lessiver
-- Déchetterie 
 
 > **Phase réhabilitation minimale [25/12-08/01]
+
+28/12 : 
+- poncer, enduit de finition et aspirations dans le coin chambre
+- remettre les vis pour store
+- lessivé le plafond rapidement chambre
+- enduit de rebouchage dans les angles fenêtres 
+- mastique dans angles de fenêtre 
+
+- platre sous la fenêtre chambre 2
+- enduit de finition chambre 2
+
+- nettoyage chambre 2
+
+
+- commencer par le plafonds chambre pour la sous couche
+
+
+- couper morceau de moquette pour protection radiateur 
+
 
 - 🟢 Apporter le parquet dans la pièce 48h avant (à 15°-20°)
 - 🟢 idem pour la sous couche
 - La peinture du plafond 
 - La dépose des plinthes et masticage soigné des murs des cloisons qui ne donne pas sur l'extérieur
-- Masticage grossier des murs qui seront isolés dans le future (inutile de déposer les plinthes)
+- 🟢 Masticage grossier des murs qui seront isolés dans le future (inutile de déposer les plinthes)
 - Peinture soignée des cloisons qui ne donnent pas sur l'extérieur et peinture des murs qui seront isolés dans le future (finition moins importante)
 - pour finir, la pose du parquet avec seulement les plinthes sur les cloisons qui ne donne pas sur l'extérieur.
+
+Mardi après-midi :
+- charger la voiture 
+- Déchetterie
 
 - Déménagement Gottenhouse 
 - État des lieux Gottenhouse 
