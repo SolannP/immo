@@ -166,6 +166,10 @@ En retrouvant un morceau de papier journal dans les murs, on peut dater l'instal
 En enlevant le papier peint et moquette on peut voir des fissures sur la dalle et sur un mur (côté nord).
 Pour la grosse fissures sur le mur, on a ouvert la fissure et rebouché avec de la résine.  
 Pour les petites fissures ce n'est pas très prononcé entre les pièces.  
-Elles sont plus marqué aux angles (Nord est, nord milieu, sud est). le niveau indique qu'elles sont supérieures à la dalle (sur élévation des murs ? descente du reste de la maison ?)
+Elles sont plus marqué aux angles (Nord est, nord milieu, sud est). Le niveau indique qu'elles sont supérieures à la dalle (sur élévation des murs ? descente du reste de la maison ?)  
+
+On a remarqué une gaines dans la cheminée du séjour qui fait aussi office de VMC.  
+Les stores ont des trace noire (poussière/moisissure). On se rend comptes que les pièces ou il y a de la moisissure so.t celle ou il n'y a pas d'ouverture sur les stores.
+
 
 
