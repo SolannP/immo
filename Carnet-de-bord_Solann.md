@@ -160,4 +160,12 @@ Pour la peinture, les types est à déterminer.
 
 L'obtention des clés est faite avec signature le 11 décembre.
 
+Papa a remis en route la chaudière du rdc. Au 1er, il a fallu changer la carte mère. GRDR a enlever le (très vieux) compteur du 1er sans prévenir personne, des lors qu'il n'était plus utilisé. Lorsqu'ils ont réactivé le compteur, ils l'ont fait au rdc uniquement. Le travail est en cours pour le 1er.
+
+En retrouvant un morceau de papier journal dans les murs, on peut dater l'installation du chauffage au premier : 1998.
+En enlevant le papier peint et moquette on peut voir des fissures sur la dalle et sur un mur (côté nord).
+Pour la grosse fissures sur le mur, on a ouvert la fissure et rebouché avec de la résine.  
+Pour les petites fissures ce n'est pas très prononcé entre les pièces.  
+Elles sont plus marqué aux angles (Nord est, nord milieu, sud est). le niveau indique qu'elles sont supérieures à la dalle (sur élévation des murs ? descente du reste de la maison ?)
+
 
