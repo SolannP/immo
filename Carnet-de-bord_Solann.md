@@ -177,6 +177,9 @@ On va mettre les câbles dans une goulotte pour le couloir. Plus tard on va mett
 
 Papa nous a donné la réponse pour l'absence de VMC : c'est incompatible avec le gaz (car aération haut et bas).
 
-On va reboucher les cables inutiles électrique et enlever la tres vielles installation décommissionné mais pas enlever.
+On va reboucher les cables inutiles électrique et enlever la tres vielles installation décommissionné mais pas enlevé. 2/3 dans la chambre, 1 dans la chambre de Robin.
+
+Certains murs (chambre 1) se désagrège lors de la peinture, idem pour le plafond. Il faut être très minutieux à ces endroits. Ne pas attendre trop longtemps pour peindre est une bonne décision car on verifie que c'est ok comme ça. Malgré un soin très minutieux, il y a encore des troues. 
+
 
 
