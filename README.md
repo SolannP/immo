@@ -127,23 +127,15 @@ Conseil : peinture Mat
 
 > **Phase réhabilitation minimale [25/12-08/01]
 
-28/12 : 
-- poncer, enduit de finition et aspirations dans le coin chambre
-- remettre les vis pour store
-- lessivé le plafond rapidement chambre
-- enduit de rebouchage dans les angles fenêtres 
-- mastique dans angles de fenêtre 
-
+29/12: 
+ - couper morceau de moquette pour protection radiateur 
+- finition chambre 1 (angle, mastique)
+- rebouchage chambre 1 (plâtres, prise)
 - platre sous la fenêtre chambre 2
 - enduit de finition chambre 2
-
 - nettoyage chambre 2
+- peinture chambre 2
 
-
-- commencer par le plafonds chambre pour la sous couche
-
-
-- couper morceau de moquette pour protection radiateur 
 
 
 - 🟢 Apporter le parquet dans la pièce 48h avant (à 15°-20°)
