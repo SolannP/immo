@@ -171,5 +171,12 @@ Elles sont plus marqué aux angles (Nord est, nord milieu, sud est). Le niveau i
 On a remarqué une gaines dans la cheminée du séjour qui fait aussi office de VMC.  
 Les stores ont des trace noire (poussière/moisissure). On se rend comptes que les pièces ou il y a de la moisissure so.t celle ou il n'y a pas d'ouverture sur les stores.
 
+## Recap 28/12/25
+
+On va mettre les câbles dans une goulotte pour le couloir. Plus tard on va mettre un fond plafond pour cacher ce genre de local technique du plafond. 
+
+Papa nous a donné la réponse pour l'absence de VMC : c'est incompatible avec le gaz (car aération haut et bas).
+
+On va reboucher les cables inutiles électrique et enlever la tres vielles installation décommissionné mais pas enlever.
 
 
