@@ -187,5 +187,15 @@ Vers midi, il illumine la terrasse et éclairé un peu la chambre 1 (de Robin).
 
 En début d'après midi il passe derrière l'immeuble et éclairé uniquement une petite partie de la chambre 1.
 
+Et fin d'après midi seul la chambre 1 est éclairé : le soleil passe entre les deux immeubles.
+
+## Recap 29/12/25
+
+On a rebouché les trous (boîte de dérivation) qui était lié à la lumière pour installer des lignes dédiées (standard aujourd'hui)
+
+On a eu des difficultés avec la peinture du plafond qui doit être déposé très délicatement. 
+
+On a poncé et ré-enduit certains murs avant de mettre la sous couche : résultat impeccable. 
+
 
 
