@@ -181,5 +181,11 @@ On va reboucher les cables inutiles électrique et enlever la tres vielles insta
 
 Certains murs (chambre 1) se désagrège lors de la peinture, idem pour le plafond. Il faut être très minutieux à ces endroits. Ne pas attendre trop longtemps pour peindre est une bonne décision car on verifie que c'est ok comme ça. Malgré un soin très minutieux, il y a encore des troues. 
 
+Le soleil est côté rue le matin, il illumine seulement le sejour du même côté (miroir sur l'un des murs ?)
+ 
+Vers midi, il illumine la terrasse et éclairé un peu la chambre 1 (de Robin). 
+
+En début d'après midi il passe derrière l'immeuble et éclairé uniquement une petite partie de la chambre 1.
+
 
 
