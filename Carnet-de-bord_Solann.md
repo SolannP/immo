@@ -197,5 +197,14 @@ On a eu des difficultés avec la peinture du plafond qui doit être déposé tr�
 
 On a poncé et ré-enduit certains murs avant de mettre la sous couche : résultat impeccable. 
 
+## Recap 31/12/25
+
+GRDF à appelé, un organisme de contrôle du gaz va venir vérifier que tout est OK. 
+
+L'ancienne locataire au 1er à arrêté le compteur vers 2022.
+
+Le conduit du couloir semble avoir une "fuite" : l'intérieur du conduit et l'angle creux semble avoir une fuite qui résulte en un mur dégradé dans le couloir. 
+
+Quelqu'un passe lundi pour regarder l'état du conduit et s'il est possible de mettre un poele.
 
 
