@@ -106,26 +106,8 @@ Conseil : peinture Mat
 - Commencer les travaux 
 - 🟢 Apporter les petits cartons petit à petit 
 
-> **Phase préparation [13/12-25/12]**
-
-- 🟢 *Faire la mise à nu de la chambre enfant en priorité pour pouvoir faire la peinture dès que possible*
-- *Faire la peinture chambre enfant en priorité 1*
-
-- 🟢 tester la peinture au plafond 
-- 🟢 tester la peinture sur mur ex tapisserie couloir 
-- 🟢 tester la peinture sur mur ex tapisserie séjour 
-- appel Stéphane WEISS pour conduit
-- 🟢 appel ES pour double conteurs
-- préparation des éléments pour réparer la fissures 
-- préparation des éléments pour ajouter les agraphe 
-
-- 🟢 Mise à nu du sol (lineau et moquette x5 pièces) et dans carton prêt à jeter. Si moquette en bonne état réutiliser pour protection 
-- 🟢 Grattage des sols si colle : pas besoin
-- 🟢 Vérifier un ragreage, plénitude et jonction en vue de la pause du planché (moins de 2mm avec règle de 1m)
-- 🟢 Mise à nu des murs(tapisserie x5 pièces) et dans carton 
-- Rendre les plafonds et murs poreux et ou lessiver
-
-> **Phase réhabilitation minimale [25/12-08/01]
+> **Phase préparation [13/12-25/12]**  
+> **Phase réhabilitation minimale [25/12-08/01]**
 
 29/12: 
  - couper morceau de moquette pour protection radiateur 
@@ -135,7 +117,6 @@ Conseil : peinture Mat
 - enduit de finition chambre 2
 - nettoyage chambre 2
 - peinture chambre 2
-
 
 
 - 🟢 Apporter le parquet dans la pièce 48h avant (à 15°-20°)
