@@ -21,6 +21,8 @@ Les classement d'usage des parquets, pdf du web, https://nf-parquet.fr/wp-conten
 
 Astuces parquets,  web, https://www.systemed.fr/parquet/pose-regles-a-connaitre-et-a-respecter,4727.html
 
+Comment poser du stratifié résistant à l'eau ?, Youtube, https://youtu.be/NsPyXEyjDuc, Intéressant.
+
 Tuto ragreage autorisant, YouTube, https://youtu.be/LB6-yZFV4tc
 
 System D; L'essentiel du bricolage ; ??/??/????; Revue
@@ -633,3 +635,20 @@ Pas recommandée de peindre en décembre,  janvier, février
 en dessous de 5° ou au dessus de 25°
 
 ------------------------------------------------------------------------------------
+
+
+Comment poser du stratifié résistant à l'eau ?
+
+Sous couche à remplacer en cas de troue avec equivalent et Scotch 
+
+Couper sous les porte d'une épaisseur : sous couche + parquet.
+
+Aération des parquets en croix dans la pièce.
+
+8mm pour les joints de dilatation. 
+
+Joint acrylique et rondin au niveau des coupes pour éviter prise de l'eau. 
+
+Pas moins de 30cm de diff pour éviter les escalier ou bande de parquet trop courte.
+
+
