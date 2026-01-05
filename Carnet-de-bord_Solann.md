@@ -197,6 +197,8 @@ On a eu des difficultés avec la peinture du plafond qui doit être déposé tr�
 
 On a poncé et ré-enduit certains murs avant de mettre la sous couche : résultat impeccable. 
 
+Peinture Baufix moins recouvrante que la bio sourcé. Résultat acceptable même si une deuxième couche semble approprié. Mais risque de mal l'appliquer et avoir pl7s de tre
+
 ## Recap 31/12/25
 
 GRDF à appelé, un organisme de contrôle du gaz va venir vérifier que tout est OK. 
@@ -206,5 +208,25 @@ L'ancienne locataire au 1er à arrêté le compteur vers 2022.
 Le conduit du couloir semble avoir une "fuite" : l'intérieur du conduit et l'angle creux semble avoir une fuite qui résulte en un mur dégradé dans le couloir. 
 
 Quelqu'un passe lundi pour regarder l'état du conduit et s'il est possible de mettre un poele.
+
+## Recap 5/01/26 
+
+Pour la lumière,  la terrasse extérieur (et maison) ont été pensé plein sud en hiver. À 12h on est perpendiculaire au soleil sur la terrasse extérieure maison. 
+
+Il y a du soleil de 9h30 à 11h sur la terrasse extérieure. Après on est caché par l'immeuble en face.
+
+Rdv Poelle a pellets :
+
+Pour les conduits, quelqu'un est venu. Il avait une orientation à nous faire percer la dalle et installer une cheminée additionnelles (encore?!).  
+
+La zone détérioré du couloir est en fait une précédente ouverture qui a été mal rebouché.  
+
+Idée intéressante de faire un poelle sur le mur sud.  
+
+On est en attente de 3 devis : (1) poelle en haut (carrotage dalle), (2) en bas via conduit, (3) murs sud (aération dans le couloir).  
+
+Un second rendez-vous passage avec quelqu'un d'autre est obligatoire.  
+
+Pour le cable dans le conduit, En bas on ne sait pas où ça va.  
 
 
