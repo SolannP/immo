@@ -86,9 +86,9 @@ Conseil : peinture Mat
 - 🔵 mise en carton de la maison 
 - Déménagement gros meubles à organiser en fin de phase réhabilitation minimale
 - Démarches de changement d'adresse, résiliation/activation de contrat
-  - 🔵 Gaz, (22/12)
+  - 🟢 Gaz, (22/12)
   - 🟢 Electricité (15/12)
-  - 🔵 Eau,
+  - 🟢 Eau,
   - 🔵 Smictom, 
   - Internet,
   - 🟢 Assurance habitation,
@@ -109,22 +109,13 @@ Conseil : peinture Mat
 > **Phase préparation [13/12-25/12]**  
 > **Phase réhabilitation minimale [25/12-08/01]**
 
-29/12: 
- - couper morceau de moquette pour protection radiateur 
-- finition chambre 1 (angle, mastique)
-- rebouchage chambre 1 (plâtres, prise)
-- platre sous la fenêtre chambre 2
-- enduit de finition chambre 2
-- nettoyage chambre 2
-- peinture chambre 2
-
-
 - 🟢 Apporter le parquet dans la pièce 48h avant (à 15°-20°)
 - 🟢 idem pour la sous couche
-- La peinture du plafond 
-- La dépose des plinthes et masticage soigné des murs des cloisons qui ne donne pas sur l'extérieur
+- 🟢 La peinture du plafond 
+- La dépose des plinthes et 
+- 🟢 masticage soigné des murs des cloisons qui ne donne pas sur l'extérieur
 - 🟢 Masticage grossier des murs qui seront isolés dans le future (inutile de déposer les plinthes)
-- Peinture soignée des cloisons qui ne donnent pas sur l'extérieur et peinture des murs qui seront isolés dans le future (finition moins importante)
+- 🟢 Peinture soignée des cloisons qui ne donnent pas sur l'extérieur et peinture des murs qui seront isolés dans le future (finition moins importante)
 - pour finir, la pose du parquet avec seulement les plinthes sur les cloisons qui ne donne pas sur l'extérieur.
 
 Mardi après-midi :
@@ -134,6 +125,7 @@ Mardi après-midi :
 - Déménagement Gottenhouse 
 - État des lieux Gottenhouse 
 - Stop contrat elec Gottenhouse 
+
 
 
 > **Phase équipements de survie [09/01-17/01]
