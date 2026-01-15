@@ -65,12 +65,8 @@ Status :
 - 🔵 Retex solann et Julia 
 - RETEX voisin au dessus 
 - RETEX voisin en dessous
-- RETEX voisin en face 
-
-- 🔵 Faire un planning précis des 2 semaines de travaux + travail de préparation -> Quand faire quoi ? 
-- Commande de matériaux
-- Inventaire des outils familiaux 
-- Acheter des meubles chinés pour compléter (si l'occasion se présente)
+- RETEX voisin en face (jaune)
+- RETEX voisin enbface (deriere)
 
 ------------------------------------------------------------------------------------
 
@@ -109,33 +105,18 @@ Conseil : peinture Mat
 > **Phase préparation [13/12-25/12]**  
 > **Phase réhabilitation minimale [25/12-08/01]**
 
-- 🟢 Apporter le parquet dans la pièce 48h avant (à 15°-20°)
-- 🟢 idem pour la sous couche
-- 🟢 La peinture du plafond 
-- La dépose des plinthes et 
-- 🟢 masticage soigné des murs des cloisons qui ne donne pas sur l'extérieur
-- 🟢 Masticage grossier des murs qui seront isolés dans le future (inutile de déposer les plinthes)
-- 🟢 Peinture soignée des cloisons qui ne donnent pas sur l'extérieur et peinture des murs qui seront isolés dans le future (finition moins importante)
 - pour finir, la pose du parquet avec seulement les plinthes sur les cloisons qui ne donne pas sur l'extérieur.
-
-Mardi après-midi :
-- charger la voiture 
-- Déchetterie
 
 - Déménagement Gottenhouse 
 - État des lieux Gottenhouse 
 - Stop contrat elec Gottenhouse 
 
 
-
 > **Phase équipements de survie [09/01-17/01]
 
 - Rachat embout gratte moquette pierre 
-- 🟡 Machine à laver : LFVQ395W à 319€ sur Cdiscount,  livraison à priori gratuite :
-https://www.cdiscount.com/electromenager/lavage-sechage/lave-linge-hublot-vedette-llv395w-9-kg-inducti/f-1100104-ved3660767998162.html?cid=search_pla&cm_mmc=PLA!COR!!CD!494267762!bing&msclkid=ea15453b5ea81cb741dd2c218f4fc253
-- Lave vaisselle 
-    - https://m.darty.com/m/achat/gros_electromenager/lave-vaisselle/lave-vaisselle/bosch_sms25aw09f_serie_2.html#product-characteristics
-    - https://www.conforama.fr/gros-electromenager/lavage/lave-vaisselle/lave-vaisselle-pose-libre-siemens-sn23ew03mf/p/B85258526
+- 🟢 Machine à laver
+- 🟢 Lave vaisselle 
 - Frigo
 - 🟢 Air Fryer
 
