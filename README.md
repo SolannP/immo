@@ -94,8 +94,8 @@ Conseil : peinture Mat
       - 🟢 télephone
       - mutuelle
       - sécu
-      - travail
-      - impôts/gouv
+      - 🟢 travail
+      - 🟢 impôts/gouv
       - 🔵 carte grise
 - 🟢 ouvrir contrat que en haut
 - 🟢 Signature de l'acte de vente et remise des clés (on espère!)
