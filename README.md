@@ -92,8 +92,8 @@ Conseil : peinture Mat
   - MàJ domiciliation 
       - 🟢 banque
       - 🟢 télephone
-      - mutuelle
-      - sécu
+      - 🟢 mutuelle
+      - 🟡 sécu (16/01,19/01)
       - 🟢 travail
       - 🟢 impôts/gouv
       - 🔵 carte grise
