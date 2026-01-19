@@ -109,7 +109,7 @@ Conseil : peinture Mat
 
 - Déménagement Gottenhouse 
 - État des lieux Gottenhouse 
-- Stop contrat elec Gottenhouse 
+- 🟢 Stop contrat elec Gottenhouse 
 
 
 > **Phase équipements de survie [09/01-17/01]
@@ -117,7 +117,7 @@ Conseil : peinture Mat
 - Rachat embout gratte moquette pierre 
 - 🟢 Machine à laver
 - 🟢 Lave vaisselle 
-- Frigo
+- 🟢 Frigo
 - 🟢 Air Fryer
 
 
