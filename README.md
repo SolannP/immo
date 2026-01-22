@@ -93,7 +93,7 @@ Conseil : peinture Mat
       - 🟢 banque
       - 🟢 télephone
       - 🟢 mutuelle
-      - 🟡 sécu (16/01,19/01)
+      - 🟡 sécu (16/01,19/01,22/01)
       - 🟢 travail
       - 🟢 impôts/gouv
       - 🔵 carte grise
