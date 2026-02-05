@@ -21,6 +21,12 @@ Plus besoin de location pour financer les travaux : on transforme le bas pour l'
 
 Idée en vrac :
 - VMC
+- réparation extérieur nord
+nord
+- réparation sollin 
+- Cave optimiser avec des raques
+raques
+- mur optimiser avec de quoi voir les outils 
 - poteau extérieur 
 - citerne pour eau de pluie 
 - serre/terrasse ecolo
