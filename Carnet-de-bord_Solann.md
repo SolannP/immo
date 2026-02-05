@@ -229,4 +229,24 @@ Un second rendez-vous passage avec quelqu'un d'autre est obligatoire.
 
 Pour le cable dans le conduit, En bas on ne sait pas où ça va.  
 
+## Recap 05/01/26
+
+Hier la personne mandaté par GRDF à fait son rapport. Rien de grave, juste des remarques sur la cuisine. 
+
+Code Gravité Libellé Pièce Appareil :
+- 201.J A1 Le local équipé ou prévu pour un appareil d'utilisation n'est pas pourvu de
+sortie d'air
+Cuisine 1 Appareil de cuisson
+- 7A3.J A1 Au moins un organe de coupure n'est pas marqué du logo d'une marque
+reconnue
+Logement
+- 8A2.J A1 Accessibilité de chaque organe de coupure Cuisine 1 Appareil de cuisson
+- 192.J A2 L'examen visuel de l'amenée d'air du local équipé ou prévu pour un
+appareil d'utilisation a mis en évidence que la section de celle-ci est
+manifestement insuffisante (section d'orifice ou nombre de modules).
+Cuisine 1 Appareil de cuisson
+
+La porte du lave vaisselle est installée. Être disponibleet concentrélors de l'installation est primordial.  Autre remarque : **il est important d'avoir des poignées profondes à visser** il n'y a pas besoin de se préoccupé de la profondeur. Cusiniella proposait 100e mais du fait maison c'est 40e (chez Ikea).  
+Le côté en contact avec la scie circulaire est celui qui a des impactés : faire en sorte que la finition soit en bas (si la scie et au dessus)
+
 
