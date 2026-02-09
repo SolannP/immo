@@ -44,6 +44,7 @@ Conseil : peinture Mat
 
 > **Suite réhabilitation [xx/xx-yy/yy?]
 
+- Palissade extérieur 
 - Espace Cave
 - Strategie macro Élaboration 
 - Jardin d'hiver Élaboration 
