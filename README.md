@@ -63,6 +63,33 @@ Conseil : peinture Mat
 ------------------------------------------------------------------------------------
 
 
+Projet Cave :
+ - coin brico 
+ - coin remise : sous l'escalier en U
+Mesurer la hauteur 
+
+Boite empilage (34€)
+https://www.manomano.fr/p/bac-gerbable-demi-ouverture-bac-gerbable-demi-ouverture-norme-europe-l-33741961
+
+24.90 (50e)
+https://www.leroymerlin.fr/produits/boites-de-rangement-et-bacs-multifonctions-organisateurs-de-placard-pliants-avec-couvercles-et-roues-classeur-empilable-42x29-5x27cm-90737378.html
+
+https://www.leroymerlin.fr/produits/lot-de-3-bacs-de-rangement-empilable-en-plastique-3x98l-boite-pliable-a-5-portes-avec-couvercle-et-roulette-66-5x46-5x111-5cm-jaune-93208233.html
+
+Bac course
+https://www.amazon.fr/Spesh-Rangement-Cagettes-Plastique-Empilable/dp/B09C224PJ5/ref=asc_df_B09C224PJ5?tag=bingshoppin0f-21&linkCode=df0&hvadid=80745591720706&hvnetw=s&hvqmt=e&hvbmt=be&hvdev=m&hvlocint=&hvlocphy=126702&hvtargid=pla-4584345063864753&psc=1&msclkid=7b5500fd075a1632d892697534f1887f
+
+Armoire pour quincaillerie 
+https://fr.pinterest.com/pin/510454939005641006/
+https://fr.pinterest.com/pin/633387443173153/
+
+Étagère à bac 
+https://fr.pinterest.com/pin/7740630606485479/
+
+https://fr.pinterest.com/pin/4785143351222626/
+
+------------------------------------------------------------------------------------
+
 **Eco-PTZ** 
 - Pourra être vu avec la banque ultérieurement
 Il faudra que les devis détaillés soit prêts
