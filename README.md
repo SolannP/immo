@@ -52,6 +52,7 @@ Conseil : peinture Mat
 - Constat RDC chambre fissure nord
 - Analyse pro fissures
 - Trouver planche bois chambre 
+- fissure poteau 
 
 - Interrupteurs 
 - Portes
