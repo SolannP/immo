@@ -78,52 +78,21 @@ Conseil : peinture Mat
 
 > **Phase pre-propriétaire[12/12-16/12]**
 (3j/h)
-
-- 🔵 mise en carton de la maison 
-- Déménagement gros meubles à organiser en fin de phase réhabilitation minimale
-- Démarches de changement d'adresse, résiliation/activation de contrat
-  - 🟢 Gaz, (22/12)
-  - 🟢 Electricité (15/12)
-  - 🟢 Eau,
-  - 🔵 Smictom, 
-  - Internet,
-  - 🟢 Assurance habitation,
-  - Relais courrier
-  - MàJ domiciliation 
-      - 🟢 banque
-      - 🟢 télephone
-      - 🟢 mutuelle
-      - 🟡 sécu (16/01,19/01,22/01)
-      - 🟢 travail
-      - 🟢 impôts/gouv
-      - 🔵 carte grise
-- 🟢 ouvrir contrat que en haut
-- 🟢 Signature de l'acte de vente et remise des clés (on espère!)
-- Commencer les travaux 
-- 🟢 Apporter les petits cartons petit à petit 
-
+- MàJ domiciliation 
+    - 🟡 sécu (16/01,19/01,22/01)
+    - 🔵 carte grise 
 > **Phase préparation [13/12-25/12]**  
 > **Phase réhabilitation minimale [25/12-08/01]**
-
-- pour finir, la pose du parquet avec seulement les plinthes sur les cloisons qui ne donne pas sur l'extérieur.
-
-- Déménagement Gottenhouse 
-- État des lieux Gottenhouse 
-- 🟢 Stop contrat elec Gottenhouse 
-
-
 > **Phase équipements de survie [09/01-17/01]
 
 - Rachat embout gratte moquette pierre 
-- 🟢 Machine à laver
-- 🟢 Lave vaisselle 
-- 🟢 Frigo
-- 🟢 Air Fryer
 
 
 > **Pause décompression [18/01]
 
 > **Suite réhabilitation [xx/xx-yy/yy?]
+
+- 
 
 - Interrupteurs 
 - Porte
@@ -141,127 +110,13 @@ Conseil : peinture Mat
 
 > *Notes :*
 - on ne touche pas aux tuyaux de chauffage ni aux radiateurs 
-- a voir sur place, le remplacement des interrupteurs et prises
-
-## Ressource matériel 
-
-- 🌞 Denis p.
-- 🥨 Solann p.
-- 🎾 Peter k.
-- € À acheter (Solann P.)
-
-- Outils 
-  - Commun/Autre
-    - 🥨🎾 Niveau laser
-    - 🥨🎾 Métré laser 
-    - 🥨 thermomètre/hygrométrie x4
-    - 🥨 hygrometre matiere
-    - 🎾 Une règle de maçon
-    - 🌞🎾 Aspirateur chantier
-    - 🌞🎾 Niveau à bulle
-    - 🌞🎾 Équerre
-    - 🌞🎾 Scie sauteuse
-    - 🎾🟡Scie circulaire
-    - € Table de sciage universelle
-    - 🌞 coupe à onglet
-    - 🥨🎾Ponceuse rotative/orbital
-    - 🌞 Ponceuse à bande
-    - € 🎾 Cutter
-    - 🎾 Escabeau 
-    - 🎾 Scie à angle
-  - Tapisserie 
-    - 🌞?🎾 brumisateur
-    - 🥨🎾 Spatule pour gratter la colle
-    - 🥨 bac d'eau 
-    - 🥨 éponges chantier (reutilisable pour le nettoyage de la peinture)
-  - Peinture 
-    - Un couteau de peintre
-    - 🥨 rouleau peinture (20cm et poils 12mm)
-    - 🥨 Bacs peinture 
-    - 🥨 plaque metal
-    - 🥨 perche 
-    - 🥨 perche
-    - € patte de lapin
-    - 🥨 rouleau peinture (poils 12mm)
-    - 🥨 Bacs peinture 
-    - 🥨 mini rouleau
-    - 🥨 brosse coudé 
-    - 🥨 pinceau finition/réchampir
-    - 🥨🎾 Projecteur halogène 
-    - Serpillière (epousetage)
-  - Parquet 
-    - 🔵 Cales de dilatation 
-    - 🔵 Tire lame (U en metal)
-    - 🔵 Cales de frappe (bois pour amortir marteau)
-    - 🔵🌞 maillet
-
-- Consommable 
-  - Nettoyage 
-    - Sac en carton
-    - Sac poubelle 
-  - Préparation 
-    - Enduit a reboucher 
-    - Fixateur ?
-  - Peinture 
-    - La peinture
-    - Plastiques fenêtre/radiateur/... 
-    - Scotch dédiée protection 
-  - Parquet
-    - Le parquet 
-    - Les plinthes 
-    - Scotch dédiée sous couche 
-    - Sous couche 
-- Équipement de Protection Individuelle (EPI) (Lidl/Provet)
-  - Masques
-  - 🥨 Casque bruit
-  - Boule quies
-  - 🥨 Lunette
-  - 🥨 🎾 détecteur de câble électrique (murale)
-
-   
-- Si moquette accroche (reste de colle)
-  - 🟢 décapant peinture 
-
-- Si galère ou murs abîmé lorsqu'on enlève le papier peint 
-  - a) Fixateur/primaire d'accroche
-  - b) platre reboucheur
-  - b) Enduit de rebouchage (MAP) 
-  - c) platre à joint (finition), enduit de lissage
-
-- Si ragreage 
-  - definir le lissage par zone en incluant parquets 
-  - type de ragreage (fibre ou standard)
-  - rouleau à bulle 
-  - grand seau pour produit ragreage 
-  - grand seau d'eau
-  - enduit de ciment pour le trou (si besoin)
-  - Pauliane à poser avant le ragreage 
-
-- Si placo/atre abîmé :
-  - l’enduit de finition
-  - l’utilisation d’une bande à joint ou d’une bande grillagée est recommandée pour renforcer la réparation 
-  - Utilisation du MAP (Mortier Adhésif Placoplatre)
-
-- Si besoin d'enduire :
-   - enduit de lissage ou enduit de lissage au rouleau 
-   - eponge, seau , couteau à peintre
-   - grain fin 
-   - 2 larges couteau à enduire  ou raclette spécial enduits de lissage
-   - calle à poncer 
-
-Location d'outils possible :
-- https://bricolib.net/
-- https://www.je-loue-tout.fr/search.php?type=1&reg=6&county=1&keywords=&postcode=&cat=0&sort=1&status=0&page=1
-    - décolleuse https://www.je-loue-tout.fr/annonce/Grand-Est-Bas-Rhin-Decolleuse-papier-peint-Location-decolleuse-a-papiers-peints-electrique-327
 
 ## Dispo 
-
 Julia : 
  - vacances du 29/1225 au 11/01/26
 
 Solann :
  - vacances du 29/1225 au 11/01/26
-
 
 ------------------------------------------------------------------------------------
 
