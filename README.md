@@ -44,7 +44,7 @@ Conseil : peinture Mat
 
 > **Suite réhabilitation [xx/xx-yy/yy?]
 
-- Palissade extérieur 
+- Palissade extérieur (anti bruit ?)
 - Espace Cave
 - Strategie macro Élaboration 
 - Jardin d'hiver Élaboration 
@@ -88,6 +88,18 @@ https://fr.pinterest.com/pin/633387443173153/
 https://fr.pinterest.com/pin/7740630606485479/
 
 https://fr.pinterest.com/pin/4785143351222626/
+
+------------------------------------------------------------------------------------
+
+Projet Palissade 
+
+possible antibruit 
+attention au ricochet du bruit en cas de hauteur 
+
+hauteur pas forcément grande nécessaire,  surtout dans le petit jardin 
+
+
+
 
 ------------------------------------------------------------------------------------
 
