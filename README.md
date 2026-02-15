@@ -65,12 +65,15 @@ Conseil : peinture Mat
 
 
 Projet Cave :
- - coin brico 
- - outils sur le mur 
- - coin remise : sous l'escalier en U
- - protection tuyau de gaz avec grille 
-
- - boîte à outils compatible avec rangement 
+- coin brico 
+- outils sur le mur 
+- coin visserie via boîte standard ou rangement meuble (ou les deux)
+- coin remise : sous l'escalier en U
+- protection tuyau de gaz avec grille 
+- boîte à outils :
+  - légère avec tout et bac additionnelles 
+  - massive avec l'intégralité (peinture, perceuse, ...)
+  - SURTOUT compatible avec rangement Cave (boîte peuvent se réutiliser sur le mur/boite a outils,...)
 
 - [ ] Mesurer la hauteur 
 
