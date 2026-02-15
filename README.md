@@ -66,8 +66,13 @@ Conseil : peinture Mat
 
 Projet Cave :
  - coin brico 
+ - outils sur le mur 
  - coin remise : sous l'escalier en U
-Mesurer la hauteur 
+ - protection tuyau de gaz avec grille 
+
+ - boîte à outils compatible avec rangement 
+
+- [ ] Mesurer la hauteur 
 
 Boite empilage (34€)
 https://www.manomano.fr/p/bac-gerbable-demi-ouverture-bac-gerbable-demi-ouverture-norme-europe-l-33741961
