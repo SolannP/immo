@@ -61,6 +61,15 @@ Conseil : peinture Mat
 - Salle de bain/WC, faire appel à quelqu'un 
 - escalier / entrée 
 
+
+------------------------------------------------------------------------------------
+
+Extérieur 
+
+coin feux avec bûche et de quoi s'asseoir est vraiment top
+
+https://fr.pinterest.com/pin/lets-go-outside--351912465376198/
+
 ------------------------------------------------------------------------------------
 
 
