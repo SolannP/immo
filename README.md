@@ -117,7 +117,9 @@ côté jardin --> ON SE LIMITE À CA
 
 côté jardin, a peux près la même taille c'est ok. ou grand car evite que Robin escalade. Anti bruit pas nécessaire 
 
-idee de Palissade avec des bac en intérieur (thin) et plus loin banc avec coussin
+idee de Palissade avec des bac en intérieur (thin) et plus loin banc avec coussin.
+
+bande de bois en longueur(horizontal) agrandissement l'horizon 
 
 - Durée 
 - Coût 
