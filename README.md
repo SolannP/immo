@@ -101,12 +101,30 @@ https://fr.pinterest.com/pin/4785143351222626/
 
 Projet Palissade 
 
+Intimité, Sécurité de Robin, Vivons heureux vivons vivons cachés.
+
+bac jardin dépend beaucoup de la lumière.
+Risque que des gens/ados tire dessus et cassent tout. 
+
 possible antibruit 
 attention au ricochet du bruit en cas de hauteur 
 
 hauteur pas forcément grande nécessaire,  surtout dans le petit jardin 
 
+côté route
+coté garage 
+côté jardin --> ON SE LIMITE À CA 
 
+côté jardin, a peux près la même taille c'est ok. ou grand car evite que Robin escalade. Anti bruit pas nécessaire 
+
+
+Durée 
+Coût 
+Qualité : pas d'entretien (pas de haie)
+Benefice
+Risque
+Périmètre 
+Durabilité 
 
 
 ------------------------------------------------------------------------------------
