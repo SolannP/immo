@@ -117,14 +117,15 @@ côté jardin --> ON SE LIMITE À CA
 
 côté jardin, a peux près la même taille c'est ok. ou grand car evite que Robin escalade. Anti bruit pas nécessaire 
 
+idee de Palissade avec des bac en intérieur (thin) et plus loin banc avec coussin
 
-Durée 
-Coût 
-Qualité : pas d'entretien (pas de haie)
-Benefice
-Risque
-Périmètre 
-Durabilité 
+- Durée 
+- Coût 
+- Qualité : pas d'entretien (pas de haie)
+- Benefice
+- Risque
+- Périmètre 
+- Durabilité 
 
 
 ------------------------------------------------------------------------------------
