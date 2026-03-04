@@ -72,6 +72,8 @@ coin feux avec bûche et de quoi s'asseoir est vraiment top
 
 https://fr.pinterest.com/pin/lets-go-outside--351912465376198/
 
+Un petit transat serait le bienvenu 
+
 ------------------------------------------------------------------------------------
 
 
