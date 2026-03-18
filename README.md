@@ -160,6 +160,7 @@ Critères :
  - Durée de 5 à 10 ans, idéalement plus sans restauration 
  - Pas d'entretien (pas de bois ou haie)
  - Safe si des ados jouent avec / tirent dessus / casse tout
+ - Prends en compte le vent (50 cm peut créer une prise au vent)
  - Idéalement laisse la liberté d'optimiser avec des bac à plantes (dépendra de la lumière : peut être la longueur ou juste un endroi)
 
 côté route
