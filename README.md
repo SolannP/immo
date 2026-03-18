@@ -223,6 +223,7 @@ Les démolitions de bâtiments identifiés au PLU pour leur intérêt patrimonia
 Le plan de démolition (plan des démolitions) indique alors les parties à démolir et les parties conservées avec un système de hachures distinctes.
 
 
+Bacs : https://www.leboncoin.fr/ad/jardin_plantes/2735834724
 ------------------------------------------------------------------------------------
 
 **Eco-PTZ** 
