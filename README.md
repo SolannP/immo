@@ -152,8 +152,12 @@ CLOTURES SUR RUE OU SUR LIMITE SEPARATIVE
 
 **Les clôtures peuvent comporter un mur dont la hauteur n'excédera pas 1 m sauf s'il s'agit de murs de soutènement nécessités par la configuration du terrain. La hauteur des clôtures ne peut excéder 2 mètre.**
 
+Le rythme des baies et des éléments constitutifs de la façade doit s’intégrer dans l’architecture 
+environnante, soit par les matériaux, soit par les proportions, l’un des deux pouvant être en 
+opposition avec son entourage immédiat.
+
 Critères :
- - Cible de 250€ à 500€
+ - Cible de 250€ à 300€
  - D'ici les beaux jours (avril/mai)
  - Sécurité de Robin
  - Intimité et impossible de voir de l'autre côté même en dégradant(Vivons heureux vivons vivons cachés)
@@ -232,6 +236,10 @@ Bacs : https://www.leboncoin.fr/ad/jardin_plantes/2735834724
 1. Grillage rigide + occultation PVC
 https://www.leroymerlin.fr/produits/kit-lamelles-occultantes-rigides-pvc-h-100-x-l-250-cm-noir-dirickx-82857226.html?storeid=55
 2. Claustra aluminium (lames horizontales), https://www.leroymerlin.fr/produits/lame-de-cloture-aluminium-persienne-klos-up-gris-zinc-h-13-x-l-145-cm-80118315.html?storeid=21
+3. Tôle acier (pleine ou perforée)
+https://maisondufer.com/fr/tole-acier-decorative/1806-tole-perforee-2000-x-1000-diam-5-epaisseur-15-3660004494419.html
+4. Rehausse en parpaing (solution “mur” + enduit+ colle)
+https://www.leroymerlin.fr/produits/parpaing-creux-beton-l-50-x-l-15-x-h-20-cm-80131118.html?storeid=21
 
 ------------------------------------------------------------------------------------
 
