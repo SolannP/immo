@@ -150,29 +150,26 @@ Extrait du reglement du PLU (Plan Local d'Urbanisme), Uc, Article 11 Aspect ext�
 
 CLOTURES SUR RUE OU SUR LIMITE SEPARATIVE
 
-Les clôtures peuvent comporter un mur dont la hauteur n'excédera pas 1 m sauf s'il s'agit de murs
-de soutènement nécessités par la configuration du terrain. La hauteur des clôtures ne peut excéder
-2 mètres,
+**Les clôtures peuvent comporter un mur dont la hauteur n'excédera pas 1 m sauf s'il s'agit de murs de soutènement nécessités par la configuration du terrain. La hauteur des clôtures ne peut excéder 2 mètre.**
 
-Intimité, Sécurité de Robin, Vivons heureux vivons vivons cachés.
-
-bac jardin dépend beaucoup de la lumière.
-Risque que des gens/ados tire dessus et cassent tout. 
-
-possible antibruit 
-attention au ricochet du bruit en cas de hauteur 
-
-hauteur pas forcément grande nécessaire,  surtout dans le petit jardin 
+Critères :
+ - Cible de 250€ à 500€
+ - D'ici les beaux jours (avril/mai)
+ - Sécurité de Robin
+ - Intimité et impossible de voir de l'autre côté même en dégradant(Vivons heureux vivons vivons cachés)
+ - Durée de 5 à 10 ans, idéalement plus sans restauration 
+ - Pas d'entretien (pas de bois ou haie)
+ - Safe si des ados jouent avec / tirent dessus / casse tout
+ - Idéalement laisse la liberté d'optimiser avec des bac à plantes (dépendra de la lumière : peut être la longueur ou juste un endroi)
 
 côté route
 coté garage 
 côté jardin --> ON SE LIMITE À CA 
 
-côté jardin, a peux près la même taille c'est ok. ou grand car evite que Robin escalade. Anti bruit pas nécessaire 
+Un muret de petite taille qui est de taille similaire mais plus en avant (proche de l'extérieur) permet de réduire les coûts.
+Des bande ms en longueur(horizontal) agrandissement l'horizon.
 
-idee de Palissade avec des bac en intérieur (thin) et plus loin banc avec coussin.
-
-bande de bois en longueur(horizontal) agrandissement l'horizon 
+Possible antibruit, sans vrai importance.
 
 - Durée 
 - Coût 
