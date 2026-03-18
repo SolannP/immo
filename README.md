@@ -182,6 +182,12 @@ bande de bois en longueur(horizontal) agrandissement l'horizon
 - Périmètre 
 - Durabilité 
 
+Jurisprudence sur les clôtures (au demeurant assez rare sur la question), dont il ressort que :
+
+ – tout ouvrage dont la finalité consiste à fermer l’accès à tout ou partie d’une propriété peut constituer une clôture,
+
+ – un tel ouvrage n’a pas à être implanté en limite de propriété pour constituer une clôture (voir en ce sens les arrêts du Conseil d’Etat des 21 juillet 2009 et 26 mai 2014).
+
 
 ------------------------------------------------------------------------------------
 
