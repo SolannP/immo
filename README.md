@@ -167,6 +167,12 @@ côté route
 coté garage 
 côté jardin --> ON SE LIMITE À CA 
 
+Pré-requis :
+ - [ ] Mesurer taille du muret (et hauteur du nouveau muret maximale possible)
+ - [ ] Vérification au près de la mairie, service hurbanisme (insister sur les règles de sécurité)
+ - [ ] Auditer la résistance et structure du muret actuelle 
+
+
 Un muret de petite taille qui est de taille similaire mais plus en avant (proche de l'extérieur) permet de réduire les coûts.
 Des bande ms en longueur(horizontal) agrandissement l'horizon.
 
