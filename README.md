@@ -188,6 +188,40 @@ Jurisprudence sur les clôtures (au demeurant assez rare sur la question), dont 
 
  – un tel ouvrage n’a pas à être implanté en limite de propriété pour constituer une clôture (voir en ce sens les arrêts du Conseil d’Etat des 21 juillet 2009 et 26 mai 2014).
 
+Article R421-17 : Déclaration préalable obligatoire
+Cet article liste les travaux soumis à déclaration préalable sur les constructions existantes. Pour les façades :
+
+"Les travaux ayant pour effet de modifier l'aspect extérieur d'un bâtiment existant"
+
+Sont notamment concernés :
+
+Le ravalement avec changement de couleur ou de matériau
+La création ou modification d'ouvertures
+L'installation de dispositifs visibles (climatisation, panneaux)
+La démolition partielle modifiant l'aspect
+Articles R421-1 à R421-8 : Permis de construire
+Le permis de construire est requis lorsque les travaux :
+
+Créent plus de 20 m² de surface de plancher (ou 40 m² en zone U du PLU)
+Impliquent une démolition avec reconstruction
+Modifient la structure du bâtiment de façon importante
+Pour une simple modification de façade sans création de surface, la déclaration préalable suffit généralement.
+
+Article R431-10 : Plan de façade obligatoire
+Le plan de façade est une pièce obligatoire du dossier de permis de construire (PCMI5) et de déclaration préalable (DP4). Il doit représenter :
+
+L'état existant et l'état projeté
+Les dimensions et proportions des ouvertures
+Les matériaux et couleurs
+L'échelle (généralement 1/100)
+Articles R421-26 à R421-29 : Permis de démolir
+Le permis de démolir est obligatoire pour :
+
+Les démolitions en secteur protégé (monuments historiques, site classé, ZPPAUP)
+Les démolitions lorsque le PLU l'exige
+Les démolitions de bâtiments identifiés au PLU pour leur intérêt patrimonial
+Le plan de démolition (plan des démolitions) indique alors les parties à démolir et les parties conservées avec un système de hachures distinctes.
+
 
 ------------------------------------------------------------------------------------
 
