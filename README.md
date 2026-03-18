@@ -111,8 +111,48 @@ https://fr.pinterest.com/pin/7740630606485479/
 https://fr.pinterest.com/pin/4785143351222626/
 
 ------------------------------------------------------------------------------------
+Projet Place de parking 
+
+Extrait du reglement du PLU (Plan Local d'Urbanisme), Uc, Article 11 Aspect extérieur et construction 
+
+Article 12- UC : Stationnement des véhicules
+
+
+Des aires de stationnement sont exigées à raison de
+• une place par 50 m² de surface de plancher pour les habitations ; il est exigé au
+4 places par logement ; un tiers des places exigées peut être implanté de manière mu
+sein du quartier
+3 places pour 10 chambres d'hébergement hôtelier
+• une place par 50 m² de surface de plancher pour les bureaux
+Chaque tranche de surface de plancher entamée donne lieu à la mise en œuvre d'un
+stationnement.
+
+
+Dans le cas de résidences entièrement consacrées à l'hébergement soit
+• soit de personnes âgées;
+• soit de personnes en situation de handicap
+• soit d'étudiants, de personnes de moins de 30 ans en formation ou en stage ou de
+titulaires ď'un contrat de professionnalisation ou d'apprentissage ;
+les exigences en termes de nombre de places de stationnement sont réduites à une dem
+logement.
+
+
+Article 13-UC : Espaces libres et plantations
+
+
+30% au moins de l'emprise foncière doit être maintenue non imperméabilisée
+
+------------------------------------------------------------------------------------
 
 Projet Palissade 
+
+Extrait du reglement du PLU (Plan Local d'Urbanisme), Uc, Article 11 Aspect extérieur et construction 
+
+CLOTURES SUR RUE OU SUR LIMITE SEPARATIVE
+
+Les clôtures peuvent comporter un mur dont la hauteur n'excédera pas 1 m sauf s'il s'agit de murs
+de soutènement nécessités par la configuration du terrain. La hauteur des clôtures ne peut excéder
+2 mètres,
 
 Intimité, Sécurité de Robin, Vivons heureux vivons vivons cachés.
 
