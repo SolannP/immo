@@ -169,7 +169,7 @@ côté jardin --> ON SE LIMITE À CA
 
 Pré-requis :
  - [ ] Mesurer taille du muret (et hauteur du nouveau muret maximale possible)
- - [ ] Vérification au près de la mairie, service hurbanisme (insister sur les règles de sécurité)
+ - [ ] Vérification et validation au près de la mairie, service hurbanisme (insister sur les règles de sécurité et le bi matiere)
  - [ ] Auditer la résistance et structure du muret actuelle 
 
 
@@ -228,6 +228,11 @@ Le plan de démolition (plan des démolitions) indique alors les parties à dém
 
 
 Bacs : https://www.leboncoin.fr/ad/jardin_plantes/2735834724
+
+1. Grillage rigide + occultation PVC
+https://www.leroymerlin.fr/produits/kit-lamelles-occultantes-rigides-pvc-h-100-x-l-250-cm-noir-dirickx-82857226.html?storeid=55
+2. Claustra aluminium (lames horizontales), https://www.leroymerlin.fr/produits/lame-de-cloture-aluminium-persienne-klos-up-gris-zinc-h-13-x-l-145-cm-80118315.html?storeid=21
+
 ------------------------------------------------------------------------------------
 
 **Eco-PTZ** 
