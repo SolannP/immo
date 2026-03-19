@@ -175,6 +175,7 @@ Pré-requis :
  - [ ] Mesurer taille du muret (et hauteur du nouveau muret maximale possible)
  - [ ] Vérification et validation au près de la mairie, service hurbanisme (insister sur les règles de sécurité et le bi matiere)
  - [ ] Auditer la résistance et structure du muret actuelle 
+ - [ ] Vérifier le niveau du muret 
 
 
 Un muret de petite taille qui est de taille similaire mais plus en avant (proche de l'extérieur) permet de réduire les coûts.
