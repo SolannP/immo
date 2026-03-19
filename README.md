@@ -64,6 +64,111 @@ Conseil : peinture Mat
 - escalier / entrée 
 
 
+Projet Palissade 
+
+Critères :
+ - Cible de 250€ à 300€
+ - D'ici les beaux jours (avril/mai)
+ - Sécurité de Robin
+ - Intimité et impossible de voir de l'autre côté même en dégradant(Vivons heureux vivons vivons cachés)
+ - Durée de 5 à 10 ans, idéalement plus sans restauration 
+ - Pas d'entretien (pas de bois ou haie)
+ - Safe si des ados jouent avec / tirent dessus / casse tout
+ - Prends en compte le vent (50 cm peut créer une prise au vent)
+ - Idéalement laisse la liberté d'optimiser avec des bac à plantes (dépendra de la lumière : peut être la longueur ou juste un endroi)
+
+côté route
+coté garage 
+côté jardin --> ON SE LIMITE À CA 
+
+Pré-requis :
+ - [ ] Mesurer taille du muret (et hauteur du nouveau muret maximale possible)
+ - [ ] Vérification et validation au près de la mairie, service hurbanisme (insister sur les règles de sécurité et le bi matiere)
+ - [ ] Auditer la résistance et structure du muret actuelle 
+ - [ ] Vérifier le niveau du muret 
+ - [ ] Lire le livre de bricolage 1 sur le sujet 
+ - [ ] Lire le livre de bricolage 2 sur le sujet 
+
+Un muret de petite taille qui est de taille similaire mais plus en avant (proche de l'extérieur) permet de réduire les coûts.
+Des bande ms en longueur(horizontal) agrandissement l'horizon.
+
+PVC, correspond aux critères ✅️
+https://www.bricodepot.fr/catalogue/lot-3-lames-persienne-avec-renfort/prod92573/
+
+Très bon guide sur le sujet : https://www.nature-bois-concept.com/boutique/blog/installation-dune-cloture-sur-muret-notre-guide-n42
+
+
+Les différentes type de platine :
+https://clotures-grillages.com/data/uploads/2022/09/differentes-platines-de-fixation-clotures-grillages-1.jpg
+
+RETEX : 
+Attention au niveau (poteau droit ? clôture droite ?)
+La stabilité et les fondations sont essentielles.
+Le PVC est fragile, il ne faut pas forcer mais s'arrêter.
+L'humidité (pluie) pouvant déstabiliser l'ancrage. (pas d'impacte sur le PVC)
+Un contrôle régulier des fixations et de la solidité des poteaux de clôture prévient des affaissements prématurés ou des démantèlements en cas de tempête.
+
+Extrait du reglement du PLU (Plan Local d'Urbanisme), Uc, Article 11 Aspect extérieur et construction 
+
+CLOTURES SUR RUE OU SUR LIMITE SEPARATIVE
+
+**Les clôtures peuvent comporter un mur dont la hauteur n'excédera pas 1 m sauf s'il s'agit de murs de soutènement nécessités par la configuration du terrain. La hauteur des clôtures ne peut excéder 2 mètre.**
+
+Le rythme des baies et des éléments constitutifs de la façade doit s’intégrer dans l’architecture 
+environnante, soit par les matériaux, soit par les proportions, l’un des deux pouvant être en 
+opposition avec son entourage immédiat.
+
+Jurisprudence sur les clôtures (au demeurant assez rare sur la question), dont il ressort que :
+
+ – tout ouvrage dont la finalité consiste à fermer l’accès à tout ou partie d’une propriété peut constituer une clôture,
+
+ – un tel ouvrage n’a pas à être implanté en limite de propriété pour constituer une clôture (voir en ce sens les arrêts du Conseil d’Etat des 21 juillet 2009 et 26 mai 2014).
+
+Article R421-17 : Déclaration préalable obligatoire
+Cet article liste les travaux soumis à déclaration préalable sur les constructions existantes. Pour les façades :
+
+"Les travaux ayant pour effet de modifier l'aspect extérieur d'un bâtiment existant"
+
+Sont notamment concernés :
+
+Le ravalement avec changement de couleur ou de matériau
+La création ou modification d'ouvertures
+L'installation de dispositifs visibles (climatisation, panneaux)
+La démolition partielle modifiant l'aspect
+Articles R421-1 à R421-8 : Permis de construire
+Le permis de construire est requis lorsque les travaux :
+
+Créent plus de 20 m² de surface de plancher (ou 40 m² en zone U du PLU)
+Impliquent une démolition avec reconstruction
+Modifient la structure du bâtiment de façon importante
+Pour une simple modification de façade sans création de surface, la déclaration préalable suffit généralement.
+
+Article R431-10 : Plan de façade obligatoire
+Le plan de façade est une pièce obligatoire du dossier de permis de construire (PCMI5) et de déclaration préalable (DP4). Il doit représenter :
+
+L'état existant et l'état projeté
+Les dimensions et proportions des ouvertures
+Les matériaux et couleurs
+L'échelle (généralement 1/100)
+Articles R421-26 à R421-29 : Permis de démolir
+Le permis de démolir est obligatoire pour :
+
+Les démolitions en secteur protégé (monuments historiques, site classé, ZPPAUP)
+Les démolitions lorsque le PLU l'exige
+Les démolitions de bâtiments identifiés au PLU pour leur intérêt patrimonial
+Le plan de démolition (plan des démolitions) indique alors les parties à démolir et les parties conservées avec un système de hachures distinctes.
+
+
+Bacs plantes https://www.leboncoin.fr/ad/jardin_plantes/2735834724
+
+1. Grillage rigide + occultation PVC
+https://www.leroymerlin.fr/produits/kit-lamelles-occultantes-rigides-pvc-h-100-x-l-250-cm-noir-dirickx-82857226.html?storeid=55
+2. Claustra aluminium (lames horizontales), https://www.leroymerlin.fr/produits/lame-de-cloture-aluminium-persienne-klos-up-gris-zinc-h-13-x-l-145-cm-80118315.html?storeid=21
+3. Tôle acier (pleine ou perforée)
+https://maisondufer.com/fr/tole-acier-decorative/1806-tole-perforee-2000-x-1000-diam-5-epaisseur-15-3660004494419.html
+4. Rehausse en parpaing (solution “mur” + enduit+ colle)
+https://www.leroymerlin.fr/produits/parpaing-creux-beton-l-50-x-l-15-x-h-20-cm-80131118.html?storeid=21
+
 ------------------------------------------------------------------------------------
 
 Extérieur 
@@ -144,118 +249,7 @@ Article 13-UC : Espaces libres et plantations
 
 ------------------------------------------------------------------------------------
 
-Projet Palissade 
 
-Extrait du reglement du PLU (Plan Local d'Urbanisme), Uc, Article 11 Aspect extérieur et construction 
-
-CLOTURES SUR RUE OU SUR LIMITE SEPARATIVE
-
-**Les clôtures peuvent comporter un mur dont la hauteur n'excédera pas 1 m sauf s'il s'agit de murs de soutènement nécessités par la configuration du terrain. La hauteur des clôtures ne peut excéder 2 mètre.**
-
-Le rythme des baies et des éléments constitutifs de la façade doit s’intégrer dans l’architecture 
-environnante, soit par les matériaux, soit par les proportions, l’un des deux pouvant être en 
-opposition avec son entourage immédiat.
-
-Critères :
- - Cible de 250€ à 300€
- - D'ici les beaux jours (avril/mai)
- - Sécurité de Robin
- - Intimité et impossible de voir de l'autre côté même en dégradant(Vivons heureux vivons vivons cachés)
- - Durée de 5 à 10 ans, idéalement plus sans restauration 
- - Pas d'entretien (pas de bois ou haie)
- - Safe si des ados jouent avec / tirent dessus / casse tout
- - Prends en compte le vent (50 cm peut créer une prise au vent)
- - Idéalement laisse la liberté d'optimiser avec des bac à plantes (dépendra de la lumière : peut être la longueur ou juste un endroi)
-
-côté route
-coté garage 
-côté jardin --> ON SE LIMITE À CA 
-
-Pré-requis :
- - [ ] Mesurer taille du muret (et hauteur du nouveau muret maximale possible)
- - [ ] Vérification et validation au près de la mairie, service hurbanisme (insister sur les règles de sécurité et le bi matiere)
- - [ ] Auditer la résistance et structure du muret actuelle 
- - [ ] Vérifier le niveau du muret 
- - [ ] Lire le livre de bricolage 1 sur le sujet 
- - [ ] Lire le livre de bricolage 2 sur le sujet 
-
-Un muret de petite taille qui est de taille similaire mais plus en avant (proche de l'extérieur) permet de réduire les coûts.
-Des bande ms en longueur(horizontal) agrandissement l'horizon.
-
-Possible antibruit, sans vrai importance.
-
-- Durée 
-- Coût 
-- Qualité : pas d'entretien (pas de haie)
-- Benefice
-- Risque
-- Périmètre 
-- Durabilité 
-
-Jurisprudence sur les clôtures (au demeurant assez rare sur la question), dont il ressort que :
-
- – tout ouvrage dont la finalité consiste à fermer l’accès à tout ou partie d’une propriété peut constituer une clôture,
-
- – un tel ouvrage n’a pas à être implanté en limite de propriété pour constituer une clôture (voir en ce sens les arrêts du Conseil d’Etat des 21 juillet 2009 et 26 mai 2014).
-
-Article R421-17 : Déclaration préalable obligatoire
-Cet article liste les travaux soumis à déclaration préalable sur les constructions existantes. Pour les façades :
-
-"Les travaux ayant pour effet de modifier l'aspect extérieur d'un bâtiment existant"
-
-Sont notamment concernés :
-
-Le ravalement avec changement de couleur ou de matériau
-La création ou modification d'ouvertures
-L'installation de dispositifs visibles (climatisation, panneaux)
-La démolition partielle modifiant l'aspect
-Articles R421-1 à R421-8 : Permis de construire
-Le permis de construire est requis lorsque les travaux :
-
-Créent plus de 20 m² de surface de plancher (ou 40 m² en zone U du PLU)
-Impliquent une démolition avec reconstruction
-Modifient la structure du bâtiment de façon importante
-Pour une simple modification de façade sans création de surface, la déclaration préalable suffit généralement.
-
-Article R431-10 : Plan de façade obligatoire
-Le plan de façade est une pièce obligatoire du dossier de permis de construire (PCMI5) et de déclaration préalable (DP4). Il doit représenter :
-
-L'état existant et l'état projeté
-Les dimensions et proportions des ouvertures
-Les matériaux et couleurs
-L'échelle (généralement 1/100)
-Articles R421-26 à R421-29 : Permis de démolir
-Le permis de démolir est obligatoire pour :
-
-Les démolitions en secteur protégé (monuments historiques, site classé, ZPPAUP)
-Les démolitions lorsque le PLU l'exige
-Les démolitions de bâtiments identifiés au PLU pour leur intérêt patrimonial
-Le plan de démolition (plan des démolitions) indique alors les parties à démolir et les parties conservées avec un système de hachures distinctes.
-
-
-Bacs : https://www.leboncoin.fr/ad/jardin_plantes/2735834724
-
-1. Grillage rigide + occultation PVC
-https://www.leroymerlin.fr/produits/kit-lamelles-occultantes-rigides-pvc-h-100-x-l-250-cm-noir-dirickx-82857226.html?storeid=55
-2. Claustra aluminium (lames horizontales), https://www.leroymerlin.fr/produits/lame-de-cloture-aluminium-persienne-klos-up-gris-zinc-h-13-x-l-145-cm-80118315.html?storeid=21
-3. Tôle acier (pleine ou perforée)
-https://maisondufer.com/fr/tole-acier-decorative/1806-tole-perforee-2000-x-1000-diam-5-epaisseur-15-3660004494419.html
-4. Rehausse en parpaing (solution “mur” + enduit+ colle)
-https://www.leroymerlin.fr/produits/parpaing-creux-beton-l-50-x-l-15-x-h-20-cm-80131118.html?storeid=21
-
-
-PVC, correspond aux critères ✅️
-https://www.bricodepot.fr/catalogue/lot-3-lames-persienne-avec-renfort/prod92573/
-
-Les différentes type de platine :
-https://clotures-grillages.com/data/uploads/2022/09/differentes-platines-de-fixation-clotures-grillages-1.jpg
-
-RETEX : 
-Attention au niveau. 
-La stabilité et les fondations so.t essentielles.
-Le PVC est fragile, il ne faut pas forcer mais s'arrêter et réfléchir.
-L'humidité (pluie) pouvant déstabiliser l'ancrage. (pas d'impacte sur le PVC)
-Un contrôle régulier des fixations et de la solidité des poteaux de clôture prévient des affaissements prématurés ou des démantèlements en cas de tempête.
 
 ------------------------------------------------------------------------------------
 
