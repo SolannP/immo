@@ -241,6 +241,11 @@ https://maisondufer.com/fr/tole-acier-decorative/1806-tole-perforee-2000-x-1000-
 4. Rehausse en parpaing (solution “mur” + enduit+ colle)
 https://www.leroymerlin.fr/produits/parpaing-creux-beton-l-50-x-l-15-x-h-20-cm-80131118.html?storeid=21
 
+
+PVC, correspond aux critères 
+https://www.bricodepot.fr/catalogue/lot-3-lames-persienne-avec-renfort/prod92573/
+
+
 ------------------------------------------------------------------------------------
 
 **Eco-PTZ** 
