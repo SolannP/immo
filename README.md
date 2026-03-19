@@ -176,7 +176,8 @@ Pré-requis :
  - [ ] Vérification et validation au près de la mairie, service hurbanisme (insister sur les règles de sécurité et le bi matiere)
  - [ ] Auditer la résistance et structure du muret actuelle 
  - [ ] Vérifier le niveau du muret 
-
+ - [ ] Lire le livre de bricolage 1 sur le sujet 
+ - [ ] Lire le livre de bricolage 2 sur le sujet 
 
 Un muret de petite taille qui est de taille similaire mais plus en avant (proche de l'extérieur) permet de réduire les coûts.
 Des bande ms en longueur(horizontal) agrandissement l'horizon.
@@ -243,8 +244,14 @@ https://maisondufer.com/fr/tole-acier-decorative/1806-tole-perforee-2000-x-1000-
 https://www.leroymerlin.fr/produits/parpaing-creux-beton-l-50-x-l-15-x-h-20-cm-80131118.html?storeid=21
 
 
-PVC, correspond aux critères 
+PVC, correspond aux critères ✅️
 https://www.bricodepot.fr/catalogue/lot-3-lames-persienne-avec-renfort/prod92573/
+
+RETEX : 
+Attention au niveau. 
+La stabilité et les fondations so.t essentielles
+L'humidité (pluie) pouvant déstabiliser l'ancrage. (pas d'impacte sur le PVC)
+Un contrôle régulier des fixations et de la solidité des poteaux de clôture prévient des affaissements prématurés ou des démantèlements en cas de tempête.
 
 
 ------------------------------------------------------------------------------------
