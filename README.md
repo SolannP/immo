@@ -249,10 +249,10 @@ https://www.bricodepot.fr/catalogue/lot-3-lames-persienne-avec-renfort/prod92573
 
 RETEX : 
 Attention au niveau. 
-La stabilité et les fondations so.t essentielles
+La stabilité et les fondations so.t essentielles.
+Le PVC est fragile, il ne faut pas forcer mais s'arrêter et réfléchir.
 L'humidité (pluie) pouvant déstabiliser l'ancrage. (pas d'impacte sur le PVC)
 Un contrôle régulier des fixations et de la solidité des poteaux de clôture prévient des affaissements prématurés ou des démantèlements en cas de tempête.
-
 
 ------------------------------------------------------------------------------------
 
