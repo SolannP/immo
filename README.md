@@ -247,6 +247,9 @@ https://www.leroymerlin.fr/produits/parpaing-creux-beton-l-50-x-l-15-x-h-20-cm-8
 PVC, correspond aux critères ✅️
 https://www.bricodepot.fr/catalogue/lot-3-lames-persienne-avec-renfort/prod92573/
 
+Les différentes type de platine :
+https://clotures-grillages.com/data/uploads/2022/09/differentes-platines-de-fixation-clotures-grillages-1.jpg
+
 RETEX : 
 Attention au niveau. 
 La stabilité et les fondations so.t essentielles.
