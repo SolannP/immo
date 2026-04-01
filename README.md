@@ -82,9 +82,10 @@ coté garage
 côté jardin --> ON SE LIMITE À CA 
 
 Pré-requis :
- - [ ] Mesurer taille du muret (et hauteur du nouveau muret maximale possible)
+ - [x] Mesurer taille du muret (et hauteur du nouveau muret maximale possible) : différentes tailles. 26000mm total , 5320mm à 900, Puis le reste à 600
+
  - [ ] Vérification et validation au près de la mairie, service hurbanisme (insister sur les règles de sécurité et le bi matiere)
- - [ ] Auditer la résistance et structure du muret actuelle 
+ - [x] Auditer la résistance et structure du muret actuelle : tout semble OK, petit rique à l'extérieur vers.la jonction des voisins : leur muret semble moins résistant 
  - [ ] Vérifier le niveau du muret 
  - [ ] Lire le livre de bricolage 1 sur le sujet 
  - [ ] Lire le livre de bricolage 2 sur le sujet 
