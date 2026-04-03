@@ -50,6 +50,8 @@ Conseil : peinture Mat
 - Strategie macro Élaboration 
 - Jardin d'hiver Élaboration 
 - Extérieur 
+  - ponton ? 
+  - caillou lumineux
 - Solin 
 - Constat RDC chambre fissure nord
 - Analyse pro fissures
