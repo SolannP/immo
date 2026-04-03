@@ -44,6 +44,7 @@ Conseil : peinture Mat
 
 > **Suite réhabilitation [xx/xx-yy/yy?]
 
+- Restauration mur de cave
 - Palissade extérieur (anti bruit ?)
 - Espace Cave
 - Strategie macro Élaboration 
