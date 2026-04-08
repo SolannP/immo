@@ -92,8 +92,8 @@ Pré-requis :
  - [ ] Vérification et validation au près de la mairie, service hurbanisme (insister sur les règles de sécurité et le bi matiere)
  - [x] Auditer la résistance et structure du muret actuelle : tout semble OK, petit rique à l'extérieur vers.la jonction des voisins : leur muret semble moins résistant 
  - [ ] Vérifier le niveau du muret 
- - [ ] Lire le livre de bricolage 1 sur le sujet 
- - [ ] Lire le livre de bricolage 2 sur le sujet 
+ - [x] Lire le livre de bricolage 1 sur le sujet 
+ - [x] Lire le livre de bricolage 2 sur le sujet 
 
 Un muret de petite taille qui est de taille similaire mais plus en avant (proche de l'extérieur) permet de réduire les coûts.
 Des bande ms en longueur(horizontal) agrandissement l'horizon.
