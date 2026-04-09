@@ -22,19 +22,14 @@ Status :
 
 ------------------------------------------------------------------------------------
 
-# TRAVAUX DECEMBRE/JANVIER
+# TRAVAUX AVRIL / MAI
 
 Conseil : peinture Mat
 
 ## Étapes
 
-✅️ Phase pre-propriétaire[12/12-16/12]
-(3j/h)  
-✅️ Phase préparation [13/12-25/12]  
-✅️ Phase réhabilitation minimale [25/12-08/01]  
-✅️ Phase équipements de survie [09/01-17/01]  
-
->**Pause décompression [18/01]**
+>**Pause Plinthes [10/04-31/04]**
+>**Phase Muret [31/04-31/05]
 
 - Rachat embout gratte moquette pierre 
 - MàJ domiciliation 
@@ -71,7 +66,7 @@ Conseil : peinture Mat
 - escalier / entrée 
 
 
-Projet Palissade 
+# Projet Palissade 
 
 Critères :
  - Cible de 250€ à 300€
