@@ -162,6 +162,8 @@ Les démolitions de bâtiments identifiés au PLU pour leur intérêt patrimonia
 Le plan de démolition (plan des démolitions) indique alors les parties à démolir et les parties conservées avec un système de hachures distinctes.
 
 
+![Ensemble d'idées 1](https://github.com/SolannP/immo/blob/main/Photo%2FMuret%2F06647e32-ae15-45dc-945c-250d09dee4fc.png)
+
 Bacs plantes https://www.leboncoin.fr/ad/jardin_plantes/2735834724
 
 1. Grillage rigide + occultation PVC
