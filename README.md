@@ -163,6 +163,8 @@ Le plan de démolition (plan des démolitions) indique alors les parties à dém
 
 
 ![Ensemble d'idées 1](https://github.com/SolannP/immo/blob/main/Photo%2FMuret%2F06647e32-ae15-45dc-945c-250d09dee4fc.png)
+![ensemble images 2](https://github.com/SolannP/immo/blob/main/Photo%2FMuret%2F0b36eb17-3a0d-4d43-8b69-c413dab8abb9.png)
+![ensemble images 3](https://github.com/SolannP/immo/blob/main/Photo%2FMuret%2F9cf2bdcb-5fa1-4104-a9b1-6f1c3891e47a.png)
 
 Bacs plantes https://www.leboncoin.fr/ad/jardin_plantes/2735834724
 
