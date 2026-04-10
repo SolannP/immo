@@ -191,6 +191,12 @@ https://fr.pinterest.com/pin/lets-go-outside--351912465376198/
 
 Un petit transat serait le bienvenu 
 
+Jasmin en arbre 
+
+Citronnier avec bouture comme pour citron menton
+
+Question de l'électricité et eau 
+
 ------------------------------------------------------------------------------------
 
 
