@@ -255,4 +255,16 @@ Cuisine 1 Appareil de cuisson
 La porte du lave vaisselle est installée. Être disponibleet concentrélors de l'installation est primordial.  Autre remarque : **il est important d'avoir des poignées profondes à visser** il n'y a pas besoin de se préoccupé de la profondeur. Cusiniella proposait 100e mais du fait maison c'est 40e (chez Ikea).  
 Le côté en contact avec la scie circulaire est celui qui a des impactés : faire en sorte que la finition soit en bas (si la scie et au dessus)
 
+## Recap 11/04/26
+
+on commence les plinthes 
+
+Si sol pas droit, mettre des calles de part et d'autre le côté surélevé, utiliser une troisième calle et trasser la parallèle au sol : ça va faire des bosse à couper. Pour couper, utiliser Ponceuse à bande en diagonale / scie sauteuse avec lame à dents vers extérieur (lame spéciales) / en Bissau avec scie circulaire.
+Mastique acrylique sur les jonction puis peinture (angle, intérieur,...)
+
+Utiliser une feuille en dessous pour protection lors de pose de mastique ou peinture
+
+https://m.youtube.com/watch?v=aT3ge6RZudY
+https://m.youtube.com/watch?v=NLA81xx5mCQ
+
 
