@@ -267,4 +267,6 @@ Utiliser une feuille en dessous pour protection lors de pose de mastique ou pein
 https://m.youtube.com/watch?v=aT3ge6RZudY
 https://m.youtube.com/watch?v=NLA81xx5mCQ
 
+Papa a refait les carreaux du garage
+
 
