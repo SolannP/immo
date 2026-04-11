@@ -181,6 +181,10 @@ https://www.leroymerlin.fr/produits/parpaing-creux-beton-l-50-x-l-15-x-h-20-cm-8
  8. Cloture en béton https://www.bricodepot.fr/catalogue/plaque-beton-aspect-bois-brut-l-192-m-x-l-245-cm-x-ep-33-mm/prod32894/
 9. Clôture acier https://www.yousteel.fr/lames-de-cloture/101-lame-acier-gris-7016-pour-cloture-1760-mm-farel-3662632002035.html?kwkuniv=P51365F577FDD100-ccp51365f577fdd17s1u84139d302v4-NjYwNTAuNTU1ZWVkZDVmOTZlMTFmZmRjY2E4NDAyOTk4OWMzOWQ%3D
 
+
+À priori, l'idée serait la suivante :
+1. Poteaux à 41€ les 2.5m, 40x40, ep 1.5mm https://www.leroymerlin.fr/produits/tube-carre-acier-galvanise-a-froid-standers-h-40-x-l-40-x-ep-1-5-mm-l-2-5-m-87477615.html
+
 ------------------------------------------------------------------------------------
 
 Extérieur 
@@ -196,6 +200,7 @@ Jasmin en arbre
 Citronnier avec bouture comme pour citron menton
 
 Question de l'électricité et eau 
+
 
 ------------------------------------------------------------------------------------
 
