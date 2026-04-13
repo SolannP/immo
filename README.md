@@ -185,6 +185,11 @@ https://www.leroymerlin.fr/produits/parpaing-creux-beton-l-50-x-l-15-x-h-20-cm-8
 À priori, l'idée serait la suivante :
 1. Poteaux à 41€ les 2.5m, 40x40, ep 1.5mm https://www.leroymerlin.fr/produits/tube-carre-acier-galvanise-a-froid-standers-h-40-x-l-40-x-ep-1-5-mm-l-2-5-m-87477615.html
 
+possible de trouver du bois dans le coin : 
+https://www.leboncoin.fr/ad/bricolage/3159106823
+https://www.leboncoin.fr/ad/bricolage/3167527762
+
+
 ------------------------------------------------------------------------------------
 
 Extérieur 
