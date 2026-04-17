@@ -28,16 +28,13 @@ Conseil : peinture Mat
 
 ## Étapes
 
->**Pause Plinthes [10/04-31/04]**
+>**Phase Plinthes [10/04-31/04]**
+
 >**Phase Muret [31/04-31/05]
-
 - Rachat embout gratte moquette pierre 
-- MàJ domiciliation 
-    - 🟡 sécu (16/01,19/01,22/01)
-    - 🔵 carte grise 
+- Affûtage lame BOCH
 
-
-> **Suite réhabilitation [xx/xx-yy/yy?]
+ **Suite réhabilitation [xx/xx-yy/yy?]
 
 - Restauration mur de cave
 - Palissade extérieur (anti bruit ?)
