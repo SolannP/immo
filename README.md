@@ -180,6 +180,7 @@ https://www.leroymerlin.fr/produits/parpaing-creux-beton-l-50-x-l-15-x-h-20-cm-8
  7. Cloture en bois https://www.bricodepot.fr/catalogue/lame-de-cloture-en-bois-naturel-180x14x21-mm-pour-poteau-240-cm/prod98411/
  8. Cloture en béton https://www.bricodepot.fr/catalogue/plaque-beton-aspect-bois-brut-l-192-m-x-l-245-cm-x-ep-33-mm/prod32894/
 9. Clôture acier https://www.yousteel.fr/lames-de-cloture/101-lame-acier-gris-7016-pour-cloture-1760-mm-farel-3662632002035.html?kwkuniv=P51365F577FDD100-ccp51365f577fdd17s1u84139d302v4-NjYwNTAuNTU1ZWVkZDVmOTZlMTFmZmRjY2E4NDAyOTk4OWMzOWQ%3D
+10. cloture kit allu promo https://www.leboncoin.fr/ad/bricolage/3181181662 , 1m80 pour 50€
 
 
 À priori, l'idée serait la suivante :
