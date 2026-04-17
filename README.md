@@ -24,8 +24,6 @@ Status :
 
 # TRAVAUX AVRIL / MAI
 
-Conseil : peinture Mat
-
 ## Étapes
 
 >**Phase Plinthes [10/04-31/04]**
