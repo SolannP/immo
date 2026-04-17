@@ -28,7 +28,9 @@ Status :
 
 >**Phase Plinthes [10/04-31/04]**
 
->**Phase Muret [31/04-31/05]
+>**Phase Muret [31/04-31/05]**
+
+
 - Rachat embout gratte moquette pierre 
 - Affûtage lame BOCH
 
@@ -82,8 +84,10 @@ Pré-requis :
  - [x] Mesurer taille du muret (et hauteur du nouveau muret maximale possible) : différentes tailles. 26000mm total , 5320mm à 900, Puis le reste à 600
 
  - [ ] Vérification et validation au près de la mairie, service hurbanisme (insister sur les règles de sécurité et le bi matiere)
+ - [ ] Vérifier le comportement au perçage 
+
  - [x] Auditer la résistance et structure du muret actuelle : tout semble OK, petit rique à l'extérieur vers.la jonction des voisins : leur muret semble moins résistant 
- - [ ] Vérifier le niveau du muret 
+ - [x] Vérifier le niveau du muret 
  - [x] Lire le livre de bricolage 1 sur le sujet 
  - [x] Lire le livre de bricolage 2 sur le sujet 
 
