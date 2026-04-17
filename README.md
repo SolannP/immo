@@ -62,7 +62,6 @@ Status :
 - Salle de bain/WC, faire appel à quelqu'un 
 - escalier / entrée 
 
-
 # Projet Palissade 
 
 Critères :
