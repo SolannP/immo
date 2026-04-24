@@ -189,6 +189,9 @@ https://www.leboncoin.fr/ad/bricolage/3159106823
 https://www.leboncoin.fr/ad/bricolage/3167527762
 
 
+Sinon, brise vue :
+ - Bambou : https://www.manomano.fr/p/sol-royal-solvision-naturels-solvision-b89bambou-600x90x1-cm-11663949?model_id=11664031#sidePanel-description
+
 ------------------------------------------------------------------------------------
 
 Extérieur 
