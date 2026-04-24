@@ -189,7 +189,12 @@ https://www.leboncoin.fr/ad/bricolage/3159106823
 https://www.leboncoin.fr/ad/bricolage/3167527762
 
 
-Sinon, brise vue :
+Sinon, brise vue / Canisse
+
+ - bande de bois : 13qté×5,49€×5 + 3qté×5,49€×5 = 439€ https://www.leroymerlin.fr/produits/lame-bois-a-emboiter-diego-cerland-l-200-x-h-12-cm-x-ep-22-mm-65412606.html?nbOfStars=1&goToReviewModule=true#component-displaycomp
+
+
+
  - Bambou : https://www.manomano.fr/p/sol-royal-solvision-naturels-solvision-b89bambou-600x90x1-cm-11663949?model_id=11664031#sidePanel-description
 
 ------------------------------------------------------------------------------------
