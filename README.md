@@ -103,6 +103,7 @@ Les différentes type de platine :
 https://clotures-grillages.com/data/uploads/2022/09/differentes-platines-de-fixation-clotures-grillages-1.jpg
 
 RETEX : 
+Côté crèche c'est coulé dans une toute petite dale, à 2 pouce du bord. Juste de grillage en metal. 
 Attention au niveau (poteau droit ? clôture droite ?)
 La stabilité et les fondations sont essentielles.
 Le PVC est fragile, il ne faut pas forcer mais s'arrêter.
@@ -201,17 +202,27 @@ Sinon, brise vue / Canisse
 
 Extérieur 
 
-coin feux avec bûche et de quoi s'asseoir est vraiment top
+coin feux avec bûche et de quoi s'asseoir est vraiment top.
 
 https://fr.pinterest.com/pin/lets-go-outside--351912465376198/
 
-Un petit transat serait le bienvenu 
+Un petit transat serait le bienvenu. 
 
-Jasmin en arbre 
+Le composte et potager est à déplacer certainement.
+
+Jasmin en arbre.
 
 Citronnier avec bouture comme pour citron menton
 
-Question de l'électricité et eau 
+Question de l'électricité et eau.
+
+Un ponton semble propice pour agrandir la terrasse. Idéalement un troue pour qu'un arbres puisse s'y loger : défaut des branches. 
+
+*Note à mesure de l'utilisation* : 
+ - première fois à l'extérieur en début avril et quelques fois les après-midi, en plein soleil jusqu'en mi avril : on ne mange pas forcément dehors encore.
+- de mi avril a début mai, c'est trop froid pour être dehors le matin et en fin de journée (18h). Les midi impossible de manger en plein soleil, il faut être à l'ombre. Le reste de la journée, on est au soleil des que possible. En gros, dès qu'il n'y a plus de soleil il fait trop froid.
+
+
 
 
 ------------------------------------------------------------------------------------
