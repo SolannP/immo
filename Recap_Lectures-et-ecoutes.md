@@ -662,6 +662,12 @@ Il existe plusieurs type d'interrupteur différentiel (A, AC, HPI/F)
 
 Un interupteur differentiel ne doit pas protéger plus de 8 circuits, quelle que soit son intensité nominale (Sinon il pourrait être endommagé par une trop grande puissance).
 
+Minimum 2 interrupteurs différentiels par installation résidentielle.
+
+Au moins 1 interrupteur différentiel de type AC ou A.
+
+Repartir la lumière et prises 
+
 Avec la règle de l’amont et de l’aval, il existe 2 façons de connaître l’ampérage nécessaire pour un interrupteur différentiel dans un tableau électrique, à utiliser séparément selon la situation :
 
 - pour l’amont, l’intensité de l’interrupteur différentiel doit être égale ou supérieure à celle du disjoncteur d’abonné (ex: Si ce dernier a une intensité de 60 ampères, il faudra un interrupteur différentiel de 63 ampères)
