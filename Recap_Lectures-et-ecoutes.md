@@ -652,3 +652,22 @@ Joint acrylique et rondin au niveau des coupes pour éviter prise de l'eau.
 Pas moins de 30cm de diff pour éviter les escalier ou bande de parquet trop courte.
 
 
+------------------------------------------------------------------------------------
+
+# NF C 15-100 (Redaction du 13/05/2026)
+
+## Interupteur divisionnaire 
+
+Il existe plusieurs type d'interrupteur différentiel (A, AC, HPI/F)
+
+Un interupteur differentiel ne doit pas protéger plus de 8 circuits, quelle que soit son intensité nominale (Sinon il pourrait être endommagé par une trop grande puissance).
+
+Avec la règle de l’amont et de l’aval, il existe 2 façons de connaître l’ampérage nécessaire pour un interrupteur différentiel dans un tableau électrique, à utiliser séparément selon la situation :
+
+- pour l’amont, l’intensité de l’interrupteur différentiel doit être égale ou supérieure à celle du disjoncteur d’abonné (ex: Si ce dernier a une intensité de 60 ampères, il faudra un interrupteur différentiel de 63 ampères)
+- pour l’aval, il faut une intensité qui soit égale ou supérieure à la somme des intensités des disjoncteurs divisionnaires raccordés sous l'interrupteur différentiel. Les circuits de chauffage, d’eau chaude sanitaire et des dispositifs de recharge pour véhicules électriques comptent pleinement (x1) et le reste des circuits compte pour moitié (x0.5)
+
+Source :
+ - Section électrique du libre bricolage 
+ - https://izi-by-edf.fr/blog/interrupteur-differentiel-congelateur/
+ - https://www.legrand.fr/questions-frequentes/comment-calculer-lamperage-dun-interrupteur-differentiel
