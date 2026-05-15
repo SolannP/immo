@@ -269,4 +269,9 @@ https://m.youtube.com/watch?v=NLA81xx5mCQ
 
 Papa a refait les carreaux du garage
 
+## Recap 15/05/26
+
+On va installer le congélateur avec l'installation électrique approprié. 
+pas certain que l'installation soit 100% au normes pour le moment mais on a tout changé pour ne pas avoir d'incendie (diamètre câble du 1er). On va s'attaquer à ca lorsqu'on va faire le bas.
+
 
