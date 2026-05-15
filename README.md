@@ -54,6 +54,8 @@ Status :
 - Trouver planche bois chambre 
 - fissure poteau 
 - double des clées 
+- Réparation bouton chaudière 
+- Mise à plat électrique 
 
 
 - Interrupteurs 
