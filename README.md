@@ -245,9 +245,11 @@ Projet Cave :
   - massive avec l'intégralité (peinture, perceuse, ...)
   - SURTOUT compatible avec rangement Cave (boîte peuvent se réutiliser sur le mur/boite a outils,...)
 
-- [ ] Mesurer la hauteur 
+le mieux est d'utiliser toujours les mêmes boîtes (Centrakor)
 
-Boite empilage (34€)
+- [x] Mesurer la hauteur : 185 max (poutre), 182 safe de hauteur (lumière)
+
+Boite empilage (34€) : 
 https://www.manomano.fr/p/bac-gerbable-demi-ouverture-bac-gerbable-demi-ouverture-norme-europe-l-33741961
 
 24.90 (50e)
