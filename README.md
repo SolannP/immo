@@ -19,6 +19,7 @@ Status :
 - RETEX voisin en dessous
 - RETEX voisin en face (jaune)
 - RETEX voisin enbface (deriere)
+- Obtenir le cadastre
 
 ------------------------------------------------------------------------------------
 
@@ -85,7 +86,7 @@ Pré-requis :
  - [x] Mesurer taille du muret (et hauteur du nouveau muret maximale possible) : différentes tailles. 26000mm total , 5320mm à 900, Puis le reste à 600
 
  - [ ] Vérification et validation au près de la mairie, service hurbanisme (insister sur les règles de sécurité et le bi matiere)
- - [ ] Vérifier le comportement au perçage 
+ - [x] Vérifier le comportement au perçage 
 
  - [x] Auditer la résistance et structure du muret actuelle : tout semble OK, petit rique à l'extérieur vers.la jonction des voisins : leur muret semble moins résistant 
  - [x] Vérifier le niveau du muret 
