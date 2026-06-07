@@ -225,6 +225,7 @@ Un ponton semble propice pour agrandir la terrasse. Idéalement un troue pour qu
  - première fois à l'extérieur en début avril et quelques fois les après-midi, en plein soleil jusqu'en mi avril : on ne mange pas forcément dehors encore.
 - de mi avril a début mai, c'est trop froid pour être dehors le matin et en fin de journée (18h). Les midi impossible de manger en plein soleil, il faut être à l'ombre. Ou à l'opposé : lorsqu'il y a du vent froid comme en fin avril, pas possible de manger dehors. Le reste de la journée, on est au soleil des que possible. En gros, dès qu'il n'y a plus de soleil ou du vent (froid) il fait trop froid 
 - en mi mai on a des la pluie et même des rechute à 10°. On se place au milieu sous le parasol car il fait trop froid à l'ombre et le soleil brûle. des fois c'est trop chaud et on est sous l'arbre.
+- en début juin o. peut sortir prendre le café le matin avec une petite veste. Cependant, la cuisine étant à l'étage c'est beaucoup de matériel à sortir pour pouvoir prendre un petit déjeuner dehors. Autre point important : il y a de la lumière le matin dans le jardin, via le petit couloir puis assez rapidement au dessus de la maison 
 ------------------------------------------------------------------------------------
 
 # Projet Salle de bain WC
