@@ -201,6 +201,13 @@ Sinon, brise vue / Canisse
 
  - Bambou : https://www.manomano.fr/p/sol-royal-solvision-naturels-solvision-b89bambou-600x90x1-cm-11663949?model_id=11664031#sidePanel-description
 
+Ressource utile : 
+
+pour faire le niveau, utilisé les tamis des cheville chimique : ça permet d'ajuster. un fois platine droite (on test en posant la platine dessus), on fait du ciment : on va mettre une semelle en dessous pour fixer tout ca et bien faire les bords carré avec une spatule.
+https://youtu.be/18fpKCducuU?si=6X0MbYz4HN06lKI6
+
+
+
 ------------------------------------------------------------------------------------
 
 Extérieur 
