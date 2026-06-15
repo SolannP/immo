@@ -1,13 +1,13 @@
 # Légende 
-⚪️ Pas d'avis
-🔵 En cours 
-🟢 Avis positif 
-🔴 Impossible 
-⚠️ Arnaque ou danger 
+⚪️ Pas d'avis. 
+🔵 En cours. 
+🟢 Avis positif. 
+🔴 Impossible. 
+⚠️ Arnaque ou danger. 
 
 # Couvreur 
 
-## GIESSLER
+## 🔵 GIESSLER
 2 Rue de Molsheim, 67700 Saverne  
 03 88 91 16 30  
 https://giessler67.com/  
