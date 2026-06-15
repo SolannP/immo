@@ -1,9 +1,9 @@
 # Légende 
-⚪️ Pas d'avis. 
-🔵 En cours. 
-🟢 Avis positif. 
-🔴 Impossible. 
-⚠️ Arnaque ou danger. 
+⚪️ Pas d'avis.  
+🔵 En cours.  
+🟢 Avis positif.  
+🔴 Impossible.  
+⚠️ Arnaque ou danger.  
 
 # Couvreur 
 
