@@ -4,9 +4,21 @@
 GIESSLER; https://giessler67.com/;
 https://maps.app.goo.gl/jxEmfEeyLyDCVuj37;
 
+Déjà contacter le 27/10/25
 Prise de contacte le 15/06/26 via le site (mail)
 
-## 🔴 Service toiture 
+## 🟢 Schneider couverture (pas dispo)
+Victime de son succès 
+
+## 🟢 SD Couverture --> 3.000€
+Très bien
+
+## ⚪️ KV Toiture (à contacter)
+
+## ⚠️ Tradi toiture 
+**Maxi arnaque**
+
+## ⚠️ Services toitures
 2 Rue Henri Bergson, 67200 Steinbourg. 
 06 79 75 11 62
 https://maps.app.goo.gl/7BZpY7A3yibLHVif8
@@ -14,7 +26,7 @@ https://maps.app.goo.gl/7BZpY7A3yibLHVif8
 
 Fait payer le devis de manière insidieuse. Plutôt un red flag. 
 
-## ❌️ Couverture zinguerie schweyer
+## ⚠️ Couverture zinguerie schweyer
 5 Rue du Presbytère, 67790 Steinbourg. 
 06 36 77 17 90. 
 https://maps.app.goo.gl/83HgWKca11t7oGg76  
