@@ -365,17 +365,6 @@ https://maps.app.goo.gl/Ap4t8qW9aCL4kf8Y7
 **Artisans**
 > PEINTURE
 - 🟢 L'atelier du peintre --> 36.000€, 43.700€
-> COUVERTURE
-- 🟢 SOLIN/COUVERTURE/TOITURE (trou dans le toit à régler)
-- 🟢 Rapport reparation attendu
-- ⚠️ Tradi toiture (Arnaque)
-- 🟡 Schneider couverture (pas dispo)
-- 🟢 SD Couverture --> 3.000€
-- 🔴 Blaise Daniel
-- 🔵 Geisler(27/10)
-- ⚠️ Services Toitures --> 2.500€
-- KV Toiture (à contacter)
-- 🟢 ATILLA (29/10, 14h) 
 > ETANCHEITE  
 - 🔴 Suhner Entreprise de Construction (?)
 - 🔴 VA BTP (Hors périmètre)
