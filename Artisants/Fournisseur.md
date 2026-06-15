@@ -1,16 +1,19 @@
 # Couvreur 
 
 ## GIESSLER
-GIESSLER; https://giessler67.com/;
+2 Rue de Molsheim, 67700 Saverne  
+03 88 91 16 30  
+https://giessler67.com/  
+mail via site  
 https://maps.app.goo.gl/jxEmfEeyLyDCVuj37;
 
 Déjà contacter le 27/10/25
-Prise de contacte le 15/06/26 via le site (mail)
+2nd prise de contacte le 15/06/26 via le site (mail)
 
 ## 🟢 Schneider couverture (pas dispo)
 Victime de son succès 
 
-## 🟢 SD Couverture --> 3.000€
+## 🟢 SD Couverture
 Très bien
 
 ## ⚪️ KV Toiture (à contacter)
@@ -37,7 +40,7 @@ DEFINITVEMENT FERMÉ SUR PAGE JAUNE.. MAIS TRAVAIL AU BLACK
 
 # Charpentier 
 
-## CHARPENTE MEHL
+## 🔵 CHARPENTE MEHL
 10 Rue de l'Église, 67700 Wolschheim
 06 10 03 07 51
 https://maps.app.goo.gl/CsNds4XWS9KMVQoz7
