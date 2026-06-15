@@ -1,3 +1,10 @@
+# Légende 
+⚪️ Pas d'avis
+🔵 En cours 
+🟢 Avis positif 
+🔴 Impossible 
+⚠️ Arnaque ou danger 
+
 # Couvreur 
 
 ## GIESSLER
@@ -15,6 +22,8 @@ Victime de son succès
 
 ## 🟢 SD Couverture
 Très bien
+
+## ⚪️ ATILLA (29/10, 14h)
 
 ## ⚪️ KV Toiture (à contacter)
 
