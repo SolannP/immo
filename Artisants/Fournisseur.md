@@ -73,6 +73,9 @@ Cordialement
 M.PUYGRENIER Solann
 ```
 
+Rdv le mardi 30/06 à 8h. Plutôt sympathique.
+
+
 ## ⚪️ Sommereisen Charpente (à contacter)
 8 Rue des Vignes, 67310 Romanswiller  
 06 77 27 32 62  
