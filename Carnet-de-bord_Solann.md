@@ -274,4 +274,8 @@ Papa a refait les carreaux du garage
 On va installer le congélateur avec l'installation électrique approprié. 
 pas certain que l'installation soit 100% au normes pour le moment mais on a tout changé pour ne pas avoir d'incendie (diamètre câble du 1er). On va s'attaquer à ca lorsqu'on va faire le bas.
 
+## Recap 21/06/26 
 
+On arrive à la phase finale de la clôture : emboîter les 120 lames. 
+On a déjà percé, scellé les tiges avec des chevilles chimiques, mis du ciment, en plus des écrou sous les platine. 
+À priori tres solides mais sensibilité en bas de poteau en cas de grosse pluie. Il faut mettre de la colle/joint pour limiter le ruissellement et stagnation d'eau. Peut être percé un troue en plus ?
