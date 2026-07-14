@@ -279,3 +279,8 @@ pas certain que l'installation soit 100% au normes pour le moment mais on a tout
 On arrive à la phase finale de la clôture : emboîter les 120 lames. 
 On a déjà percé, scellé les tiges avec des chevilles chimiques, mis du ciment, en plus des écrou sous les platine. 
 À priori tres solides mais sensibilité en bas de poteau en cas de grosse pluie. Il faut mettre de la colle/joint pour limiter le ruissellement et stagnation d'eau. Peut être percé un troue en plus ?
+
+## Recap 14/07/26 
+
+La clôture est finie depuis 1 semaines. On est plutôt bien et avec une qualité maximum. 
+La on a attaqué le tas du fond du jardin et trié les pierres. Les prochaines étapes sont : la dernière porte de julia, les coffrage, mettre à nue la pièce du fond, suite avec artisants (Esteves + Toitures)
