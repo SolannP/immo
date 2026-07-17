@@ -214,6 +214,8 @@ Extérieur
 
 coin feux avec bûche et de quoi s'asseoir est vraiment top.
 
+mais attention quand il pleut..
+
 https://fr.pinterest.com/pin/lets-go-outside--351912465376198/
 
 Un petit transat serait le bienvenu. 
@@ -227,6 +229,8 @@ Citronnier avec bouture comme pour citron menton
 Question de l'électricité et eau.
 
 Un ponton semble propice pour agrandir la terrasse. Idéalement un troue pour qu'un arbres puisse s'y loger : défaut des branches. 
+
+lorsqu'il pleut, l'extérieur est froid. De quoi protéger le chemin pour aller au fo d du jardin serait bienvenue 
 
 *Note à mesure de l'utilisation* : 
  - première fois à l'extérieur en début avril et quelques fois les après-midi, en plein soleil jusqu'en mi avril : on ne mange pas forcément dehors encore.
