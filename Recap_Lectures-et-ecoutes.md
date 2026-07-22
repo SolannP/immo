@@ -50,6 +50,8 @@ https://m.youtube.com/watch?v=exjhi-WhjeA; interessant
 
 PEINDRE: LES 20 ERREURS DE DÉBUTANT; 05/2020; https://m.youtube.com/watch?v=WYMX6pwJiFE&pp=ugUEEgJmctIHCQkeAaO1ajebQw%3D%3D; 
 
+Guide d'installations sanitaires ; 2014 ou 2018; 
+
 ------------------------------------------------------------------------------------
 
 Menuiserie André : bon ratio qualité prix !
@@ -677,3 +679,7 @@ Source :
  - Section électrique du libre bricolage 
  - https://izi-by-edf.fr/blog/interrupteur-differentiel-congelateur/
  - https://www.legrand.fr/questions-frequentes/comment-calculer-lamperage-dun-interrupteur-differentiel
+
+------------------------------------------------------------------------------------
+
+Guide d'installations sanitaires ; 2014 ou 2018; 
