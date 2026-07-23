@@ -683,3 +683,13 @@ Source :
 ------------------------------------------------------------------------------------
 
 Guide d'installations sanitaires ; 2014 ou 2018; 
+
+## Des règles à respecter
+
+Les chaudières (hormis les chaudières étanches reliées à un conduit à ventouse et les chaudières électriques) utilisent l'air ambiant lors de la combustion de leur énergie. Pour cette raison leurs locaux doivent être correctement dimensionnés et ventilés.
+
+## Quel volume ?
+La dimension minimale du local dans lequel est installée une chaudière est de 8 m³, I doit comporter au moins une fenêtre ouvrant sur l'extérieur, d'une surface de 0,40 m² minimum. Deux locaux contigus sont considérés comme un local unique s'ils communiquent par une baie d`au moins 3 m²
+Trois exceptions : cette règle n'est pas imposée si le matériel est équipé d'une sécurité anti-refoulement des gaz brûlés. De même, si le local est xclusivement réservé à l'installation de
+l'appareil ou si l'appareil est raccordé à une VMC-gaz, aucun volume minimal n'est à respecter.
+
