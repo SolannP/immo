@@ -704,3 +704,10 @@ Sortie d'air par orifice (habitat ancien) ou conduit verticale, S = 100 cm², ap
 ### Amenée d'air indirecte : 
 
 l'air extérieur pénètre par un local ou des locaux contigus au local où se trouve l'appareil. L'air ne doit pas transiter par les WC, un autre logement ou une partie commune d'un immeuble.
+
+1- Chaudière de moins de 25 kW, S =50 cm³
+2- Chaudière 25 kW à 35 kw,S =70 cm³
+3- Chaudière 35 kW à 50 kw, S =100 em³
+4 Chaudière 50 kW à 70 kW, S =_150 cm³
+
+Sortie d'air par conduit vertical ou coupe tirage, appareil raccordé à un conduit de 100 cm² minimum.
