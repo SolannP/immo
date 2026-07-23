@@ -693,3 +693,14 @@ La dimension minimale du local dans lequel est installée une chaudière est de 
 Trois exceptions : cette règle n'est pas imposée si le matériel est équipé d'une sécurité anti-refoulement des gaz brûlés. De même, si le local est xclusivement réservé à l'installation de
 l'appareil ou si l'appareil est raccordé à une VMC-gaz, aucun volume minimal n'est à respecter.
 
+## L'amenée d'air (minimum)
+
+### Amenée d'air directe : 
+
+L'air prélevé pénètre directement dans le local ou par un conduit spécial. Sa section est de 100 em' (150 em' si le conduit présente plus de deux coudes).
+
+Sortie d'air par orifice (habitat ancien) ou conduit verticale, S = 100 cm², appareil non raccordé (gazinière, chauffe-eau). 
+
+### Amenée d'air indirecte : 
+
+l'air extérieur pénètre par un local ou des locaux contigus au local où se trouve l'appareil. L'air ne doit pas transiter par les WC, un autre logement ou une partie commune d'un immeuble.
