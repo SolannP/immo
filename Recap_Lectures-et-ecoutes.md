@@ -50,7 +50,7 @@ https://m.youtube.com/watch?v=exjhi-WhjeA; interessant
 
 PEINDRE: LES 20 ERREURS DE DÉBUTANT; 05/2020; https://m.youtube.com/watch?v=WYMX6pwJiFE&pp=ugUEEgJmctIHCQkeAaO1ajebQw%3D%3D; 
 
-Guide d'installations sanitaires ; 2014 ou 2018; Du pratique prêt à utiliser (mesures typiques, lexique, accessoires,...) Pour l'eau et le gaz
+Guide d'installations sanitaires ; 2014 ou 2018; Du pratique prêt à utiliser (mesures typiques, lexique, accessoires,...) pour l'eau, gaz, soudure. Impossible de faire un récap car trop de données (c'est déjà un recap)
 
 ------------------------------------------------------------------------------------
 
