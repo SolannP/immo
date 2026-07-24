@@ -732,14 +732,14 @@ Le diamètre nominal (DN pour Diameter Nominal ou Diamètre Nominal) est une dé
 
 Qand on parle de 20/27, c'est diamètre intérieur/extérieur (le chiffre est approximatif)
 
-Diamètre Nominal | anglo-saxon | métrique
-DN10 | 3/8"   | 12/17 <=
-DN15 | 1/2"   | 15/21 <=
-DN20 | 3/4"   | 20/27 <=
-DN25 | 1"     | 26/34
-DN32 | 1 1/4" | 33/42
-DN40 | 1 1/2" | 40/49
-DN50 | 2"     | 50/60
+| Diamètre Nominal | anglo-saxon | métrique| 
+| DN10 | 3/8"   | 12/17 <=| 
+| DN15 | 1/2"   | 15/21 <=| 
+| DN20 | 3/4"   | 20/27 <=| 
+| DN25 | 1"     | 26/34| 
+| DN32 | 1 1/4" | 33/42| 
+| DN40 | 1 1/2" | 40/49| 
+| DN50 | 2"     | 50/60| 
 
 Seuls trois de ces diamètres sont vraiment courants : 12/17, 15/21 et 20/27. 
 
@@ -769,6 +769,9 @@ Existe des systèmes en by pass pour filtre/ dureté de l'eau. (X robinet, W fil
 <------------X------------<
     |               |
     ---X----W----X---
+
+Diamètre des canalisations
+d'alimentation
 
 
 
