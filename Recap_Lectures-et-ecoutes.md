@@ -719,7 +719,7 @@ Sortie d'air par conduit vertical ou coupe tirage, appareil raccordé à un cond
 
 La plomberie
 
-Trois domaines : eau sanitaire, zingage, chauffage central 
+Trois domaines : eau sanitaire, zingage, chauffage central. L'ouvrage se concentre sur les eaux sanitaires.
 
 
 Préfecture département à contacter pour avoir la législation sur les installations sanitaires 
