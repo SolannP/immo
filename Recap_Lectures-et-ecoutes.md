@@ -52,6 +52,9 @@ PEINDRE: LES 20 ERREURS DE DÉBUTANT; 05/2020; https://m.youtube.com/watch?v=WYM
 
 Guide d'installations sanitaires ; 2014 ou 2018; Du pratique prêt à utiliser (mesures typiques, lexique, accessoires,...) pour l'eau, gaz, soudure. Impossible de faire un récap car trop de données (c'est déjà un recap)
 
+Article Correspondance entre le pas anglais et le pas métrique; 22 juin 2026; 
+https://www.manomano.fr/conseil/correspondance-entre-le-pas-anglais-et-le-pas-metrique-9385
+
 La plomberie; 2001; 2212068174:
 
 ------------------------------------------------------------------------------------
@@ -717,6 +720,36 @@ Sortie d'air par conduit vertical ou coupe tirage, appareil raccordé à un cond
 
 ------------------------------------------------------------------------------------
 
+Correspondance entre le pas anglais et le pas métrique
+
+aide de chat GPT
+
+
+1 pouce, noté 1" vaut 25,4mm.
+Le TPI (Threads Per Inch) est le nombre de filets par pouce. Ex : 14 TPI, alors 25,4/14 = 1,814mm de pas de vis métrique.
+
+Le diamètre nominal (DN pour Diameter Nominal ou Diamètre Nominal) est une désignation, pas une mesure réelle.
+
+Qand on parle de 20/27, c'est diamètre intérieur/extérieur (le chiffre est approximatif)
+
+Diamètre Nominal | anglo-saxon | métrique
+DN10 | 3/8"   | 12/17 <=
+DN15 | 1/2"   | 15/21 <=
+DN20 | 3/4"   | 20/27 <=
+DN25 | 1"     | 26/34
+DN32 | 1 1/4" | 33/42
+DN40 | 1 1/2" | 40/49
+DN50 | 2"     | 50/60
+
+Seuls trois de ces diamètres sont vraiment courants : 12/17, 15/21 et 20/27. 
+
+exemple : une réduction mâle-femelle passe d'un DN20 à un DN15 à plusieurs notation :
+- M-F 20/27-15/21.
+- 20/27-15/21 M-F
+- F-M 15/21-20/27
+
+------------------------------------------------------------------------------------
+
 La plomberie
 
 Trois domaines : eau sanitaire, zingage, chauffage central. L'ouvrage se concentre sur les eaux sanitaires.
@@ -725,3 +758,4 @@ Trois domaines : eau sanitaire, zingage, chauffage central. L'ouvrage se concent
 Préfecture département à contacter pour avoir la législation sur les installations sanitaires 
 Qualigaz est a contacter pour avoir un certificat conformité Gaz
 Réglementation dans les DTU 60,61, 64,65
+
