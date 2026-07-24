@@ -733,6 +733,7 @@ Le diamètre nominal (DN pour Diameter Nominal ou Diamètre Nominal) est une dé
 Qand on parle de 20/27, c'est diamètre intérieur/extérieur (le chiffre est approximatif)
 
 | Diamètre Nominal | anglo-saxon | métrique| 
+|------|--------|---------|
 | DN10 | 3/8"   | 12/17 <=| 
 | DN15 | 1/2"   | 15/21 <=| 
 | DN20 | 3/4"   | 20/27 <=| 
