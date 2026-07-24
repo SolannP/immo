@@ -52,6 +52,8 @@ PEINDRE: LES 20 ERREURS DE DÉBUTANT; 05/2020; https://m.youtube.com/watch?v=WYM
 
 Guide d'installations sanitaires ; 2014 ou 2018; Du pratique prêt à utiliser (mesures typiques, lexique, accessoires,...) pour l'eau, gaz, soudure. Impossible de faire un récap car trop de données (c'est déjà un recap)
 
+La plomberie; 2001; 2212068174:
+
 ------------------------------------------------------------------------------------
 
 Menuiserie André : bon ratio qualité prix !
@@ -711,3 +713,9 @@ l'air extérieur pénètre par un local ou des locaux contigus au local où se t
 4 Chaudière 50 kW à 70 kW, S =_150 cm³
 
 Sortie d'air par conduit vertical ou coupe tirage, appareil raccordé à un conduit de 100 cm² minimum.
+
+
+------------------------------------------------------------------------------------
+
+La plomberie
+
