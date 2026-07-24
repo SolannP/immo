@@ -759,3 +759,16 @@ Préfecture département à contacter pour avoir la législation sur les install
 Qualigaz est a contacter pour avoir un certificat conformité Gaz
 Réglementation dans les DTU 60,61, 64,65
 
+Pour faciliter la purge, il faut faire une pente de 1mm tout les 1 mètre (pour faciliter vidange ou en hiver éviter gel)
+
+Robinet extérieur à placer avant le réducteur de pression.
+
+Deux types de connexion (compteur à l'extérieur dans un regard de 1m³ ou compteur à l'intérieur)
+
+Existe des systèmes en by pass pour filtre/ dureté de l'eau. (X robinet, W filtre)
+<------------X------------<
+    |               |
+    ---X----W----X---
+
+
+
