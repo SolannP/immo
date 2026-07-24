@@ -767,12 +767,14 @@ Robinet extérieur à placer avant le réducteur de pression.
 Deux types de connexion (compteur à l'extérieur dans un regard de 1m³ ou compteur à l'intérieur)
 
 Existe des systèmes en by pass pour filtre/ dureté de l'eau. (X robinet, W filtre)
+```
 <------------X------------<
     |               |
     ---X----W----X---
+```
 
 Diamètre des canalisations
-d'alimentation
+d'alimentation : en fonction des appareils ça fait un coefficient (x), que l'on cherche dans un graphique pour avoir le diamètre intérieur 
 
 
 
