@@ -284,3 +284,11 @@ On a déjà percé, scellé les tiges avec des chevilles chimiques, mis du cimen
 
 La clôture est finie depuis 1 semaines. On est plutôt bien et avec une qualité maximum. 
 La on a attaqué le tas du fond du jardin et trié les pierres. Les prochaines étapes sont : la dernière porte de julia, les coffrage, mettre à nue la pièce du fond, suite avec artisants (Esteves + Toitures)
+
+## Recap 27/07/26 
+
+On a commencé la pièce (tapisserie à terre). Du plâtre est à refaire et des gravier son au dessus des lattis (dans l'angle..). Le sol est sur des latte de bois : à voir ce qu'il y a en dessous (dalle?).
+
+Un charpentier à détecter des zones à adresser dans les combles. 
+
+On va finalement s'attaquer à l'extérieur (le chemin) en priorité (avant les pluies en automne).
