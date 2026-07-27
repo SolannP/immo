@@ -55,7 +55,22 @@ Guide d'installations sanitaires ; 2014 ou 2018; Du pratique prêt à utiliser (
 Article Correspondance entre le pas anglais et le pas métrique; 22 juin 2026; 
 https://www.manomano.fr/conseil/correspondance-entre-le-pas-anglais-et-le-pas-metrique-9385
 
+
+Playliste en vrac; 2021; youtube
+- https://youtu.be/621_F6wiSxg
+- https://youtu.be/BR_CbXzxL0s
+- https://youtu.be/McEtNLDEmFY
+- https://youtu.be/V-GPATritH4
+- https://youtu.be/7coZlbye5p8
+- https://youtu.be/w5LnRYX1kBg
+- https://youtu.be/YJPBXt7EDqU
+- https://youtu.be/FIdEtXr5_N4
+- https://youtu.be/uUv0g0T1xpc
+- https://youtu.be/ETcrElZ3mmI
+
 La plomberie; 2001; 2212068174:
+
+
 
 ------------------------------------------------------------------------------------
 
