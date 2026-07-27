@@ -59,13 +59,13 @@ https://www.habitatpresto.com/mag/isolation/humidite-etancheite/drainage-maison
 
 2) Abîmer le mur des voisins 
 
-[1000 - 5000] x 3% (Drain bas)
-[1000 - 5000] x 1% (Drain haut)
+[1000 - 10 000] x 3% (Drain bas)  
+[1000 - 5 000] x 1% (Drain haut)  
 
 3) Abîmer notre maison 
 
-[3000 - 7000] x 3% (Drain bas)
-[3000 - 7000] x 1% (Drain haut)
+[3000 - 12 000] x 3% (Drain bas)
+[2000 - 7 000] x 1% (Drain haut)
 
 
 Risque fissures structurelle : 15.000 à 100.000
