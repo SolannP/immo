@@ -46,6 +46,7 @@ Risque fissures structurelle : 15.000 à 100.000
 
 
 ## Drainage 
+
 - Qu'est ce que nous avons actuellement ? 
 - De quand date le dernier ?
 
@@ -55,6 +56,17 @@ Risque :
 
 Un drainage mal conçu peut causer plus de dégâts qu’il n’en évite. L’erreur que je vois souvent, c’est un drain posé trop bas, directement au niveau des fondations. Résultat : au lieu d’éloigner l’eau, il peut se transformer en une rigole qui draine l’eau vers la maison au lieu de l’évacuer. J’ai déjà vu un client dont la cave était plus humide après l’installation d’un drainage, simplement parce que le niveau du drain était mal calculé. La bonne pratique, c’est de positionner le drain légèrement au-dessus du niveau des fondations et de bien vérifier la pente d’écoulement, sinon, c’est l’inverse de l’effet recherché !"
 https://www.habitatpresto.com/mag/isolation/humidite-etancheite/drainage-maison
+
+2) Abîmer le mur des voisins 
+
+[1000 - 5000] x 3% (Drain bas)
+[1000 - 5000] x 1% (Drain haut)
+
+3) Abîmer notre maison 
+
+[3000 - 7000] x 3% (Drain bas)
+[3000 - 7000] x 1% (Drain haut)
+
 
 Risque fissures structurelle : 15.000 à 100.000
 Étanchéité (toiture/fenêtre) : 2.000 à 15.000
