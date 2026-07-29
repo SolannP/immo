@@ -162,12 +162,20 @@ Adjuvant :
 
 Le sable commercialisé comporte toujours un degrés d'humidité 
 
-Le ciment : calcaire(80%) et argile(20%) broyé puis chauffé a 1500°C produisant un clinker
+Le ciment : 
+- calcaire(80%) et argile(20%) broyé puis chauffé a 1500°C produisant un clinker
 - Ciment spéciaux : Prompt(rapide et résistant à l'eau), Blanc (facilement teintée), Sans poussière 
 - CPA-CEM I (Portland):95% clinker ; béton armé ou précontraint, coulé sur place ou préfabriqué 
 - CPJ-CEM II (Portland composé): 65% min clinker ; béton armé ou non, ouvrage courant en élévation,dallage, maçonnerie, stabilisation des sols. 
 - CHF-CEM III (Ciment de haut fourneau): souterrain, fondations profonde,grande masse, milieu agressif (injection,pieux,terrain gypseux), ouvrage pour eau usé ou industrielle, à la mer ou eau très pure 
 - CLK-CEM III, CPZ-CEM IV, CMC-CEM V : idem CEM III
+
+La chaux : 
+- constitué de calcaire et argile
+- moins bonne résistance mécanique
+- plus simple à travailler : sèche, lentement, souple
+- peu de retrait (et donc peu de fissure), fongicide, antibacterien, regule hygrométrie, laisse respirer la maçonnerie et participe à l'isolation thermique 
+
 
 
 ------------------------------------------------------------------------------------
