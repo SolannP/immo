@@ -151,6 +151,7 @@ Granulat (0,2 à 125mm):
 - Gravillons fin (5mm) destiné à la réalisation de coffrage 
 - Gravillon moyen (8mm) au terrasses et allés 
 - Gros Gravillon (12mm) pour béton armé et gros coffrage 
+- Ciment ou chaux sans Granulat que pour très faible épaisseur ou travaux particuliers 
 
 Adjuvant : 
 - Incorporé à faible dose 
@@ -160,6 +161,14 @@ Adjuvant :
 
 
 Le sable commercialisé comporte toujours un degrés d'humidité 
+
+Le ciment : calcaire(80%) et argile(20%) broyé puis chauffé a 1500°C produisant un clinker
+- Ciment spéciaux : Prompt(rapide et résistant à l'eau), Blanc (facilement teintée), Sans poussière 
+- CPA-CEM I (Portland):95% clinker ; béton armé ou précontraint, coulé sur place ou préfabriqué 
+- CPJ-CEM II (Portland composé): 65% min clinker ; béton armé ou non, ouvrage courant en élévation,dallage, maçonnerie, stabilisation des sols. 
+- CHF-CEM III (Ciment de haut fourneau): souterrain, fondations profonde,grande masse, milieu agressif (injection,pieux,terrain gypseux), ouvrage pour eau usé ou industrielle, à la mer ou eau très pure 
+- CLK-CEM III, CPZ-CEM IV, CMC-CEM V : idem CEM III
+
 
 ------------------------------------------------------------------------------------
 
