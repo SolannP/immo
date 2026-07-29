@@ -1,4 +1,4 @@
-# Lien
+ # Lien
 
 - ANIL : https://www.anil.org/votre-projet/ 
 - Union Nationale des Propriétaire Immobilier : https://unpi.org/fr/1/45/adhesion-plateforme-juridique-unpi.mob
@@ -832,8 +832,23 @@ Quantité :
 - verser dans l'eau le plâtre en pluie 
 
 
+## Fondation et chapes légère 
 
+**Le terrain** :
+ - fondations doivent reposer sur un terrain stable donc pas sur le sol. C'est pour çà qu'il faut creuser en allant au delà de la couche de gel (généralement une profondeur allant de 60cm à 1m sous le niveau du sol est suffisant. 
 
+**Le piédestal** : chape en béton au fond d'une tranché do t le béton doit avoir au moins 15 ou 20cm d'épaisseur. Le muret commence sur la chapelle, en dessous du niveau du sol. Largeur minimum de 45cm (car il faut travailler à l'intérieur 
+
+**La bande large** : comme précédemment mais en plus large pour terrain en charge faible (on reparti le poid sur une + grande surface). Armature fer. Nécessite beaucoup de précision. 
+
+**La tranchée remplie** : tranchée étroite et profondes dans la quelle le béton est versé. Avantage d'utiliser moins de matériel type brique mais plus de beton
+béton 
+
+**L'excavation** : Pour creuser à la main, on fait une tranché plus large (80cm pour avoir la place d'y travailler). La médiane fondation/mur doivent être la même. Le fond doit être nivelé (largeur et hauteur) et peut être partielemnt remplie de grosse pierre et autre débris maçonnerie. Si le terrain est en pente, on doit faire les fondations en degrés progressif. 
+
+*Préparation de la chape** : Une fois la tranchée creusée, la chapelle béton doit être fait le plus rapidement possible. Si ce n'est pas le cas, recouvrir la tranchée pour éviter que la terre sèche ou mouillé par la pluie. Si c'est trop sec ou humide, recreuser de quelques centimètres 
+
+** Chape en beton** : Ne surtout pas etre interrompu lors du demarage (sinon jonction qui affaiblis la structure. Pour ne pas abîmer la tranchée on pose de planche dessus en travers. On roule avec la brouette et on deverse sur une planche (on ne jette pas dans la tranchée mais en douceur le long de la planche). Pendant que l'on rempli la tranchée, on tasse avec une latte en bois. Une fois le niveau souhaité, on nivelle avec une Taloche ou bien une latte en bois. 
 
 
 
