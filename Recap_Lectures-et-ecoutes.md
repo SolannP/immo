@@ -875,7 +875,19 @@ Toutes les trois à cinq assises, ont creuses dans le mur (truelle ou ciseau) un
 
 Il faut laisser sécher plusieurs jours.
 
-En cas de porte : our y mettre une porte, il faut intégrer les cadres lors de la construction (cadre avec des planche de section 30mmx140 mais existe version tout prêts en magasins). 
+En cas de porte : pour y mettre une porte, il faut intégrer les cadres lors de la construction (cadre avec des planche de section 30mmx140 mais existe version tout prêts en magasins). Couper les brique avec la jonction du cadre. Au niveau de l'agrafe, laissé un petit espace entre la brique et l'agraffe. 
 On la bloqué à l'emplacement en clouant en haut et en bas. 
-Si le cadre est plus petit que la cloisons,  on aligné sur un côté (côté opposé à celui qui s'ouvre)
+Si le cadre est plus petit que la cloisons,  on aligné sur un côté (côté opposé à celui qui s'ouvre).
+Au dessus de la traverse du cadre, faire une poutrelles en béton armé (permet de décharger sur les côtés le poids du mur). 
+
+On finit avec un mortier comme enduit (c.f. recette plus haut). Ne pas préparer plus de 3 à 5 m².   
+On ne fait pas tout le mur mais on commence par des bandes d'enduit irréprochable (1 ou 2 cm) qui serviront de guide entre les bandes. 
+
+Pour appliquer l'enduit, on le jeté sur le mur avec la truelle en partant du bas. Ensuite, avec une latte on remonte de gauche à droite : çà enlevé l'excédent et met en lumière les manque. On ajoute la ou il manque une fois fini.  
+
+Ensuite finition après séchage (1 journée) appliquer une 2nd couche pour compléter jusqu'au niveau des bandes et latte en bois pour applatire. 
+Pendant que c'en encore frais, utiliser une Taloche humidifié en partant de gaut en bas en fessant mouvement circulaire pour lisser de plus en plus long. Après un 1er passage en faire un second et laisser reposer au moins 2 semaines.   
+
+Il sera alors possible de faire la finition au plâtre.
+
 
