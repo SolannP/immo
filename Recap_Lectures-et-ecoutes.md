@@ -829,8 +829,11 @@ Quantité :
 **Plâtre** : 
 - Finition de qualité sur les enduits intérieur pour fissures, trou, cassure. Ne supporte pas l'humidité. Ne pas appliquer sur Zinc, Fer, ou acier car est corrosif 
 - Proportions en volume : 2 plâtre,  1 d'eau 
-- verser dans l'eau le plâtre en pluie 
+- verser dans l'eau le plâtre en pluie
 
+**Mortier comme enduit :** 
+ 
+- Proportions en volume : 1 eau, 2 chaux, 3 sables (fin, 1mm diamètre)
 
 ## Fondation et chapes légère 
 
@@ -850,5 +853,29 @@ béton
 
 ** Chape en beton** : Ne surtout pas etre interrompu lors du demarage (sinon jonction qui affaiblis la structure. Pour ne pas abîmer la tranchée on pose de planche dessus en travers. On roule avec la brouette et on deverse sur une planche (on ne jette pas dans la tranchée mais en douceur le long de la planche). Pendant que l'on rempli la tranchée, on tasse avec une latte en bois. Une fois le niveau souhaité, on nivelle avec une Taloche ou bien une latte en bois. 
 
+## Réalisation de cloisons 
 
+Avant tout, vérifier à l'emplacement que le planché peut supporter la cloisons (notamment s'il y a une cave ou à l'etage).  Le poids est évalué à 100 ou 150 kg / m².  
+On utilise des brique creuse 6 ou 8 troue rectangulaire. Pour murer des des éléments l'ours (chauffage eau, étrangère, canalisations) il faut des brique solide (plusieurs trou mais epaisse), sinon des type plus léger (troué plus gros, moins epais).
+
+Critères utile : 
+- éloigné des fenêtre pour les ouvrir. 
+- Revoir installation : 
+  - électrique (boîte de dérivation pour éclairage.. et prise au sol?)
+  - conduit cheminée 
+  - électrique 
+- Emplacement nouvelle porte (souvent mieux près des angles)
+
+Après vient le tracages (très important) : on place 4 tasseaux à la vertical sur les bord supérieur et inférieur. On va alors tendre un fils de fers qui va servire de cordeau (muni de deux croché) à deplacé pendant le montage de la cloisons pour rester droit.
+
+Ensuite la première assise est u e couche de plusieurs cm de mortier. Le but est d'éliminer aussi les éventuels influance d'irrégularités sur le plan d'appuis  : on nivelle avec une late, cordon et niveau à bulle à chaque endroit.  
+On applique le mortier en haut et en bas des brique qui forme l'assise. On met du mortier en haut et en bas et pas sur les côtés (permet de connecter les brique entre elles). On tape avec le bas  de la truelle pour enfoncer si nécessaire la brique. 
+
+Toutes les trois à cinq assises, ont creuses dans le mur (truelle ou ciseau) une taille d'un troué pour y intégrer une tête de brique (profondeur de 5 à 7cm) puis on litme avec un peux de mortier. À faire des deux côtés. 
+
+Il faut laisser sécher plusieurs jours.
+
+En cas de porte : our y mettre une porte, il faut intégrer les cadres lors de la construction (cadre avec des planche de section 30mmx140 mais existe version tout prêts en magasins). 
+On la bloqué à l'emplacement en clouant en haut et en bas. 
+Si le cadre est plus petit que la cloisons,  on aligné sur un côté (côté opposé à celui qui s'ouvre)
 
