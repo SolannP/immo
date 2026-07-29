@@ -125,6 +125,41 @@ Si vous confiez vos travaux à un électricien, celui-ci vous délivrera un cert
 
 Pour en savoir plus: www.consuel.com
 
+*Section Maçonnerie*  
+
+Béton : 
+- Trop humide = retrait 
+- Trop sec = peu homogène = pas resistant 
+- Pour les aspects structurelle (dalles,murs,fondations), bonne résistance compression, armé pour résister à la traction.
+- Produits Manufacture pour gagner du temps : parpaing, poutrelle, hourdis, linteaux) 
+
+Mortier : 
+- Pour joints,enduits, chapes et autres scellements
+- Different du beton car pas de gravier !
+- Temps sechage complet de 3 ou 4 semaine 
+- Mortier ciment (Portland) qui peut être à base de ciment gris,blanc ou prompt
+- Mortier de chaux : plus souple et simple emplois (durcit moins vite) mais il n'est pas imperméable. Surtout pour enduit muraux et des finitions 
+- Mortier bâtard : combinaison chaux et ciment. Ideal pour brique et enduit décoratif ou travaux de couverture. 
+
+Liant :
+- Ciment ou chaux dans beaucoup de variations 
+
+Granulat (0,2 à 125mm):
+- existe en version allégé pour réduire.le poids 
+- Sable très fin et fin(0,1 à 0,3mm) pour mortier de finition
+- Sable à maçonner (0,4 à 0,6) pour bâtir et sceller les éléments structurelle 
+- Gravillons fin (5mm) destiné à la réalisation de coffrage 
+- Gravillon moyen (8mm) au terrasses et allés 
+- Gros Gravillon (12mm) pour béton armé et gros coffrage 
+
+Adjuvant : 
+- Incorporé à faible dose 
+- (1) Type produits actif sur les delais (accélérateur, retardateur)
+- (2) Type produits actif surface plasticité et compacité (plastifiant et super plastifiant)
+- (3) Type produits actif sur les agents extérieurs (antigel, hydrofuge,colorant)
+
+
+Le sable commercialisé comporte toujours un degrés d'humidité 
 
 ------------------------------------------------------------------------------------
 
