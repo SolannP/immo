@@ -791,5 +791,49 @@ Existe des systèmes en by pass pour filtre/ dureté de l'eau. (X robinet, W fil
 Diamètre des canalisations
 d'alimentation : en fonction des appareils ça fait un coefficient (x), que l'on cherche dans un graphique pour avoir le diamètre intérieur 
 
+------------------------------------------------------------------------------------
+
+Travaux de maçonnerie 
+
+Ciment blanc bien pour retouche d'intérieur (surtout pour peinture dessus).
+
+## Les mortier de chaux et de ciment 
+
+Quantité :
+- 10 Kg de mélange : sceau 
+- 15 à 50 kg de mélange : sol 
+- 50kg+ : bétonnière et brouette 
+
+**Mortier de chaux** : 
+- Bon linat pour les briques et pierres intérieur (PAR EXEMPLE LA CAVE ?)
+- Proportions en volume : 1 chaux, 3 sable, 1 eau (1-3-1)
+- D'abord chaux et sable, ajouter de l'eau progressive en remuant 
+
+**Mortier de ciment** : 
+- Travaux de maçonnerie extérieur et intérieur (joint de brique ou de pierre extérieur)
+- Proportions en volume : 1 ciment, 4 sable, 1 eau (1-4-1). (Ciment 325)
+
+**Le béton** :
+- mélange typique des fondations m. Peut être renforcé avec baguette de fer = béton armé
+- Proportions en volume : 1 ciment, 2 sable, 4 graviers, 1 eau (1-2-4-1)
+- D'abord sable et graviers puis ciment pour un tout homogène. Ajouter de l'eau en petit quantité pour obtenir une pâte (attention pas trop d'eau)
+
+**Mortier batard** :
+- enduit d'extérieur, joint entre les briques ou les pierres pour l'intérieur comme extérieur 
+- Proportions en volume : 1 ciment, 3 chaux, 10 sable, 3 eau 
+
+**Ciment à prise rapide** : 
+- Idéal lorsqu'on ne peut pas maintenir en place l'objet muré pendant que le mortier durcit. À utiliser dans un support en caoutchouc (ex: demi ballon plastique)
+- Proportions en volume : 1 eau, 2 ciment 
+
+**Plâtre** : 
+- Finition de qualité sur les enduits intérieur pour fissures, trou, cassure. Ne supporte pas l'humidité. Ne pas appliquer sur Zinc, Fer, ou acier car est corrosif 
+- Proportions en volume : 2 plâtre,  1 d'eau 
+- verser dans l'eau le plâtre en pluie 
+
+
+
+
+
 
 
