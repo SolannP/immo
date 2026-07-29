@@ -175,8 +175,13 @@ La chaux :
 - moins bonne résistance mécanique
 - plus simple à travailler : sèche, lentement, souple
 - peu de retrait (et donc peu de fissure), fongicide, antibacterien, regule hygrométrie, laisse respirer la maçonnerie et participe à l'isolation thermique 
-
-
+- Chaux hydrolique aérienne (NHL) : enduire des façades, couller des dalles, jointoyer des pierre, monter des brique, en intérieur pour enduit à l'ancienne
+- NHL 2 : Sur support tendre (pissé, brique de terre crue,pierre tendre,torchis)
+- NHL 3.5: la plus hydraulique pour des dalles nécessitant une prise rapide
+- NHL [2 - 3,3 ou 5]-Z : adjuvanté de ciment qui lui confere des propriétés étanche mais moins perméable.
+- Chaux aérienne éteinte ou chaux grasse (CL90) : durcit à l'aire libre (action du CO2). Pour les enduits de restauration, peinture de chaux (badigeonner,patines,structure,fresque). 
+- La prise est très lente (48h). Convient bien au novice.
+- avantage : Se conserve très longtemps (verser dans un récipient et recouvrir de quelque cm d'eau)
 
 ------------------------------------------------------------------------------------
 
