@@ -55,6 +55,7 @@ Guide d'installations sanitaires ; 2014 ou 2018; Du pratique prêt à utiliser (
 Article Correspondance entre le pas anglais et le pas métrique; 22 juin 2026; 
 https://www.manomano.fr/conseil/correspondance-entre-le-pas-anglais-et-le-pas-metrique-9385
 
+Gros travaux bati ancien (reprise poutre); https://youtu.be/AwJQuF0ToHY
 
 Playliste en vrac; 2021; youtube
 - https://youtu.be/621_F6wiSxg
