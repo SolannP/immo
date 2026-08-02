@@ -138,3 +138,22 @@ Ressource utile :
 
 pour faire le niveau, utilisé les tamis des cheville chimique : ça permet d'ajuster. un fois platine droite (on test en posant la platine dessus), on fait du ciment : on va mettre une semelle en dessous pour fixer tout ca et bien faire les bords carré avec une spatule.
 https://youtu.be/18fpKCducuU?si=6X0MbYz4HN06lKI6
+
+Fournisseur profil acier : 6m à 30e en galva 40x40 épaisseur 3 et carré. 
+Cheville Tire fond
+Platine en L : https://www.manomano.fr/p/kit-platine-en-l-poteau-a-clips-acier-gris-anthracite-jardipremium-93277168?model_id=99281599
+Platine equerre en L : https://bologne.be/produit/platine-en-l-10cm-pour-poteaux-60-40/
+
+Plutôt en aluminium ou inox pour éviter la rouille
+Bois IFH ou THT (idéalement label FSC ou 
+PEFC)
+
+26000mm total , 5320mm à 900, Puis le reste à 600
+
+34.4. 38(ou37.5)
+
+Profondeur 400mm
+Largeur 466mm
+
+https://www.leroymerlin.fr/produits/support-poteau-a-fixer-acier-galvanise-gris-h-15-x-l-7-x-p-7-cm-14467964.html
+https://www.leroymerlin.fr/produits/support-a-fixer-acier-gris-h-15-x-l-7-x-p-7-cm-68283054.html
