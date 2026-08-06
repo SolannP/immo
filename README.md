@@ -111,61 +111,63 @@ Un petite cuisine d'été permettrait de réduire grandement la chaleur dans la 
 
 ### RETEX 
 
-Béton :
+*Section Maçonnerie*  
 
-Trop humide = retrait
-Trop sec = peu homogène = pas resistant
-Pour les aspects structurelle (dalles,murs,fondations), bonne résistance compression, armé pour résister à la traction.
-Produits Manufacture pour gagner du temps : parpaing, poutrelle, hourdis, linteaux)
-Mortier :
+Béton : 
+- Trop humide = retrait 
+- Trop sec = peu homogène = pas resistant 
+- Pour les aspects structurelle (dalles,murs,fondations), bonne résistance compression, armé pour résister à la traction.
+- Produits Manufacture pour gagner du temps : parpaing, poutrelle, hourdis, linteaux) 
 
-Pour joints,enduits, chapes et autres scellements
-Different du beton car pas de gravier !
-Temps sechage complet de 3 ou 4 semaine
-Mortier ciment (Portland) qui peut être à base de ciment gris,blanc ou prompt
-Mortier de chaux : plus souple et simple emplois (durcit moins vite) mais il n'est pas imperméable. Surtout pour enduit muraux et des finitions
-Mortier bâtard : combinaison chaux et ciment. Ideal pour brique et enduit décoratif ou travaux de couverture.
+Mortier : 
+- Pour joints,enduits, chapes et autres scellements
+- Different du beton car pas de gravier !
+- Temps sechage complet de 3 ou 4 semaine 
+- Mortier ciment (Portland) qui peut être à base de ciment gris,blanc ou prompt
+- Mortier de chaux : plus souple et simple emplois (durcit moins vite) mais il n'est pas imperméable. Surtout pour enduit muraux et des finitions 
+- Mortier bâtard : combinaison chaux et ciment. Ideal pour brique et enduit décoratif ou travaux de couverture. 
+
 Liant :
+- Ciment ou chaux dans beaucoup de variations 
 
-Ciment ou chaux dans beaucoup de variations
 Granulat (0,2 à 125mm):
+- existe en version allégé pour réduire.le poids 
+- Sable très fin et fin(0,1 à 0,3mm) pour mortier de finition
+- Sable à maçonner (0,4 à 0,6) pour bâtir et sceller les éléments structurelle 
+- Gravillons fin (5mm) destiné à la réalisation de coffrage 
+- Gravillon moyen (8mm) au terrasses et allés 
+- Gros Gravillon (12mm) pour béton armé et gros coffrage 
+- Ciment ou chaux sans Granulat que pour très faible épaisseur ou travaux particuliers 
 
-existe en version allégé pour réduire.le poids
-Sable très fin et fin(0,1 à 0,3mm) pour mortier de finition
-Sable à maçonner (0,4 à 0,6) pour bâtir et sceller les éléments structurelle
-Gravillons fin (5mm) destiné à la réalisation de coffrage
-Gravillon moyen (8mm) au terrasses et allés
-Gros Gravillon (12mm) pour béton armé et gros coffrage
-Ciment ou chaux sans Granulat que pour très faible épaisseur ou travaux particuliers
-Adjuvant :
+Adjuvant : 
+- Incorporé à faible dose 
+- (1) Type produits actif sur les delais (accélérateur, retardateur)
+- (2) Type produits actif surface plasticité et compacité (plastifiant et super plastifiant)
+- (3) Type produits actif sur les agents extérieurs (antigel, hydrofuge,colorant)
 
-Incorporé à faible dose
-(1) Type produits actif sur les delais (accélérateur, retardateur)
-(2) Type produits actif surface plasticité et compacité (plastifiant et super plastifiant)
-(3) Type produits actif sur les agents extérieurs (antigel, hydrofuge,colorant)
-Le sable commercialisé comporte toujours un degrés d'humidité
 
-Le ciment :
+Le sable commercialisé comporte toujours un degrés d'humidité 
 
-calcaire(80%) et argile(20%) broyé puis chauffé a 1500°C produisant un clinker
-Ciment spéciaux : Prompt(rapide et résistant à l'eau), Blanc (facilement teintée), Sans poussière
-CPA-CEM I (Portland):95% clinker ; béton armé ou précontraint, coulé sur place ou préfabriqué
-CPJ-CEM II (Portland composé): 65% min clinker ; béton armé ou non, ouvrage courant en élévation,dallage, maçonnerie, stabilisation des sols.
-CHF-CEM III (Ciment de haut fourneau): souterrain, fondations profonde,grande masse, milieu agressif (injection,pieux,terrain gypseux), ouvrage pour eau usé ou industrielle, à la mer ou eau très pure
-CLK-CEM III, CPZ-CEM IV, CMC-CEM V : idem CEM III
-La chaux :
+Le ciment : 
+- calcaire(80%) et argile(20%) broyé puis chauffé a 1500°C produisant un clinker
+- Ciment spéciaux : Prompt(rapide et résistant à l'eau), Blanc (facilement teintée), Sans poussière 
+- CPA-CEM I (Portland):95% clinker ; béton armé ou précontraint, coulé sur place ou préfabriqué 
+- CPJ-CEM II (Portland composé): 65% min clinker ; béton armé ou non, ouvrage courant en élévation,dallage, maçonnerie, stabilisation des sols. 
+- CHF-CEM III (Ciment de haut fourneau): souterrain, fondations profonde,grande masse, milieu agressif (injection,pieux,terrain gypseux), ouvrage pour eau usé ou industrielle, à la mer ou eau très pure 
+- CLK-CEM III, CPZ-CEM IV, CMC-CEM V : idem CEM III
 
-constitué de calcaire et argile
-moins bonne résistance mécanique
-plus simple à travailler : sèche, lentement, souple
-peu de retrait (et donc peu de fissure), fongicide, antibacterien, regule hygrométrie, laisse respirer la maçonnerie et participe à l'isolation thermique
-Chaux hydrolique aérienne (NHL) : enduire des façades, couller des dalles, jointoyer des pierre, monter des brique, en intérieur pour enduit à l'ancienne
-NHL 2 : Sur support tendre (pissé, brique de terre crue,pierre tendre,torchis)
-NHL 3.5: la plus hydraulique pour des dalles nécessitant une prise rapide
-NHL [2 - 3,3 ou 5]-Z : adjuvanté de ciment qui lui confere des propriétés étanche mais moins perméable.
-Chaux aérienne éteinte ou chaux grasse (CL90) : durcit à l'aire libre (action du CO2). Pour les enduits de restauration, peinture de chaux (badigeonner,patines,structure,fresque).
-La prise est très lente (48h). Convient bien au novice.
-avantage : Se conserve très longtemps (verser dans un récipient et recouvrir de quelque cm d'eau)
+La chaux : 
+- constitué de calcaire et argile
+- moins bonne résistance mécanique
+- plus simple à travailler : sèche, lentement, souple
+- peu de retrait (et donc peu de fissure), fongicide, antibacterien, regule hygrométrie, laisse respirer la maçonnerie et participe à l'isolation thermique 
+- Chaux hydrolique aérienne (NHL) : enduire des façades, couller des dalles, jointoyer des pierre, monter des brique, en intérieur pour enduit à l'ancienne
+- NHL 2 : Sur support tendre (pissé, brique de terre crue,pierre tendre,torchis)
+- NHL 3.5: la plus hydraulique pour des dalles nécessitant une prise rapide
+- NHL [2 - 3,3 ou 5]-Z : adjuvanté de ciment qui lui confere des propriétés étanche mais moins perméable.
+- Chaux aérienne éteinte ou chaux grasse (CL90) : durcit à l'aire libre (action du CO2). Pour les enduits de restauration, peinture de chaux (badigeonner,patines,structure,fresque). 
+- La prise est très lente (48h). Convient bien au novice.
+- avantage : Se conserve très longtemps (verser dans un récipient et recouvrir de quelque cm d'eau)
 
 *Les mortier de chaux et de ciment:*
 
