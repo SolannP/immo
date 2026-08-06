@@ -88,7 +88,9 @@ Question de l'électricité et eau.
 
 Un ponton semble propice pour agrandir la terrasse. Idéalement un troue pour qu'un arbres puisse s'y loger : défaut des branches. 
 
-lorsqu'il pleut, l'extérieur est froid. De quoi protéger le chemin pour aller au fo d du jardin serait bienvenue 
+lorsqu'il pleut, l'extérieur est froid. De quoi protéger le chemin pour aller au fo d du jardin serait bienvenue. 
+
+Un petite cuisine d'été permettrait de réduire grandement la chaleur dans la maison. Il n'y a pas beaucoup de cuisine à cette période, un peu de gaz et des prises électriques (air fryer, plaque électrique,..., un lavabo) est suffisant. 
 
 *Note à mesure de l'utilisation* : 
  - première fois à l'extérieur en début avril et quelques fois les après-midi, en plein soleil jusqu'en mi avril : on ne mange pas forcément dehors encore.
@@ -97,6 +99,7 @@ lorsqu'il pleut, l'extérieur est froid. De quoi protéger le chemin pour aller 
 - en début juin on peut sortir prendre le café le matin avec une petite veste. Cependant, la cuisine étant à l'étage c'est beaucoup de matériel à sortir pour pouvoir prendre un petit déjeuner dehors. Autre point important : il y a de la lumière le matin dans le jardin, via le petit couloir puis assez rapidement au dessus de la maison 
 - en milieu juin, il fait bon dès le matins : on a, pour la première fois, déjeuné dehors, sur le balcon (les autre fois on ouvre pour rafraîchir et il fait frais le matin). C'est bien qu'on ai un côté sans soleil le matin, on aurait trop chaud sinon. On ferme tout les volets de l'étage relativement tôt (8h30/9h). il fait ensuite relativement frais (c'est vivable : 30 dehors, 27 dedans). En bas c'est lumineux et frais : c'est agréable d'y être. La journée on est souvent dehors alors on ne sait pas trop mais à priori le ventilateur est suffisant. Le soir on a trop de lumière alors on a les volets fermés jusqu'à assez tard (19h). Si nous étions en bas, on serait dans le jardin en fin de journée/nuit (jusqu’à 22h)
 - en mi juillet, il fait lourd à l'extérieur dans l'après-midi. On peut s'y mettre mais on serait mieux à l'intérieur en bas. Le matin on irait bien dans le jardin mais c'est la galère de mettre la table de haut jusqu'au jardin. Le soir, c'est variable : soit dedans soit dans le jardin. Le soir, on aimerait êtres un peu plus dans le jardin poir chiller.
+- Début Août on a chaud, à l'étage il fait quand même chaud et étouffant (28° mais sensation plus haute). Rdc il fait bon si on a aéré : en cas de pique dedec chaleuron est mieux en bas.
 
 ------------------------------------------------------------------------------------
 
