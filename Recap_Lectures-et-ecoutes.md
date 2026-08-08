@@ -184,6 +184,15 @@ La chaux :
 - La prise est très lente (48h). Convient bien au novice.
 - avantage : Se conserve très longtemps (verser dans un récipient et recouvrir de quelque cm d'eau)
 
+Autre sources (yt)
+ - Préparation bétonnière avec WD40 à l'extérieur pour protéger 
+ - Eau et gravier pendant 10mn à la fin pour nettoyage 
+ - Finir au jet d'eau intérieur et extérieur (hors moteur)
+ - Brosse/chiffon pour la partie moteur 
+ - dosage différents si béton armé ou pas ?
+
+
+
 ------------------------------------------------------------------------------------
 
 Entretenir sa maison (10 conseils)
@@ -224,13 +233,6 @@ En cas de désordres sur les ouvertures (encadrementet et menuiserie/ferronnerie
 Pour l'extérieur, une fois par ans vérifié le mortier et le refaire si nécessaire (chaux et sable ou chaux et plâtre) réutiliser les techniques locale (joint en chaux ou plâtre). S'interdire les enduits étanches à l'extérieur. Idem pour les joints en ciment. Traditionnellement, les.murs de clôture était recouvert d'un enduit "pierre à vue".
 Le propriétaire est responsable de son mur.
 En cas de mur mitoyen, c'est le cadastre qui indique le propriétaire. A défaut c'est la forme de la couronne (plat ou a deux pan = partagé,  pente =celui qui a la pente est responsable)
-
-Autre : 
- - Préparation bétonnière avec WD40 à l'extérieur pour protéger 
- - Eau et gravier pendant 10mn à la fin pour nettoyage 
- - Finir au jet d'eau intérieur et extérieur (hors moteur)
- - Brosse/chiffon pour la partie moteur 
-
 
 
 ------------------------------------------------------------------------------------
