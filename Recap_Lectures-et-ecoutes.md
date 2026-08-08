@@ -225,6 +225,13 @@ Pour l'extérieur, une fois par ans vérifié le mortier et le refaire si néces
 Le propriétaire est responsable de son mur.
 En cas de mur mitoyen, c'est le cadastre qui indique le propriétaire. A défaut c'est la forme de la couronne (plat ou a deux pan = partagé,  pente =celui qui a la pente est responsable)
 
+Autre : 
+ - Préparation bétonnière avec WD40 à l'extérieur pour protéger 
+ - Eau et gravier pendant 10mn à la fin pour nettoyage 
+ - Finir au jet d'eau intérieur et extérieur (hors moteur)
+ - Brosse/chiffon pour la partie moteur 
+
+
 
 ------------------------------------------------------------------------------------
 Résilience 
