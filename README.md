@@ -94,6 +94,10 @@ lorsqu'il pleut, l'extérieur est froid. De quoi protéger le chemin pour aller 
 
 Un petite cuisine d'été permettrait de réduire grandement la chaleur dans la maison. Il n'y a pas beaucoup de cuisine à cette période, un peu de gaz et des prises électriques (air fryer, plaque électrique,..., un lavabo) est suffisant. 
 
+Extérieur avec fruit qui tombe c'est trop cool.
+
+s'il y a parasol, il faut vraiment anticiper pour que (a) ca se range tout seul ou très simplement (car la galère de rentrer le parasol) ou (b) facile à changer.
+
 *Note à mesure de l'utilisation* : 
  - première fois à l'extérieur en début avril et quelques fois les après-midi, en plein soleil jusqu'en mi avril : on ne mange pas forcément dehors encore.
 - de mi avril a début mai, c'est trop froid pour être dehors le matin et en fin de journée (18h). Les midi impossible de manger en plein soleil, il faut être à l'ombre. Ou à l'opposé : lorsqu'il y a du vent froid comme en fin avril, pas possible de manger dehors. Le reste de la journée, on est au soleil des que possible. En gros, dès qu'il n'y a plus de soleil ou du vent (froid) il fait trop froid 
