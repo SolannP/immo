@@ -98,6 +98,10 @@ Extérieur avec fruit qui tombe c'est trop cool.
 
 s'il y a parasol, il faut vraiment anticiper pour que (a) ca se range tout seul ou très simplement (car la galère de rentrer le parasol) ou (b) facile à changer.
 
+Très beau résultat avec des plantes grimpante et des filets (fils) sur l'extérieur pour faire office de "store". Peut aussi êtres des plantes tombantes.
+
+ Mur vegetal, abris et sol avec pavé/carrelage est super sympa !
+
 Suivi de la lumière via Photo et : https://shademap.app/@48.74663,7.35625,17.4625z,1767266090931t,0b,0p,0m,qMTEgcnVlIGR1IG1hcmVjaGFsIGZvY2gsIDY3NzAwIFNhdmVybmUsIEZyYW5jZQ==!48.74651!7.35634
 
 *Note à mesure de l'utilisation* : 
