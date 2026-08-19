@@ -94,7 +94,9 @@ lorsqu'il pleut, l'extérieur est froid. De quoi protéger le chemin pour aller 
 
 Un petite cuisine d'été permettrait de réduire grandement la chaleur dans la maison. Il n'y a pas beaucoup de cuisine à cette période, un peu de gaz et des prises électriques (air fryer, plaque électrique,..., un lavabo) est suffisant. 
 
-Extérieur avec fruit qui tombe c'est trop cool.
+Extérieur avec fruit qui tombe c'est trop cool. Mais la galère pour nettoyer ce qui est parterre. 
+
+On a vu des store enroulé sur eux même qui fait un gros rouleau : simple et efficace et bonne reparabilité 
 
 s'il y a parasol, il faut vraiment anticiper pour que (a) ca se range tout seul ou très simplement (car la galère de rentrer le parasol) ou (b) facile à changer.
 
