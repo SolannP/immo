@@ -20,6 +20,9 @@ Status :
 - RETEX voisin en face (jaune)
 - RETEX voisin enbface (deriere)
 - Obtenir le cadastre
+- Visiter Die Möble Show 
+- Visiter Bauhaus
+- Visiter Hornbach
 
 ------------------------------------------------------------------------------------
 
