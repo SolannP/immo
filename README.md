@@ -128,6 +128,12 @@ Suivi de la lumière via Photo et : https://shademap.app/@48.74663,7.35625,17.46
 
 ### RETEX 
 
+Il manquait des cloue, vis, piquets et agraphe (colle?) pour la maçonnerie et ainsi tout maintenir. 
+
+Le timing étais trop court pour tout faite en 1 semaines (moins 3 jours de pluie). 
+
+Le geotextile n'est pas pratique pour enfoncer des piquets.
+
 *Section Maçonnerie*  
 
 Béton : 
