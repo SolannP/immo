@@ -136,7 +136,20 @@ Le geotextile n'est pas pratique pour enfoncer des piquets.
 
 Le dosage 1 2 4 1 n'était pas bon du tout.
 Finalement on a utilisé le dosage 1 2 3 :
- - 1 seau de ciment + 2 seaux de sable + 3 seaux de gravier + ½ seau d’eau (pour un béton dosé à environ 350 kg/m³)
+ - 1 seau de ciment + 2 seaux de sable + 3 seaux de gravier + ½ seau d’eau (pour un béton dosé à environ 350 kg/m³) le tout en 10L pour une petite surface (2m × 1m x 4cm à 6cm).
+
+Bétonnière doit être à plat sinon mélange pas bien. 
+
+Le sable humide collé énormément. 
+
+Mauvaise dosage dramatique.
+
+Les Aditifs liquide compte comme de l’eau.
+
+Zone pour vider, idéalement doit retenir l'eau et éviter de déborder en dehors (sinon beaucoup de nettoyage).
+
+Bétonnière bien monté, astuces WD40 top, réussie en fil d'eau assez propre, coulé une fois sur deux sembles la bonne solution.
+
 
 *Section Maçonnerie*  
 
