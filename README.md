@@ -152,6 +152,10 @@ Zone pour vider, idéalement doit retenir l'eau et éviter de déborder en dehor
 
 Bétonnière bien monté, astuces WD40 top, réussie en fil d'eau assez propre, coulé une fois sur deux sembles la bonne solution.
 
+Bétonnière est salissante mais fait de grosse quantité ce qui est moins pénible qu'à l'auge à gâcher.
+
+Béton avec beaucoup de gravier n'est pas idéal pour maçonner des formes. Faire un mélange de de beton à maçonner.
+
 
 *Section Maçonnerie*  
 
