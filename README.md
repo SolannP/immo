@@ -91,6 +91,8 @@ Citronnier avec bouture comme pour citron menton
 
 Question de l'électricité et eau.
 
+Éviter d'avoir de la terre sur les chemin/zone car on en a sur les pieds et ça sali l'intérieur (tout le temps obligé de nettoyer)
+
 Un ponton semble propice pour agrandir la terrasse. Idéalement un troue pour qu'un arbres puisse s'y loger : défaut des branches. 
 
 lorsqu'il pleut, l'extérieur est froid. De quoi protéger le chemin pour aller au fo d du jardin serait bienvenue. 
