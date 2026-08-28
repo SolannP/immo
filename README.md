@@ -142,7 +142,7 @@ Finalement on a utilisé le dosage 1 2 3 :
 
 Bétonnière doit être à plat sinon mélange pas bien. 
 
-Le sable humide collé énormément. 
+Le sable humide collé énormément : il faut gratter le fond de la bétonnière.
 
 Mauvaise dosage dramatique.
 
@@ -154,7 +154,9 @@ Bétonnière bien monté, astuces WD40 top, réussie en fil d'eau assez propre, 
 
 Bétonnière est salissante mais fait de grosse quantité ce qui est moins pénible qu'à l'auge à gâcher.
 
-Béton avec beaucoup de gravier n'est pas idéal pour maçonner des formes. Faire un mélange de de beton à maçonner.
+Béton avec beaucoup de gravier n'est pas idéal pour maçonner des formes. Faire un mélange de beton à maçonner.
+
+2% n'est pas assez pour assurer un écoulement: la viscosité de l'eau fait que ca colle. Il vaut mieux faire plus (plutôt 3% ou 4% ?)
 
 
 *Section Maçonnerie*  
