@@ -54,6 +54,8 @@ Status :
   - feux de camps ?
   - potager contour bois
   - composte circulaire plantations 
+  - cuisine extérieur (arrivée eau,électricité)
+  - Patio
 - Solin 
 - Constat RDC chambre fissure nord
 - Analyse pro fissures
@@ -69,6 +71,7 @@ Status :
 - Poele 
 - Salle de bain/WC, faire appel à quelqu'un 
 - escalier / entrée 
+- Systèmes sécurité 
 
 
 ------------------------------------------------------------------------------------
