@@ -1035,6 +1035,36 @@ Pour le sable,par exemple 0/6 représente le calibre des grains MIN/MAX :
 
 **Faire des essais car il peut y avoir dz nombreuses variations**
 
+Éviter plus de 3h par jours pour éviter les douleurs au bras, tendinites et déplacement scaphoïde. 
+
+Un principe de base : chaque couche supplémentaire contient au moins un composant avec la précédente. Par exemple, de la chaux et du ciment avant de faire que de la chaux.
+
+Lisser le ciment de solin avec une éponge humide
+
+Mur enterré OK avec chaux hydraulique. 
+
+
+La bonne chaux pour le bon support :
+  - Chaux aérienne
+    - Extérieur (en facade)
+      - 3ème couche de finition 
+      - Laits de chaux 
+    - Intérieur (milieu sec) 
+      - Enduit traditionnels en 3 couche 
+      - enduit à pierre vues 
+      - rejointement 
+      - Laits de chaux 
+  - Chaux hydrolique
+    - Extérieur (façade et construction)
+      - enduits traditionnels en 3 couches 
+      - enduit à pierre vue 
+      - rejointement 
+      - maçonnerie lourde *hourdage et fondations) 
+    - Intérieur (en milieu humide)
+      - enduits traditionnels 
+      - pierre à vue 
+      - rejointement 
+
 
 ------------------------------------------------------------------------------------
 
