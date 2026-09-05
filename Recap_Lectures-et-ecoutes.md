@@ -1027,6 +1027,14 @@ Matériel :
  - Crème anti brûlure  et réparatrice pour maintenir et visage
  - eau abondante pour rinçage sans froter puis puis collyre 
 
+## Granulat 
+
+Pour le sable,par exemple 0/6 représente le calibre des grains MIN/MAX : 
+ - plus le sable est gros, plus la couche réalisée peit être épaisse. On parle de sable à maçonner (0/6 ou 0/4)
+ - plus le sable est fin, plus elle sera fine. On parle de sable a enduire 
+
+**Faire des essais car il peut y avoir dz nombreuses variations**
+
 
 ------------------------------------------------------------------------------------
 
