@@ -73,6 +73,8 @@ La plomberie; 2001; 2212068174:
 
 Travaux de maçonnerie ; 10/2001 ; 2732832235
 
+Enduits chaux et leur decor, Mode d'emploi,  2011, 978221212823
+
 ------------------------------------------------------------------------------------
 
 Menuiserie André : bon ratio qualité prix !
@@ -956,5 +958,55 @@ Ensuite finition après séchage (1 journée) appliquer une 2nd couche pour comp
 Pendant que c'en encore frais, utiliser une Taloche humidifié en partant de gaut en bas en fessant mouvement circulaire pour lisser de plus en plus long. Après un 1er passage en faire un second et laisser reposer au moins 2 semaines.   
 
 Il sera alors possible de faire la finition au plâtre.
+
+------------------------------------------------------------------------------------
+
+Enduits chaux et leur decor
+
+Laits de chaux : peinture 
+
+Roche calcaire carbonisée-> Chaux vive (CaO)-> ajout d'eau pour en faire une chaux éteinte (format pâte ou poudre)-> Agregat(Sable,fibre) et eau pour mortier.
+
+Le CO2 dans l'aire fait durcir la chaux
+
+
+> Les bons dosages
+Il est très difficile d'introduire les dosages d'eau dans les formulations qui
+vont définir les différents mortiers. Le taux hygrométrique du sable, sa
+granulométrie et ('hygrométrie ambiante en modifient les quantites. La
+chaux, très sensible à l'eau, modifie sa texture dans les 20 min qui suivent
+son brassage : on dit qu'elle <gonfle>, et la consistance du mortier en
+est affectée. Il est donc conseillé de laisser le mortier reposer avant son
+emploi afin de permettre cette réaction.
+
+
+### Chaux aérienne (CL90)
+
+Denomination divers : fleur de chaux, CEAB
+La chaux pas excellence pour des enduits comme pour la peinture. Adapté au milieu sec elle craint le milieu humide.  
+Il est conseiller de préparer les mortiers 24h à l'avance.  
+So séchage est de 1cm par ans
+
+### Chaux hydrolique (NHL) 
+
+La différence est dans la pureté des roche utilisé : des roche calcaire qui contient plus de 5% d'éléments hydrolique (argile, Fer, silice). 
+
+Ne pas confondre avec HL (Chaux hydrolique artificielle) ou NHL_-Z (avec du ciment)
+
+Préconisé à l'extérieur pour les travaux de façade et maçonnerie, dans les milieux humide à l'intérieur (Cave, mur enterré) et pour les sols (Chape et dalle).
+
+- NHL2 : peut hydrolique (5 à 8h séchage surface)
+    - essentiellement sur des enduit extérieur sur support à terre (adobe,pisé,bauge)
+- NHL3,5 : assez hydrolique 
+    - presque tout les supports 
+    - existe Chaux blanche permetant réaliser rejointent coloré 
+- NHL5 : très hydrolique (3h de séchage surface)
+    - specifique sols, résistance de 50 au cm² ce qui est idéal pour les dalles et chapes bati ancien
+Plus elle est hydrolique plus elle est dure.
+
+
+
+
+------------------------------------------------------------------------------------
 
 
