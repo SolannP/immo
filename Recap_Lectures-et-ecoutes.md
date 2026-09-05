@@ -1004,7 +1004,28 @@ Préconisé à l'extérieur pour les travaux de façade et maçonnerie, dans les
     - specifique sols, résistance de 50 au cm² ce qui est idéal pour les dalles et chapes bati ancien
 Plus elle est hydrolique plus elle est dure.
 
+## Décor et mode emploi 
 
+Comment enduit, la chaux peut s'appliquer sur pratiquement tout les supports. Néanmoins, quelques précautions d'accroche sont nécessaires. En général un gobetis de mortier bâtard permet de poursuivre les travaux uniquement à la chaux.  
+Point noir : applications sur des plaque de plâtre est non recommandé. 
+
+NHL comme CL se conserve apres la date (sans abus) si c'est au sec. 
+
+Avec la chaux, une fois le mortier réalisé, on peut les conserver en illimité. 
+
+Le temps est plus souple ce qui permet de reprendre un travail en cours, le retravailler, lisser ou gratter. La reprise est simple il faut humidifier la jonction.  
+
+## Précautions 
+
+Produits toxique et la macération est pire que le contact répété.
+Avec dall et chape, si le pantalon se mouille le changer car brulur au genoux très pénible.
+
+Matériel :
+ - Lunette 
+ - Masque 
+ - Gant (mi plastique mi coton ou plastifié)
+ - Crème anti brûlure  et réparatrice pour maintenir et visage
+ - eau abondante pour rinçage sans froter puis puis collyre 
 
 
 ------------------------------------------------------------------------------------
