@@ -1065,7 +1065,13 @@ La bonne chaux pour le bon support :
       - pierre à vue 
       - rejointement 
 
+En fonction du diagnostic, on peut ajuster par exemple pour un mur enterré en partie on peut limiter la chaux hydrolique sur les zones touché par l'humidité et poursuivre sur la partie sèche avec de la chaux aérienne.
 
+Sur les supports : 
+- Pisé : NHL très proche de la terre ce qui est idéal 
+- Brique et brique monomur: précaution essentielle d'arroser le mur plusieurs heures, voir plusieurs jours et même lors de l'application 
+- Parpaing,ciment branché, mâchefer : seul occasion pour un gobetis batardé ciment/chaux à 50% (NHL-Z)
+- Béton cellulaire et liège : il faut préparer les deux via une pulvérisation en 2 ou 3 couches d'une préparation de 100g de sel d'alun dans 1L d'eau chaude (facilite dilution). Possible alors de faire le gobetis d'accroche puis l'enduit de finition 
 ------------------------------------------------------------------------------------
 
 
