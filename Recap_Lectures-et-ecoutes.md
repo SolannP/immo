@@ -1209,6 +1209,12 @@ Ici on utilise la **Taloche en bois* : elle renvoie l'eau à l'intérieur de l'e
 
 Les angles des enduit ne sont pas aigus car la chaux met du temps à sécher ce qui fait que les angles droits resterai fragile : on les arrondi (en plus meilleur diffusion de la lumière 
 
+## Finition de la finition 
+
+- Enduit graté 
+- Enduit taloché 
+- Finition Taloche éponges 
+
 
 
 ------------------------------------------------------------------------------------
