@@ -1129,6 +1129,85 @@ Pour 1m³ d'enduit :
 - Chaux     : 1.0 m³ = 350 Kg
 
 
+## Outils 
+
+- Les sables 
+- Les chaux 
+- Bétonnière (1 ou plus) 
+- Auges 
+- Truelle (20 et 18) 
+- Latte de guidage 
+- règle de maçon (1,5m et 2m)
+- Gant et lunettes 
+- Pulvérisation de jardin/ tuyau d'arrosage 
+- Dizaine de seaux de maçon
+- Brouette (1 ou plus) 
+- Taloche plastique 
+- Taloche bois 
+- Lisseuse et lianes japonaise 
+
+## Préparation du Gobetis 
+
+Retirer tout ce qui tombe, pas besoin de décaper et creuser entre les pierres. 
+Possible de prévoir les gaines électrique (à placer entre les pierres quitte à tailler si nécessaire)
+
+Arroser copieusement le murs plusieurs jours à l'avance pour le pissé et la brique (la veille pour la pierre) puis 1h avant les travaux 
+
+1 volume de sable 0/6 ou 0/4 pour 1 volume de chaux. Il attendre 20mn le temps que la chaux "gonfle" car la texture en est modifiée. Rajouter de l'eau si besoin car il faut une texture de yaourt brassé.
+
+La méthode la plus fréquente consiste à le projeter contre le mur pour obtenir un recouvrement uniforme et accrocheur qui recouvre les pierres et remplissent les joints au maximum.  
+
+Laisser 24h pour la chaux NHL, 72h pour la CL90. 
+
+## Dégrossit 
+
+En cas de grosse disparité un dégrossi sera nécessaire pour éviter les surépaisseur : on la place et on laisse tirer au moins 48h avant d'appliquer le corps d'enduit. 
+Un trop grosse couche d'un coup pourrait provoquer décollement et fissure.
+
+Même dossage que le gobetis 
+
+## Corps d'enduit 
+
+5 volume de sable, 2.5 chaux. 
+Ajouter de l'eau pour obtenir un mortier souple et moelleux que l'on compare à la chantilly 
+
+Ici on utilise la *Taloche en plastique* : le plastique fait succion et provoque une remonté d'eau à la surface qui présente alors une surface rugueuse apte à recevoir la finition. On dit qu'elle ouvre les enduits 
+
+Deux dressage possible 
+1) Avec les lattes de guidage distance de 1m
+    - On fixe grâce à des plots/paté du même mortier les lattes sur le murs 
+    - On verifie bien les niveaux 
+    - On place le mortier à la truelle sur une haute de 50cm
+    - On tasse et lisse avec règle de maçon en partant du bas, vers le haut
+    - On taloche en fessant des 8 sans trop appuyer 
+    - Plusieurs heures après le murs fini, retirer les lattes et remplir les rails laissé par les latte + Taloche pour uniformiser 
+
+2) Dressage à la truelle 
+    - envoyer quelques plots de mortier sur 1/2 m² 
+    - écraser à la truelle de façon à lisser à plat 
+    - talocher pour uniformiser 
+    - on continue sur tout le murs 
+    - séchage une nuit (NHL) ou 72h (CL90)
+
+Temps de séchage au plus court pour ne pas compromettre le travail : 
+  - 1 semaine entre chaque couche d'enduit (NHL) ou plusieurs semaine (CL90)
+ - Réhumidifier le murs entre chaque couche 
+
+Plus de temps est idéal 
+
+## L'enduit de finition 
+
+5 volume de sable (0/2 ou 0/0) pour 2 volumes de chaux.  
+Consistance souple d'une crème semis épaisse 
+
+Ici on utilise la **Taloche en bois* : elle renvoie l'eau à l'intérieur de l'enduit favorisants la carbonisation de surface plus rapide et un séchage à cœur plus efficace 
+
+ - On l'applique de bas en haut (si on fait l'inverse le haut sèche trop vite car l'eau descend alors on fait l'inverse). 
+ - On charge la lisseuse ou la truelle puis on applique en remontant. 
+ - On fait 1m² avant de talocher
+ - On recommence 
+
+Les angles des enduit ne sont pas aigus car la chaux met du temps à sécher ce qui fait que les angles droits resterai fragile : on les arrondi (en plus meilleur diffusion de la lumière 
 
 
 
