@@ -1073,6 +1073,42 @@ Sur les supports :
 - Parpaing,ciment branché, mâchefer : seul occasion pour un gobetis batardé ciment/chaux à 50% (NHL-Z)
 - Béton cellulaire et liège : il faut préparer les deux via une pulvérisation en 2 ou 3 couches d'une préparation de 100g de sel d'alun dans 1L d'eau chaude (facilite dilution). Possible alors de faire le gobetis d'accroche puis l'enduit de finition 
 
+## Enduit en trois couche 
+
+Precaunisation/règle maçonnerie classique "maigre sur gras"
+
+```
+
+| |   | |               | |   | |
+|1| 2 |3| mur intérieur |3| 2 |1|
+| |   | |               | |   | |
+
+1:enduit de finition maigre 0/2
+2:corps d'enduit semi gras 0/4
+3:Gobetis gras 0/4, mieux encore 0/6
+```
+### 1er couche : le gobetis 
+
+Relativement fine (0.8cm)
+Sable grossier à granulométrie 0/4 ou mieux 0/6. 
+Surdosé en liant (chaux) pour une adhérence parfaite du support.
+
+### 2nd couche : Le corps d'enduit 
+
+Épaisseur 1,5cm ou 2cm, c'est l'essentiel de l'enduit, représente la carapace de l'enduit. 
+Sable gros (0/4)
+Moins dosé en liant que le gobetis 
+
+Parfois,  une première couche très grossière du corps d'enduit (nommé dégrossi ou reformis) est utilisée pour combler les troue entre les pierres, qui s'intercale entre le gobetis et le corps d'enduit. 
+
+Possible de bien le grossir avec des produits isolant (liège en vrac, billes d'argile, fibre de chanvre/paille/lin)
+
+### 3 ème couche : enduit de finition 
+
+Maximum 0.7cm. 
+Sable fin (0/2 ou 0/0)
+
+
 
 ------------------------------------------------------------------------------------
 
