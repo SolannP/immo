@@ -1213,9 +1213,19 @@ Les angles des enduit ne sont pas aigus car la chaux met du temps à sécher ce 
 
 - Enduit graté 
 - Enduit taloché 
-- Finition Taloche éponges 
+- Finition Taloche éponges : éponge doit toujours êtres un peu humide et nettoyer régulièrement avec un seau, se passe comme une Taloche normal, en faisant des 8. Fait un aspect velouté 
+- Enduit fére (avec lianne et Taloche jap)
 
 
+Pour la coloration : plus simple de choisir un sable qui perdra 70% de sa couleur au séchage. 
+
+Pour les pigments, on ne peut pas dépasser les 3 à 5% du poids de chaux au risque d'être sujet au faïencage. 
+
+## Le faïencage ~ fissure
+
+Si inférieure à 2mm d'épaisseur il suffit,  dans les 12h qui suivent, d'humidifier la zone et écraser à la truelle ou langue de chat 
+
+Si c'est plus de 2mm, ce n'est pas du faïencage (superficiel) mais l'adhérence de l'enduit est remis en cause 
 
 ------------------------------------------------------------------------------------
 
