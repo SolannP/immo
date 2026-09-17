@@ -125,7 +125,32 @@ Suivi de la lumière via Photo et : https://shademap.app/@48.74663,7.35625,17.46
 
 ------------------------------------------------------------------------------------
 
+## Restauré l'enduit exterieur (Reboucher les troues)
 
+**Mortier comme enduit :** 
+ 
+- Proportions en volume : 1 eau, 2 chaux, 3 sables (fin, 1mm diamètre)
+
+Enduit chaux sable,Pour 1 m² de mur et environ 3,5 cm d'épaisseur, soit 35L d'enduit chaux- sable :
+- 52,5 kg de sable alluvionnaire
+en granulométrie 0/2 ou 0/4 suivant
+l'esthétique désirée : soit un total
+de 2 € TTC
+- 12L de chaux hydroulique NHL 3,5
+soit un total de 5 € TTC
+
+La chaux : 
+- constitué de calcaire et argile
+- moins bonne résistance mécanique
+- plus simple à travailler : sèche, lentement, souple
+- peu de retrait (et donc peu de fissure), fongicide, antibacterien, regule hygrométrie, laisse respirer la maçonnerie et participe à l'isolation thermique 
+- Chaux hydrolique aérienne (NHL) : enduire des façades, couller des dalles, jointoyer des pierre, monter des brique, en intérieur pour enduit à l'ancienne
+- NHL 2 : Sur support tendre (pissé, brique de terre crue,pierre tendre,torchis)
+- NHL 3.5: la plus hydraulique pour des dalles nécessitant une prise rapide
+- NHL [2 - 3,3 ou 5]-Z : adjuvanté de ciment qui lui confere des propriétés étanche mais moins perméable.
+- Chaux aérienne éteinte ou chaux grasse (CL90) : durcit à l'aire libre (action du CO2). Pour les enduits de restauration, peinture de chaux (badigeonner,patines,structure,fresque). 
+- La prise est très lente (48h). Convient bien au novice.
+- avantage : Se conserve très longtemps (verser dans un récipient et recouvrir de quelque cm d'eau)
 ------------------------------------------------------------------------------------
 # Projet Salle de bain WC
 
