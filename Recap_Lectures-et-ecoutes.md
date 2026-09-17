@@ -1108,6 +1108,28 @@ Possible de bien le grossir avec des produits isolant (liège en vrac, billes d'
 Maximum 0.7cm. 
 Sable fin (0/2 ou 0/0)
 
+## Formulations 
+
+Volume valable pour tout type de chaux : 
+
+- Gobetis : 5 seaux de sable (0/6 ou 0/4) pour 5 seaux de chaux 
+- Corps d'enduit : 5 seaux de sable (0/4) pour 2,5 seaux de chaux 
+- Enduit de finition : 5 seaux de sable (0/0 ou 0/2) pour 2 seaux de chaux 
+
+Les sacs de 35kg de chaux hydraulique ou de 20kg de chaux aérienne remplissent tout deux 5 seaux de maçon 10 à 11 l (question de densité)
+
+## Approvisionnement 
+
+Pour 1m³ d'enduit : 
+
+- Sable 0/6 : 0.2 m³ = 320 Kg
+- Sable 0/4 : 0.5 m³ = 800 Kg
+- Sable 0/2 : 0.3 m³ = 480 Kg
+
+- Chaux     : 1.0 m³ = 350 Kg
+
+
+
 
 
 ------------------------------------------------------------------------------------
