@@ -151,6 +151,22 @@ La chaux :
 - Chaux aérienne éteinte ou chaux grasse (CL90) : durcit à l'aire libre (action du CO2). Pour les enduits de restauration, peinture de chaux (badigeonner,patines,structure,fresque). 
 - La prise est très lente (48h). Convient bien au novice.
 - avantage : Se conserve très longtemps (verser dans un récipient et recouvrir de quelque cm d'eau)
+
+
+Étapes :
+- Déjointoyer sur une profondeur de 5cm. 
+- Une fois les joints descellés, dépoussiérer avec souffleur,brosse 
+- Avec un tuyau en mode brumisateur, humidifié la zone (une trace d'eau doit se former et y rester). Répéter l'opération à chaque zone.
+- Appliquer l'enduit 
+- Une fois l'enduit presque sec (entre 6h et 24h), gratter l'enduit avec une truelle à 90° pour être à ras des pierres.
+- finition avec des brosses (violon sur des pierres pour les faire ressortir,  nylon pour faire tomber les derniers grains)
+
+Recette :
+Verser un sac de chaux hydraulique NHL3,5
+de 35 kg et 12 seaux (de 10 I) de sable dans la bétonnière. Ajouter 20 I d'eau. Ajuster si besoin pour obtenir une consistance de pâte épaisse. 
+Verser l'enduit dans une brouette, puis le disposer dans une gamate pour pouvoir l'appliquer sur le mur.
+
+
 ------------------------------------------------------------------------------------
 # Projet Salle de bain WC
 
