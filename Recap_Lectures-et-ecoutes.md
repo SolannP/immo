@@ -1024,8 +1024,8 @@ Matériel :
  - Lunette 
  - Masque 
  - Gant (mi plastique mi coton ou plastifié)
- - Crème anti brûlure  et réparatrice pour maintenir et visage
- - eau abondante pour rinçage sans froter puis puis collyre 
+ - Crème anti brûlure  et réparatrice pour main et visage
+ - eau abondante pour rinçage sans froter puis collyre 
 
 ## Granulat 
 
