@@ -73,7 +73,7 @@ La plomberie; 2001; 2212068174:
 
 Travaux de maçonnerie ; 10/2001 ; 2732832235
 
-Enduits chaux et leur decor, Mode d'emploi,  2011, 978221212823
+Enduits chaux et leur decor, Mode d'emploi,  2011, 978221212823; Bon livre pour tout ce qui traite de la chaux. La partie chaux-chanvre peut être une référence 
 
 ------------------------------------------------------------------------------------
 
