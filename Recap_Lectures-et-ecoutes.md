@@ -1227,7 +1227,7 @@ Si inférieure à 2mm d'épaisseur il suffit,  dans les 12h qui suivent, d'humid
 
 Si c'est plus de 2mm, ce n'est pas du faïencage (superficiel) mais l'adhérence de l'enduit est remis en cause 
 
-## Cas des murs hétéroclite 
+Les soubassements sont traités avec des matériaux résistant à l'eau (liège, béton cellulaire, brique terre cuite
 
 
 ------------------------------------------------------------------------------------
