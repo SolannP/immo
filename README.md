@@ -87,6 +87,7 @@ Buisson :
 
 Arbre : 
  - Troue et pas d'herbe dans le cercle les 2/3 première année 
+ - La ou on coupe, ça va ressortir et pousser à cette endroit en touffes (donc couper haut)
  - pas plus de 20% d'éléments coupe
  - Coupe en perpendiculaire de la branche (minimiser la tailler de la coupe)
  - Pas de coupe automne car fatigué l'arbre
