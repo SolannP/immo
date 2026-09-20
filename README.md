@@ -78,6 +78,24 @@ Status :
 
 Extérieur 
 
+On plante plutôt en février
+
+Buisson :
+- 4 à 5 sac de terreau devant, on detasse le tout 
+- Groseille c'est un truc de forêt (sol identique top, éclairage faible car pleine été pas beaucoup racin qui sèche vite car 20cm de racine 
+- Pour planter juste une petite tranché. 
+
+Arbre : 
+ - Troue et pas d'herbe dans le cercle les 2/3 première année 
+ - pas plus de 20% d'éléments coupe
+ - Coupe en perpendiculaire de la branche (minimiser la tailler de la coupe)
+ - Pas de coupe automne car fatigué l'arbre
+ - Si vraiment planché coupé pour que ca suive la branche principale. 
+ - Vérifier haut ou c'est abîmer pour eviter que l'eau rentrant dedans, boucher avec peux importe
+ - Citronnier rustique contre un mur. Autres variétés c'est 5mn par jour et on rentre hiver, sort l'été 
+
+2026-09-19 Pommier Golden delishous (chair rouge aussi mm11 (pas de M9)
+
 coin feux avec bûche et de quoi s'asseoir est vraiment top.
 
 mais attention quand il pleut..
