@@ -78,7 +78,13 @@ Status :
 
 Extérieur 
 
-On plante plutôt en février
+On plante plutôt en février : 
+ - Caseilier Josta × 1
+ - Groseille versaillaise rouge × 1 
+ - Groseillier à maquereaux blanc (Invicta) × 1 
+ - Groseillier à grappes "Versaillaise blanche" (Ribes rubrum) × 1 
+ - Groseille à maquereaux rouge (Hinnonmaki Red) × 1 
+ - Pommier "Golden Delicious" × 1
 
 Buisson :
 - 4 à 5 sac de terreau devant, on detasse le tout 
