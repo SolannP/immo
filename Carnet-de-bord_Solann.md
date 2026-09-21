@@ -292,3 +292,9 @@ On a commencé la pièce (tapisserie à terre). Du plâtre est à refaire et des
 Un charpentier a détecté des zones à adresser dans les combles. 
 
 On va finalement s'attaquer à l'extérieur (le chemin) en priorité (avant les pluies en automne).
+
+## Recap 21/09/26 
+
+Le chemin derrière est fini, à la fois le sol sur 2m avec pente et sur le mur avec les troue rebouché selon traditionnels enduit à la chaux. 
+
+On peut retourner sur la petite chambre en bas.
