@@ -4,7 +4,15 @@
 
 Le résultat est vraiment bien et la reparabilité de la chaux est vraiment incroyable. même les fissures superficiel peuvent être comblé. Manque que le sable rose (et colorant) pour donner un teinte similaire. 
 
+Le gobetis doit être un peu plus liquide pour bien être projeté.
 
+Un plus grand pulvérisateur serait bien car obligé de faire plusieurs aller/ retour. 
+
+L'auge était suffisante mais utiliser un melangeur sur perceuse aurait été plus pratique 
+
+La Taloche en bois est top, peut être la fabriquer un peux plus grande avec un vrai poignée là prochaine fois. 
+
+Pour une réparation, laissé de la place au corp d'enduit pour que l'enduit de finition finisse le tout.
 
 
 
