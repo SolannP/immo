@@ -75,6 +75,7 @@ Travaux de maçonnerie ; 10/2001 ; 2732832235
 
 Enduits chaux et leur decor, Mode d'emploi,  2011, 978221212823; Bon livre pour tout ce qui traite de la chaux. La partie chaux-chanvre peut être une référence 
 
+Cahiers_de_recommandations_Rénovation_énergétique_de_l'habitat_ancien_en_CVL.pdf; juin 2021 ; https://www.culture.gouv.fr/Media/medias-creation-rapide-ne-pas-supprimer/Cahiers-de-recommandations_Renovation-energetique-de-l-habitat-ancien-en-CVL.pdf?utm_source=chatgpt.com
 ------------------------------------------------------------------------------------
 
 Menuiserie André : bon ratio qualité prix !
