@@ -1280,17 +1280,36 @@ Voir schéma
 
 # Isolation des murs par doublage 
 
-Le système constructif est composé d'une ossatureen bois (ou métallique) de faible section avec lamise en place d'un isolant perméable à la vapeur d'eau,en panneaux ou en vrac, avec une conductivité la plus
-faible possible. L'association de la fibre de bois, ouate decellulose, laine de chanvre... avec une membrane dite "intelligente" à fort Sd (Sd < 18) est une solution adaptée à
-ce type de bâti.
+Le système constructif est composé d'une ossatureen bois (ou métallique) de faible section avec lamise en place d'un *isolant perméable à la vapeur d'eau*,en panneaux ou en vrac, avec une conductivité la plusfaible possible. L'association de la fibre de bois, ouate decellulose, laine de chanvre... avec une membrane dite "intelligente" à fort Sd (Sd < 18) est une solution adaptée àce type de bâti.
 Afin de minimiser les ponts thermiques, une doubleossature en bois peut être intercalée avec la première.
 
-► En présence d'un mur de refend, il faut réaliser un retour
+► En présence d'un mur de refend, il faut réaliser un retourd'isolation sur une longueur d'un mètre minimum.
+
+► Tous les substrats (ancienne peinture, papier peint présence d'un mur de refend, il faut réaliser un retour
 d'isolation sur une longueur d'un mètre minimum.
 
-► Tous les substrats (ancienne peinture, papier peintn présence d'un mur de refend, il faut réaliser un retour
-d'isolation sur une longueur d'un mètre minimum.
+► Ce type de pose permet de rattraper les défauts du mur.
 
+► Cette solution apporte une meilleure isolation des murs (R =3.75 m².K/W pour 150 mm de laine de bois). Elle permet
+d'atteindre les objectifs BBC Rénovat
+
+► Un vide technique peut être prévu entre la membrane et lerevêtement intérieur pour le passage des réseaux.
+
+► Une autre alternative consiste à mettre en œuvre unecontre-cloison en briques. Cette solution permet de réaliser une finition à la chaux ou un enduit à l'argile. En outre elle améliorel'inertie thermique en été (voir illustration).
+
+► La mise en place d'une ventilation mécanique est fortementconseillée afin d'éliminer tout excès d'humidité.
+
+► Le séchage du mur par l'intérieur, en cas de forte humidité,est problématique en raison de la présence de la membrane.
+
+► Le risque d'une teneur en eau, dans l'isolant, plus importantel'été en raison du transfert du flux de vapeur d'eau de l'extérieur vers l'intérieur.
+
+► Nette dégradation de l'inertie thermique en été en raison dela faible chaleur massique de la paroi.
+
+► La mise en oeuvre de la membrane doit être rigoureuse afind'éviter les condensations convectives au niveau des ponts
+thermiques.
+
+► En présence d'un plancher bois, il faut dans lamesure du possible assurer la continuité del'isolation et de la membrane hygrovariable entrele mur du rez-de-chaussée et celui de l'étage. Une dessolutions acceptable, est de fixer, sur le pourtour de lasolive ou de la poutre en bois, des tasseaux et de coller
+ensuite la membrane. Cela permet de rendre étanche àl'air l'espace entre le plafond du rez-de-chaussée et le plancher de l'étage 
 ------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------------------
