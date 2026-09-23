@@ -154,6 +154,16 @@ Suivi de la lumière via Photo et : https://shademap.app/@48.74663,7.35625,17.46
 
 # Petit pièce 
 
+La chape n'est pas obligatoire. 
+La chape est indispensable pour la pose de revêtements collés lorsque la planéité de la dalle ne respecte pas les tolérances requises
+
+Pour un carrelage en pose collée, la norme exige généralement 5 mm maximum sous la règle de 2 mètres. Cette contrainte se durcit encore avec les grands formats de carrelage qui nécessitent une planéité quasi parfaite.
+
+Le plancher chauffant à eau impose systématiquement une chape dédiée.
+
+Les besoins d’isolation thermique ou acoustique rendent également la chape nécessaire.
+
+Dans ce cas, on parle de chape flottante qui repose sur un isolant et se désolidarise des parois. Les épaisseurs minimales varient selon la classification : 5 cm pour SC1 et 6 cm pour SC2.
 
 ------------------------------------------------------------------------------------
 # Projet Salle de bain WC
