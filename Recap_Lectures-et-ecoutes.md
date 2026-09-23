@@ -1233,4 +1233,66 @@ Les soubassements sont traités avec des matériaux résistant à l'eau (liège,
 
 ------------------------------------------------------------------------------------
 
+# Cahiers_de_recommandations_Rénovation_énergétique_de_l'habitat_ancien_en_CVL.pdf
 
+(Document imprimé)
+
+Phase de construction de 1800 à 1948 pour le bâti ancien (à noter deux guerres entre temps). Après c'est le bâti moderne. 
+
+Isolation des combles non aménagés et aménagé n'ont pas le même traitement. 
+
+## Comble aménagée 
+
+Principe : Isoler les rampants de la
+toiture ainsi que le mur en surcroît
+jusqu’au plancher des combles.
+Les chevrons doivent être en parfait état avantla mise en place de l'isolation. La pose d'unpare pluie Haute Perméabilité à la Vapeur d'eau(HPV) est conseillée entre les chevrons et le contre￾lattape (SD < 0,10). Une première couched'isolation est insérée entre les chevrons en lépère
+surpression. Une seconde, plus importante, seraplacée perpendiculairement à la première soitentre des contre-chevrons ou sous les chevronspar la pose de suspentes. La mise en oeuvre doit
+être ripoureuse afin d'éviter les discontinuités thermiques.
+Pour assurer une bonne étanchéité à l'air unfrein-vapeur hyprovariable est nécessaire enrespectant le recouvrement de 10 cm minimumentre chaque lés. Un espace de 3 cm entre le freinvapeur et les panneaux de finition peut être prévu
+pour le passape des paines électriques.
+Entre le revêtement intérieur et l’isolant, le freinvapeur doit être posé de manière continue surl’ensemble de la surface isolée afin d’assurerl’étanchéité à l’air du volume chauffé sous toiture.
+
+Si le pare pluie n'est pas perméable à la vapeur d'eau, unespace de 2 à 3 cm doit être aménagé entre celui-ci et
+l'isolant, afin de créer une lame d'air ventilée (soit par
+contre-lattage soit par une épaisseur d'isolant moindre entre
+les chevrons). Cela permet d'éviter que la vapeur d'eau
+condense et détériore la charpente.
+
+► S'assurer que la charpente est en mesure de supporter le poids du parement intérieur notamment dans le cas de
+plaques de plâtre.
+
+► La toiture doit toujours être ventilée avec ou sans lapose d'un pare pluie à Haute Perméabilité à la Vapeurd'eau (HPV).
+
+► La pose d'une seule couche d'isolation sur lesrampants n'offre pas la continuité thermique
+
+► Pour atteindre les objectifs BBC Rénovation, la résistance thermique
+doit atteindre la valeur de 7 m².K/W. Le choix d'un isolant avec un très
+bon déphasage sera idéal pour éviter la surchauffe des combles en été.
+
+► Si l'on souhaite conserver la charpente visible ou la finition in￾térieure, l'isolation de la toiture avec la méthode SARKING peut êtreenvisagée. Cette méthode est néanmoins peu compatible avec l'intérêtarchitectural du bâtiment.
+
+► Si la maison comporte une cheminée, prévoir au pourtour de celle-ci
+un isolant de classe A1 (isolant incombustible
+
+
+Voir schéma 
+
+# Isolation des murs par doublage 
+
+Le système constructif est composé d'une ossatureen bois (ou métallique) de faible section avec lamise en place d'un isolant perméable à la vapeur d'eau,en panneaux ou en vrac, avec une conductivité la plus
+faible possible. L'association de la fibre de bois, ouate decellulose, laine de chanvre... avec une membrane dite "intelligente" à fort Sd (Sd < 18) est une solution adaptée à
+ce type de bâti.
+Afin de minimiser les ponts thermiques, une doubleossature en bois peut être intercalée avec la première.
+
+► En présence d'un mur de refend, il faut réaliser un retour
+d'isolation sur une longueur d'un mètre minimum.
+
+► Tous les substrats (ancienne peinture, papier peintn présence d'un mur de refend, il faut réaliser un retour
+d'isolation sur une longueur d'un mètre minimum.
+
+------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------
