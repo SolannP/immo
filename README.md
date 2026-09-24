@@ -154,6 +154,14 @@ Suivi de la lumière via Photo et : https://shademap.app/@48.74663,7.35625,17.46
 
 # Petit pièce 
 
+## Murs 
+
+Les murs en liege expansé et recouvert de chaux semble idéal.. même si je préférerais du plâtre.
+
+## Plafond 
+
+## Sols 
+
 La chape n'est pas obligatoire. 
 La chape est indispensable pour la pose de revêtements collés lorsque la planéité de la dalle ne respecte pas les tolérances requises
 
@@ -164,6 +172,12 @@ Le plancher chauffant à eau impose systématiquement une chape dédiée.
 Les besoins d’isolation thermique ou acoustique rendent également la chape nécessaire.
 
 Dans ce cas, on parle de chape flottante qui repose sur un isolant et se désolidarise des parois. Les épaisseurs minimales varient selon la classification : 5 cm pour SC1 et 6 cm pour SC2.
+
+S’assurer d’abord du bon état de la structure et de sa capacité à supporter  la charge supplémentaireapportée par l’isolation.Maintenir et/ou restituer impérativement la ventilation de l’espace non chauf
+
+La solution de "béton de chanvre" (en réalité NHL3,5) semble idéal car respecte l'humidité et le bâti ancien.. mais plutôt pour une dalle sur terre directement. 
+
+La dalle flottante utilise du polyane et polystyrène incompressible ce qui n'en fait pas un bon candidat. 
 
 ------------------------------------------------------------------------------------
 # Projet Salle de bain WC
