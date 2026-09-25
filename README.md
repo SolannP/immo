@@ -154,6 +154,14 @@ Suivi de la lumière via Photo et : https://shademap.app/@48.74663,7.35625,17.46
 
 # Petit pièce 
 
+Isolant : 
+ - Toutes les laines sont à éviter (curieusement pas cancérigène..?)
+ - Ouate de cellulose bof (tassement et craint humidité 
+ - Base de plastique paq envisageable 
+ - Coton recyclé est intéressant 
+ - Chanvre bon candidat mais subtilité avec eau
+ - Liège semble aussi très bien
+
 ## Murs 
 
 Les murs en liege expansé et recouvert de chaux semble idéal.. même si je préférerais du plâtre.
