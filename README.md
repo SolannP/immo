@@ -156,6 +156,7 @@ Suivi de la lumière via Photo et : https://shademap.app/@48.74663,7.35625,17.46
 
 Isolant : 
  - Toutes les laines sont à éviter (curieusement pas cancérigène..?)
+ - Verre cellulaire très bien (innerte et pas toxique)
  - Ouate de cellulose bof (tassement et craint humidité 
  - Base de plastique paq envisageable 
  - Coton recyclé est intéressant 
