@@ -159,6 +159,7 @@ Dans les combles, fibres de bois sont le top pour l'inertie notamment.
 
 Isolant : 
  - Toutes les laines sont à éviter (curieusement pas cancérigène..?)
+ - Fibre et laine de bois top pour le déphasage, en particulier dans les combles 
  - Verre cellulaire très bien (innerte et pas toxique)
  - Ouate de cellulose bof (tassement et craint humidité 
  - Base de plastique paq envisageable 
