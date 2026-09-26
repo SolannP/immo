@@ -62,6 +62,8 @@ Status :
 - Trouver planche bois chambre 
 - fissure poteau 
 - double des clées 
+- entretien porte de garage 
+- cuisine 
 - Réparation bouton chaudière 
 - Mise à plat électrique 
 
@@ -239,6 +241,14 @@ https://fr.pinterest.com/pin/7740630606485479/
 https://fr.pinterest.com/pin/4785143351222626/
 
 ------------------------------------------------------------------------------------
+
+Projets Cuisine 
+
+Lavabo : Couper dans le plan de travail pour avoir une planche dans même bois servant à cacher l'évier est vraiment bien. Si en plus c'est une planche à découper c'est vraiment top.
+
+
+------------------------------------------------------------------------------------
+
 Projet Place de parking 
 
 Extrait du reglement du PLU (Plan Local d'Urbanisme), Uc, Article 11 Aspect extérieur et construction 
