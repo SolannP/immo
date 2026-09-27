@@ -290,6 +290,18 @@ Article 13-UC : Espaces libres et plantations
 
 ------------------------------------------------------------------------------------
 
+# Projet toiture 
+
+Horizon 2031 il faudra changer la couverture.. 
+
+Occasion de refaire protection de l'extérieur en Zinc. 
+
+On peut aller un peu plus loin côté mur sud pour protéger l'été du soleil de midi et faire une couleur clair
+
+
+
+------------------------------------------------------------------------------------
+
 
 
 ------------------------------------------------------------------------------------
