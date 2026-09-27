@@ -246,6 +246,14 @@ Projets Cuisine
 
 Lavabo : Couper dans le plan de travail pour avoir une planche dans même bois servant à cacher l'évier est vraiment bien. Si en plus c'est une planche à découper c'est vraiment top.
 
+Marbre et bois très beau pour ilo cuisine 
+
+une partie étagère du côté ilo de cuisine est une bonne idée 
+
+Haute avec plaque intégré est très beau mais pose une question de maintenance ou entretien 
+
+
+
 
 ------------------------------------------------------------------------------------
 
