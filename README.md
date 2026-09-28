@@ -194,7 +194,12 @@ S’assurer d’abord du bon état de la structure et de sa capacité à support
 
 La solution de "béton de chanvre" (en réalité NHL3,5) semble idéal car respecte l'humidité et le bâti ancien.. mais plutôt pour une dalle sur terre directement. 
 
+Il y a une bande de joint à mettre sur les murs pour la dilatation.. En plastique..
+
+
 La dalle flottante utilise du polyane et polystyrène incompressible ce qui n'en fait pas un bon candidat. 
+
+Pour une chape traditionnelle (dite maigre), le dosage est environ 150kg de ciment pour 1m3 de sable
 
 ------------------------------------------------------------------------------------
 # Projet Salle de bain WC
