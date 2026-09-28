@@ -199,10 +199,28 @@ Il y a une bande de joint à mettre sur les murs pour la dilatation.. En plastiq
 Une solution intermédiaire : la chape sèche : Pour éviter les risques liés à l’humidité, la chape sèche peut être une alternative. Il s’agit de granulats légers (type billes d’argile expansée) nivelés au sol, recouverts de plaques OSB ou Fermacell (sorte de plaque résistant aussi à l'humidité, composée aussi de cellulose pour isolation) 
 
 
-
 La dalle flottante utilise du polyane et polystyrène incompressible ce qui n'en fait pas un bon candidat. 
 
 Pour une chape traditionnelle (dite maigre), le dosage est environ 150kg de ciment pour 1m3 de sable
+
+Sac argile 
+  - 3/8 : 18€ pour 23kg 
+  - 2/3 : 38 pour 50L
+
+Possible de prendre du 8/20 pour remblais 
+
+Liant chaux pour Ravoirage (1m3 de beton)
+ - Latéralité plus 3/8 (argile) : 1000L (20 sac de 50L)
+ - Chaux NHL 3,5 ou 5 : 350Kg 
+ - Eau : 220 à 230L
+=> Densité de 800Kg/m³
+
+Liant chaux pour chape (1m3 de beton) 
+ - Latéralité plus 2/3 (argile) : 700L
+ - Chaux NHL 3,5 ou 5 : 385Kg 
+ - Sable : 380L 
+ - Eau : 210 à 220
+=> Densité de 1150Kg/m³
 
 ------------------------------------------------------------------------------------
 # Projet Salle de bain WC
