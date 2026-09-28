@@ -196,6 +196,9 @@ La solution de "béton de chanvre" (en réalité NHL3,5) semble idéal car respe
 
 Il y a une bande de joint à mettre sur les murs pour la dilatation.. En plastique..
 
+Une solution intermédiaire : la chape sèche : Pour éviter les risques liés à l’humidité, la chape sèche peut être une alternative. Il s’agit de granulats légers (type billes d’argile expansée) nivelés au sol, recouverts de plaques OSB ou Fermacell (sorte de plaque résistant aussi à l'humidité, composée aussi de cellulose pour isolation) 
+
+
 
 La dalle flottante utilise du polyane et polystyrène incompressible ce qui n'en fait pas un bon candidat. 
 
