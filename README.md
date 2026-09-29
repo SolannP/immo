@@ -207,6 +207,9 @@ Sac argile
   - 3/8 : 18€ pour 23kg 
   - 2/3 : 38 pour 50L
 
+Liège expansé allemagne :
+  - 42.50 €/ m²
+
 Possible de prendre du 8/20 pour remblais 
 
 Liant chaux pour Ravoirage (1m3 de beton)
