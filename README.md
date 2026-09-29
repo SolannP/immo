@@ -161,7 +161,7 @@ Dans les combles, fibres de bois sont le top pour l'inertie notamment.
 
 Isolant : 
  - Toutes les laines sont à éviter (curieusement pas cancérigène..?)
- - Fibre et laine de bois top pour le déphasage, en particulier dans les combles 
+ - Fibre et laine de bois top pour le déphasage, en particulier dans les combles.
  - Verre cellulaire très bien (innerte et pas toxique)
  - Ouate de cellulose bof (tassement et craint humidité 
  - Base de plastique paq envisageable 
@@ -170,6 +170,10 @@ Isolant :
     - Laine de chanvre 
     - Chaivenote remplace sable dans béton et mortier (uniquement avec chauxb aérienne.. ?)
  - Liège semble aussi très bien
+
+
+**La laine de bois est la solution à privilégier**, sauf s'il y a de l'humidité.. comme au mur nord..  
+Car "l’humidité permanente et les remontées capillaires peuvent altérer ses propriétés isolantes".  
 
 ## Murs 
 
