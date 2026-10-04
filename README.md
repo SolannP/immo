@@ -131,6 +131,8 @@ Un petite cuisine d'été permettrait de réduire grandement la chaleur dans la 
 
 Extérieur avec fruit qui tombe c'est trop cool. Mais la galère pour nettoyer ce qui est parterre. 
 
+Pour la zone potager, il faut une zone en hauteur dans une matière qui empêche la venue des escargots 
+
 On a vu des store enroulé sur eux même qui fait un gros rouleau : simple et efficace et bonne reparabilité 
 
 s'il y a parasol, il faut vraiment anticiper pour que (a) ca se range tout seul ou très simplement (car la galère de rentrer le parasol) ou (b) facile à changer.
