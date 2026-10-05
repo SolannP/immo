@@ -1230,6 +1230,51 @@ Si c'est plus de 2mm, ce n'est pas du faïencage (superficiel) mais l'adhérence
 
 Les soubassements sont traités avec des matériaux résistant à l'eau (liège, béton cellulaire, brique terre cuite
 
+## Chanvre/Chaux 
+
+Application en banchage (6 à 10cm) pour doublage mur froids. Je ne vais pas insister ici. 
+
+Application enduit (5 à 6cm) convient tout à fait : 
+
+Recette 1 : 
+.1 vol.de sable de ponce
+en 0/2
+• 4 vol.de chenevotte
+• 4 vol.de CL 90
+• 1vol.de NHL 2
+• 3 vol. d'eau
+
+Recette 2 : 
+.1 vol.de sable de ponce
+en 0/2
+• 4 vol.de chenevotte
+• 5 vol.de CL 90
+• 3 vol. d'eau
+
+Recette 3 : 
+5 vol.de chènevotte
+•2 vol.de CL 90
+• 2 vol. deau
+
+#### Préparatifs 
+
+L'idéal est de préparer l'enduit au minimum 12 h avant la mise en œuvre pour
+permettre au chanvre d'absorber toute I'eau, dont il est friand. 
+
+On obtient ainsi une matiêère plus facile à appliquer, plus onctueuse et collante, ou la chaux a pu prendre sa place. 
+
+Comme nous avons affaire à de la chaux aérienne, le stockage se fait, comme d'habitude, dans des récipients
+en plastique, fermés hermétiquement avec
+des couvercles, une fois le mortier recouvert d'une fine couche d'eau.
+
+Les méthodologies d'introduction dans la
+bétonnière sont très diverses mais une règle générale semble ressortir: on verse la moitié de l'eau puis la chaux puis le sable (s'il y en a dans la formule) puis le chanvre et ensuite l'eau restante. Dans tous les cas, la consistance de l'enduit doit être bien humide, le produit, presque coulant, doit être à la fois compact et léger.
+
+
+#### Applications  
+
+Ce corps d'enduit fibreux, applicable en fortes épaisseurs dans la mesure ou
+le chanvre joue le rôle d'une armature, se met en œuvre comme un corps d'enduit clasique, déposé a la truelle puis taloché (l'enduit 3 couches) surune épaisseur d'environ 5 cm
 
 ------------------------------------------------------------------------------------
 
