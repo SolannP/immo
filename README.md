@@ -158,7 +158,21 @@ Suivi de la lumière via Photo et : https://shademap.app/@48.74663,7.35625,17.46
 
 # Petit pièce 
 
-Dans les combles, fibres de bois sont le top pour l'inertie notamment. 
+Dans les combles, fibres de bois sont le top pour l'inertie notamment.
+ 
+ - [ ] Atelier chaux 
+
+ - [ ] Devis mur doublage béton cellulaire + enduit chaux
+
+ - [ ] Devis mur doublage laine de bois vrac béton cellulaire + enduit chaux 
+
+ - [ ] Devis mur doublage 
+
+ - [ ] Devis mur chaux chanvre enduit + enduit chaux (6cm et :5 vol chevenote, 2 vol CL90, 2 eau OU 1 sable 0/2, 4 vol chevenotte 5 vol CL90, 3 vol eau)
+
+ - [ ] Devis sol parquet => exclu
+
+ - [ ] Devis sol chappe allégé 
 
 
 Isolant : 
@@ -172,7 +186,7 @@ Isolant :
     - Laine de chanvre 
     - Chaivenote remplace sable dans béton et mortier (uniquement avec chauxb aérienne.. ?)
  - Liège semble aussi très bien
-
+ - Le béton cellulaire est très compatible avec la pierre (et la terre)
 
 **La laine de bois est la solution à privilégier**, sauf s'il y a de l'humidité.. comme au mur nord..  
 Car "l’humidité permanente et les remontées capillaires peuvent altérer ses propriétés isolantes".  
