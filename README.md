@@ -301,7 +301,7 @@ une partie étagère du côté ilo de cuisine est une bonne idée
 
 Haute avec plaque intégré est très beau mais pose une question de maintenance ou entretien 
 
-
+Intégrer le robot nettoyeur à la réflexion 
 
 
 ------------------------------------------------------------------------------------
