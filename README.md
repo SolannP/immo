@@ -292,10 +292,43 @@ Ce corps d'enduit fibreux, applicable en fortes épaisseurs dans la mesure ou
 le chanvre joue le rôle d'une armature, se met en œuvre comme un corps d'enduit clasique, déposé a la truelle puis taloché (l'enduit 3 couches) surune épaisseur d'environ 5 cm
 
 ------------------------------------------------------------------------------------
-# Projet Salle de bain WC
+# Projet Salle de bain 
 
+Pour chauffage infrarouge, il faut être devant pour bien avoir chaud car configuration salle de bain sud est propice : maison de Saverne moins sûr.
+Prix proche en Allemagne, produit différents. Bien achalandé en bois. 
+
+Plusieurs configuration, sans bac de douche c'est le top mais deux carrelage différents (Douche et reste S2B)
 
 Attnetion au pefcage de dalle : https://decoethabitat.fr/comment-percer-une-dalle-beton-pour-une-evacuation-deau-sans-risque/
+
+Miroir rond, lumière et chaufage tout séparé = modulaire (séparé) donc plus facile à changer/entretenir. 
+
+# Projet Cuisine
+
+Attnetion au pefcage de dalle : https://decoethabitat.fr/comment-percer-une-dalle-beton-pour-une-evacuation-deau-sans-risque/
+
+Plusieurs façon de faire. Ce qui compte c'est surtout le résultat : t'en pis si c'est pas comme on veux. 
+
+Pour le murs, mettre une cale sur la 1 er rangé pleine (s'il faut couper des carreaux c'est tout en bas). Normalement idem à la verticale pour les coupes. et après on monte on checkant le niveau. 
+
+Plusieurs cran de peigne en fonction de la taille des carreaux : 
+ - mur 5x5 à 15x15 : carré 6mm 
+ - mur 20x20 à 25x40 : carré 8mm 
+ - mur et sol 30x30 à 45x45 : carré 10mm
+ - mur et sol 50x50 à 60x60 : carré 12mm
+ - grand sol +60x60 : demie lune 20mm
+
+La poste du carrelage droit est rapide. Il faut bien checker les niveaux et mettre à plat avec une calle en tapotant plusieurs carreaux. 
+
+Çà a pris longtemps pour le tracé précis, les découpes des coins. Beaucoup de poussière lors de la coupe. 
+
+Les calles sont vraiment utile, surtout pour le bas. la finition bas et coin se fait avec un profilé dédié. 
+
+Double encolage pour gros carreau. Attention à l'épaisseur bien identique partout. 
+
+De la colle de qualité et du temps pour bien tracer est vraiment nécessaire car tout repose dessus. 
+
+Passage de la raclette à joint en diagonale. Utilisation outils en bois style baton glace pour la finition des joints.
 
 ------------------------------------------------------------------------------------
 
