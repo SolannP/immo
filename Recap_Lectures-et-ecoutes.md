@@ -1368,6 +1368,8 @@ La visite à la CAUE permet aussi de consulter gratuitement un paysagiste.
 
 L'ADEME peut aider pour maximiser les économies et acompagner pour les aides (qui doivent être sollicité entre la réception des devis et la réalisation de travaux) : chèque énergie, TVA à 5.5 pour des postes, crédit d'impôt, eco prêt à taux zéro, ...
 
+ANIL pour connaître les aides financières, crédit d'impôt et prêt envisageable pour la rénovation 
+
 Ne pas traîner pour les arbres (le temps qu'ils grandissent)
 
 Automne : plantations 
