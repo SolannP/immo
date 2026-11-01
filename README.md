@@ -302,6 +302,7 @@ Attnetion au pefcage de dalle : https://decoethabitat.fr/comment-percer-une-dall
 
 Miroir rond, lumière et chaufage tout séparé = modulaire (séparé) donc plus facile à changer/entretenir. 
 
+------------------------------------------------------------------------------------
 # Projet Cuisine
 
 Attnetion au pefcage de dalle : https://decoethabitat.fr/comment-percer-une-dalle-beton-pour-une-evacuation-deau-sans-risque/
@@ -425,6 +426,7 @@ Occasion de refaire protection de l'extérieur en Zinc.
 
 On peut aller un peu plus loin côté mur sud pour protéger l'été du soleil de midi et faire une couleur clair
 
+Et des veluxes ?
 
 
 ------------------------------------------------------------------------------------
