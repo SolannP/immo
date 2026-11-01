@@ -374,7 +374,8 @@ Projets Cuisine
 
 Lavabo : Couper dans le plan de travail pour avoir une planche dans même bois servant à cacher l'évier est vraiment bien. Si en plus c'est une planche à découper c'est vraiment top.
 
-Marbre et bois très beau pour ilo cuisine 
+Marbre et bois très beau pour ilo cuisine. 
+(attention au merbre de synthèse..)
 
 une partie étagère du côté ilo de cuisine est une bonne idée 
 
@@ -434,7 +435,8 @@ Et des veluxes ?
 
 # Projet Jardin d'hiver
 
-Info identifiant : 
+ID  
+
 Adresse : 
   - 11 Rue du maréchal foch, 67700 Saverne
 Cadastre : 
@@ -443,12 +445,18 @@ Cadastre :
   - Commune Saverne - 67437
   - Contenance cadastrale : 4,93 a
 
-Pour les questions propres à votre terrain, le service urbanisme de Saverne est joignable au 03 88 71 52 89 ou par courriel à urbanisme@mairie-saverne.fr. Accueil
+- [ ] Definir la taille, implantation et style
+- [ ] Prise de contacte Architecte 
+- [ ] Prise de contacte contacte ville de Saverne 
+    1. La véranda est-elle autorisable à cet emplacement, compte tenu des règles d'implantation et de hauteur de la zone UC ?
+    2. Le fait que le garage soit enterré et que la véranda prolonge le rez-de-chaussée change-t-il l'application des règles de recul ou de hauteur dans votre cas ?
+    3. Existe-t-il des contraintes particulières de zonage ou des servitudes qui s'appliquent à votre parcelle ?
 
-Je commencerais par obtenir une réponse sur trois questions précises :
-1. La véranda est-elle autorisable à cet emplacement, compte tenu des règles d'implantation et de hauteur de la zone UC ?
-2. Le fait que le garage soit enterré et que la véranda prolonge le rez-de-chaussée change-t-il l'application des règles de recul ou de hauteur dans votre cas ?
-3. Existe-t-il des contraintes particulières de zonage ou des servitudes qui s'appliquent à votre parcelle ?
+> Si les contraintes légales sont négative, il est possible de jouer avec les règles pour forcer à rentrer dans les critères (ex: en ajustant la surface final à 20m² pour etre un abri de jardin,...) 
+
+ - [ ] Un architecte ou un bureau d'études structure pourra vérifier la faisabilité technique, les fondations et les éventuels renforcements nécessaires (notamment ouverture)
+
+Pour les questions propres à votre terrain, le service urbanisme de Saverne est joignable au 03 88 71 52 89 ou par courriel à urbanisme@mairie-saverne.fr. Accueil
 
 https://www.saverne.fr/urbanisme/vos-demarches-en-mairie/declaration-prealable/
 
@@ -494,7 +502,7 @@ https://maps.app.goo.gl/Ap4t8qW9aCL4kf8Y7
 - 🟢 Castorama (Mundolsheim)
 - 🟢 Saint-Maclou (Lampersheim)
 - HORNBACH (Kalsruhe, Allemagne)
-- BAUHAUS (Offenbourg, Allemagne)
+- 🟢 BAUHAUS (Offenbourg, Allemagne)
 - ATOO DESIGN (Molsheim)
 - SIEHR (Marlenheim)
 - 🟢 Siehr (Saverne)
