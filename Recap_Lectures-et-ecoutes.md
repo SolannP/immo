@@ -76,6 +76,9 @@ Travaux de maçonnerie ; 10/2001 ; 2732832235
 Enduits chaux et leur decor, Mode d'emploi,  2011, 978221212823; Bon livre pour tout ce qui traite de la chaux. La partie chaux-chanvre peut être une référence 
 
 Cahiers_de_recommandations_Rénovation_énergétique_de_l'habitat_ancien_en_CVL.pdf; juin 2021 ; https://www.culture.gouv.fr/Media/medias-creation-rapide-ne-pas-supprimer/Cahiers-de-recommandations_Renovation-energetique-de-l-habitat-ancien-en-CVL.pdf?utm_source=chatgpt.com
+
+Rénover une vielle bâtisse ; mai 2017 ; 9782330077990 ; 
+
 ------------------------------------------------------------------------------------
 
 Menuiserie André : bon ratio qualité prix !
@@ -1355,6 +1358,50 @@ thermiques.
 
 ► En présence d'un plancher bois, il faut dans lamesure du possible assurer la continuité del'isolation et de la membrane hygrovariable entrele mur du rez-de-chaussée et celui de l'étage. Une dessolutions acceptable, est de fixer, sur le pourtour de lasolive ou de la poutre en bois, des tasseaux et de coller
 ensuite la membrane. Cela permet de rendre étanche àl'air l'espace entre le plafond du rez-de-chaussée et le plancher de l'étage 
+------------------------------------------------------------------------------------
+
+# Rénover une vielle bâtisse
+
+La CAUE pour un architecte conseil qui guidera vers des interlocuteurs (souvent gratuit comme L'ADEME, l'Espace info-energie et des écocentres à proximité). 
+
+La visite à la CAUE permet aussi de consulter gratuitement un paysagiste. 
+
+L'ADEME peut aider pour maximiser les économies et acompagner pour les aides (qui doivent être sollicité entre la réception des devis et la réalisation de travaux) : chèque énergie, TVA à 5.5 pour des postes, crédit d'impôt, eco prêt à taux zéro, ...
+
+Ne pas traîner pour les arbres (le temps qu'ils grandissent)
+
+Automne : plantations 
+Hiver : aménagement intérieur (électricité, cloison, parquet, peinture,...) 
+Printemps : enduit intérieur et extérieur 
+Été : saison des gros œuvre.
+
+Avec les artisans :   
+
+Bien expliquer les enjeux, choix, projet et être présent au cas où pour que, en cas d'imprévu il soit possible de donner la directrice (et pas qu'il fasse ce qu'il estime le mieux). 
+
+Il faut faire un inventaire à la réception des produits : quantité et nature des produits. 
+
+Il faut aussi vérifier le temps passé (jours et heures) pour contrôler la réalité du tarif horaire. C'est utile en cas de conflit pour poser son veto à un dépassement tarifaire qui semble injustifié. 
+
+Il faut être conciliant et ferme sur ce qui est attendu et à imposer de refaire si le résultat ne correspond pas à ce qui a été demandé (Illustrer avec une photo connue des deux parties) 
+
+Ne pas tout payer d'un coup car pas de levier sinon pour refaire.
+
+**Attention au fausses économies** de quelques euro.
+
+On peut demander des factures détaillée avec une partie main d'œuvre et une partie materiel (dont liste exhaustive). 
+La facture doit être réglé rapidement mais après un contrôle méticuleux de son contenu afin d'en vérifier la concordance. 
+
+Des écarts sont recevables si ont a été prévenu et que l'on a demandé l'accord avant. Sinon que le montant du devis. 
+
+Rappel sur les règles : 
+ 1 Tiers la signature du devis ou à l'arrivée des équipes sur le chantier 
+ 1 Tiers vers la fin du chantier quand le matériel a été engagé 
+ 1 Tiers à la livraison qui signifie un temps pris en commun ou le client accepte ce qui a été réalisé en l'etat sans finition ou ajout. 
+
+
+------------------------------------------------------------------------------------
+
 ------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------------------
