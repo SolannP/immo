@@ -43,7 +43,6 @@ Status :
 - [ ] Identifier les rénovation qui procure le + de plus value (S2b, Mode de chauffage.. mais pas forcément isolation)
 
 - Restauration mur de cave
-- Palissade extérieur (anti bruit ?)
 - Espace Cave
 - Strategie macro Élaboration 
 - Jardin d'hiver Élaboration 
@@ -431,6 +430,32 @@ On peut aller un peu plus loin côté mur sud pour protéger l'été du soleil d
 ------------------------------------------------------------------------------------
 
 
+# Projet Jardin d'hiver
+
+Info identifiant : 
+Adresse : 
+  - 11 Rue du maréchal foch, 67700 Saverne
+Cadastre : 
+  - Parcelle 10
+  - Section 31
+  - Commune Saverne - 67437
+  - Contenance cadastrale : 4,93 a
+
+Pour les questions propres à votre terrain, le service urbanisme de Saverne est joignable au 03 88 71 52 89 ou par courriel à urbanisme@mairie-saverne.fr. Accueil
+
+Je commencerais par obtenir une réponse sur trois questions précises :
+1. La véranda est-elle autorisable à cet emplacement, compte tenu des règles d'implantation et de hauteur de la zone UC ?
+2. Le fait que le garage soit enterré et que la véranda prolonge le rez-de-chaussée change-t-il l'application des règles de recul ou de hauteur dans votre cas ?
+3. Existe-t-il des contraintes particulières de zonage ou des servitudes qui s'appliquent à votre parcelle ?
+
+https://www.saverne.fr/urbanisme/vos-demarches-en-mairie/declaration-prealable/
+
+Les travaux suivants ne sont pas soumis à permis de construire mais doivent au préalable faire l’objet d’une déclaration de travaux en vertu des articles L.422-1 R.422-2 du code de l’urbanisme :
+ - Création d’une pièce d’habitation supplémentaire, d’un abri de jardin, d’un garage, d’un atelier de bricolage, d’une cage d’ascenseur extérieure, d’une superficie ne dépassant pas 20 m² (Surface de plancher) et prévus sur un terrain supportant déjà un bâtiment
+
+La construction doit être implantée en limite séparative ou respecter un recul d'au moins 3 mètres.
+
+Le règlement comporte aussi une exception pour certaines constructions annexes de moins de 30 m² et de moins de 3,50 mètres de hauteur totale. Je ne partirais pas du principe que cette exception s'applique à votre véranda
 
 ------------------------------------------------------------------------------------
 
