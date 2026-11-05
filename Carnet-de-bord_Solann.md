@@ -298,3 +298,9 @@ On va finalement s'attaquer à l'extérieur (le chemin) en priorité (avant les 
 Le chemin derrière est fini, à la fois le sol sur 2m avec pente et sur le mur avec les troue rebouché selon traditionnels enduit à la chaux. 
 
 On peut retourner sur la petite chambre en bas, on commence par le plafonds et sols.
+
+## Recap 05/11/26 
+
+On a avancé sur la petite chambre mais finalement on a ajusté pour se concentrer, lors de la venue de papa, sur les fissures extérieur à boucher + les toilettes (installation).  
+
+La on a fini la crédence de la cuisine.
